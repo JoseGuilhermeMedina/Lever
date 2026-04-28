@@ -1,0 +1,1213 @@
+﻿SKU;Nome do produto;Categoria;Subcategoria;Descricao curta;Descricao completa;Unidade de venda;Qtd por embalagem;Marca;URL da imagem;Status;Estoque;Tem Variacao
+9021000;Cha Diversos Sabores C/10 Saquinhos;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Marata;;Inativo;0;SIM
+1;Teste;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;5;NAO
+160001;Frango A Passarinho Congelado;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160002;Hamburguer De Carne Bovino;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160003;Carne Salgada, Tipo Charque;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160004;Linguiça Toscana;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160005;Linguiça Calabresa;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160006;Queijo Mussarela;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160007;Lasanha De Frango Congelada 600g;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto profissional;;Embalagem (600G);1;;;Inativo;0;NAO
+160008;Feijao Branco;Alimentos - Bebidas e Mercearia;Grãos e Massas;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160009;Feijao Fradinho;Alimentos - Bebidas e Mercearia;Grãos e Massas;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160010;Queijo Catupiry Bisnaga De 1,8kg;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto profissional;;Embalagem (1,8Kg);1;;;Inativo;0;NAO
+160011;Queijo Provolone;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160012;Azeitona Verde Sem Caroço 2,0 KG;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (2,0Kg);1;;;Inativo;0;NAO
+160012-69;Azeitona Verde Sem Caroco Emb.c/2kg Drenado;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (2Kg);1;;;Inativo;0;NAO
+160013;Azeite De Dende 500ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+160014;Catchup De Tomate , 1kg;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (1Kg);1;;;Inativo;0;NAO
+160015;Mostarda Emb 01kg;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (01Kg);1;;;Inativo;0;NAO
+160016;Creme Tipo Chantilly Tetrapack;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160017;Suco Em Lata De 350ml Div.sabores;Alimentos - Bebidas e Mercearia;Sucos e Polpas;Produto profissional;;Frasco (350ml);1;;;Inativo;0;NAO
+160018;Farinha, KG;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160019;Fuba De Milho 500g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+160020;Massa Fresca Para Lasanha 500g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+160021;Polpa De Fruta, Acerola;Alimentos - Bebidas e Mercearia;Sucos e Polpas;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160022;Polpa De Fruta, Goiaba;Alimentos - Bebidas e Mercearia;Sucos e Polpas;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160023;Polpa De Fruta, Caja;Alimentos - Bebidas e Mercearia;Sucos e Polpas;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160024;Polpa De Fruta, Maracuja;Alimentos - Bebidas e Mercearia;Sucos e Polpas;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160025;Polenta Pronta KG;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160026;Sorvete, Diversos Sabores, 100ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (100ml);1;;;Inativo;0;NAO
+160027;Amendoim Torrado S/casca;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160028;Cappuccino Trad 200g;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (200G);1;3Coraçoes;;Inativo;0;NAO
+160029;Cappuccino Diet 200g;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (200G);1;3 Corações;;Inativo;0;NAO
+160030;Leite Ninho Em Po 400g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (400G);1;Nestle;;Inativo;0;NAO
+160032;Doce Em Tablete Tipo Cocada, Emb C/50un;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;50;;;Inativo;0;NAO
+160033;Açucar Refinado KG;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160034;Queijo Processado Blisteres 18g C/144un;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto profissional;;Caixa;144;Jr;;Inativo;0;NAO
+160035;Steak De Frango Empanado;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160036;Pertences Para Feijoada Emb 880g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (880G);1;;;Inativo;0;NAO
+160037;Ovo De Galinha Branco Extra;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160038;Abacaxi;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160039;Alho;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160040;Cenoura;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160041;Coco Seco;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160042;Goiaba Vermelha;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160043;Hortela, Maço;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160044;Laranja Pera;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160045;Limao;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160046;Mamao Formosa Verde;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160047;Manga Tommy;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160048;Manjericao, Maço;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160049;Pepino;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160050;Sal 2500un;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;Jr;;Ativo;2;NAO
+160051;Tomate;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160052;Banana Da Terra;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160053;Doce, Tipo Quindim 50g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (50G);1;;;Inativo;0;NAO
+160054;Batata Inglesa;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160055;Cana-de-açucar;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160056;Cebola Branca;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160057;Cebolinha, Maço;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160058;Coxa E Sobrecoxa De Frango;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160059;Costela Suina;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160060;Salame, Tipo Italiano;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160061;Peito De Peru;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160062;Presunto De Pernil;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160063;Mexilhao;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160064;Lula Em Anel;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160065;Suco, Sabor Uva/laranja, LT;Alimentos - Bebidas e Mercearia;Sucos e Polpas;Produto a granel, medido em LT;;Unidade;1;Marata;;Ativo;84;NAO
+160066;Queijo Minas Frescal;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Ativo;27;NAO
+160067;Queijo Minas Padrao;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160068;Atum Ralado Em Oleo 500g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+160069;Queijo Coalho Barra 2kg;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto profissional;;Embalagem (2Kg);1;;;Ativo;9;NAO
+160070;Bala, Tipo Goma, Sabor Variado;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+160071;Castanha, Origem Caju, Torrada;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+160072;Queijo Parmesao Ralado 100g;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto profissional;;Embalagem (100G);1;;;Inativo;0;NAO
+190031;Amendoim Saquinho De 30g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (30G);1;;;Inativo;0;NAO
+200001;Ervilha 200g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em LT;;Embalagem (200G);1;;;Inativo;0;NAO
+200002;Açucar Cristal KG;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200003;Biscoito Max Goiabinha 30g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (30G);1;;;Inativo;0;NAO
+200004;Biscoito Max Chocolate;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200005;Açucar Sache CX C/400un De 5g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;400;Uniao;;Inativo;0;NAO
+200006;Adoçante Stevia 80ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (80ml);1;Adocyl;;Inativo;0;NAO
+200007;Adoçante Sucralose Sache 400x5g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (5G);1;;;Inativo;0;NAO
+200009;Refrigerante Coca Cola Zero 2lt;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Frasco (2L);1;;;Inativo;0;NAO
+200010;Refrigerante Coca Cola 2,5lt;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Frasco (2L);1;;;Inativo;0;NAO
+200011;Arroz Integral KG;Alimentos - Bebidas e Mercearia;Grãos e Massas;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200012;Vinagre 500ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+200013;Aveia Em Flocos 500g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+200014;Biscoito Maizena 400g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (400G);1;;;Inativo;0;NAO
+200015;Espaguete 500g;Alimentos - Bebidas e Mercearia;Grãos e Massas;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+200016;Doce De Goiaba PCT C/50un;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Pacote;50;Aliança;;Inativo;0;NAO
+200017;Leite Liq Integral;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;Betania;;Inativo;0;NAO
+200018;Sal Refinado KG;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Ativo;10;NAO
+200019;Feijao Carioca KG;Alimentos - Bebidas e Mercearia;Grãos e Massas;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200020;Sardinha Em Lata Molho De Tomate;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200021;Achocolatado Po 350g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (350G);1;Nescau;;Inativo;0;NAO
+200022;Flocos De Milho 500g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+200023;Oleo Soja Pet 900ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (900ml);1;;;Inativo;0;NAO
+200024;Adoçante 100ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (100ml);1;Zero Cal;;Inativo;0;NAO
+200025;Geleia Frutas,div Sab.blisteres 15g, CX C/144;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;1;Jr;;Inativo;0;NAO
+200026;Cereal Matinal 200g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (200G);1;;;Inativo;0;NAO
+200027;Pao, Tipo Forma Fatiado 500g;Alimentos - Panificados;Pães e Panificados;Produto a granel, medido em KG;;Embalagem (500G);1;;;Inativo;0;NAO
+200028;Pao De Coco S/rec. C/cobert. De Coco Ralado 50g;Alimentos - Panificados;Pães e Panificados;Produto a granel, medido em KG;;Embalagem (50G);1;;;Inativo;0;NAO
+200029;Pao De Queijo Cong, Tam Pequeno, PCT 400g;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto profissional;;Pacote;1;;;Inativo;0;NAO
+20003;Cafe A Vacuo Trad 250g;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (250G);1;Uniao/Marata;;Inativo;0;NAO
+200030;Mini Pao Australiano, Cong.s/recheio 25g;Alimentos - Panificados;Pães e Panificados;Produto a granel, medido em KG;;Embalagem (25G);1;;;Inativo;0;NAO
+200031;Mini Croissant Cong. S/recheio,20g;Alimentos - Panificados;Pães e Panificados;Produto profissional;;Embalagem (20G);1;;;Inativo;0;NAO
+200032;Azeitona Verde Fatiada 1,8kg;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (1,8Kg);1;Mucho Gusto;;Inativo;0;NAO
+200033;Molho Shoyo Gota Vd 150ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (150ml);1;;;Inativo;0;NAO
+200034;Agua Mineral Sem Gas, Garrafa 1,5l;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Frasco (1L);1;Diasdavila;;Inativo;0;NAO
+200035;Refrigerante Em Lata 350ml Div.sabores;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Frasco (350ml);1;;;Inativo;0;NAO
+200036;Refrigerante Guarana Pet 1,5;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200037;Refrigerante Limao Pet 1,5;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200038;Refrigerante Laranja Pet 1,5;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200039;Refrigerante Uva Pet 1,5;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200040;Salgados Diversos, Emb. C/100un;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;100;;;Inativo;0;NAO
+200041;Doce Em Tablete Tipo Pe-de-moleque, Emb C/50un;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;50;;;Inativo;0;NAO
+200042;Barra De Cereal Div Sabores;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200043;Pao Brioche 25gr, Pre Assado E Congelado;Alimentos - Panificados;Pães e Panificados;Produto a granel, medido em KG;;Embalagem (25Gr);1;;;Inativo;0;NAO
+200044;Pao Frances De Sal 50g Pre Assado E Congelado;Alimentos - Panificados;Pães e Panificados;Produto a granel, medido em KG;;Embalagem (50G);1;;;Inativo;0;NAO
+200045;Petit Four Salgado Aprox.15g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Embalagem (15G);1;;;Inativo;0;NAO
+200046;Base Em Po Para Preparo De Molho Branco, 900g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (900G);1;;;Inativo;0;NAO
+200047;Doce Chocolate Ao Leite No Minimo 25g C/50unid;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;50;;;Inativo;0;NAO
+200048;Massa Para Pastel, Rolo Com 500g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+200049;Seleta De Legumes Em Conserva 200g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (200G);1;;;Inativo;0;NAO
+200050;Pimenta Tipo Biquinho 190g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (190G);1;;;Inativo;0;NAO
+200051;Manteiga Jr Com Sal 192x10g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (10G);1;;;Inativo;0;NAO
+200052;Molho Bechamel Base Em Po (6,5kg) PCT 900g;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Pacote;1;;;Inativo;0;NAO
+200053;Brocolis Congelado 300g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (300G);1;;;Inativo;0;NAO
+200054;Plastico Bolha 1,20x100m;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200055;Bobina De Papel Ondulado 1,20m;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200056;Papelao Ondulado 60x45x50 Fl Dupla 760g/m²;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (760G);1;;;Inativo;0;NAO
+200057;Manteiga C/sal, Blisteres 10g, CX C/192;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;1;Jr;;Ativo;1;NAO
+200058;Manteiga S/sal, Blisteres 10g, CX C/192;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;1;Jr;;Inativo;0;NAO
+200059;Mel, Blisteres 15g CX C/144un;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;144;;;Inativo;0;NAO
+200060;Açucar Sache 5g 996unid;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (5G);1;Guarany;;Inativo;0;NAO
+200061;Açucar Mascavo , Sache 6g CX C/250 Unid;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;250;Jr;;Inativo;0;NAO
+200062;Adoçante Diet, Sache 8g, CX C/1000 Unid;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Caixa;1000;Jr;;Inativo;0;NAO
+200064;Iogurte Activia Placa C/08unid 200g;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto profissional;;Caixa;8;;;Inativo;0;NAO
+200065;Presunto Rezende;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200066;Margarina Deline Sadia Balde 3kg;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;;;Inativo;0;NAO
+200067;Tapioca;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200068;Prego Sem Cabeça Em Aço Carbono Bitola 10x10;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200069;Prego C/ Cabeça, Aço Carbono, Bitola 13x18;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200070;Camarao Encapotado Na Tapioca;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200071;Papelao Ondulado 47x47x40 Fl Dupla 760g/m²;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (760G);1;;;Inativo;0;NAO
+200072;Torta Confeitada;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200073;Agua Mineral 500ml C/g;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+200074;Molho Ingles Pet 900ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (900ml);1;;;Inativo;0;NAO
+200075;Macarrao Penne 500g;Alimentos - Bebidas e Mercearia;Grãos e Massas;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+200076;Trigo P/kibe 500g;Alimentos - Bebidas e Mercearia;Grãos e Massas;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+200077;Extrato Tomate;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200078;Molho Desid Demi-glace (4,5kg);Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Pacote;1;Pct 900G;;Inativo;0;NAO
+200079;Molho Desidratado Demi-glace;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+20008;Refrigerante, Guarana Dietetico Pet 1,5lt;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Frasco (1L);1;;;Inativo;0;NAO
+200080;Caldo De Carne Po 1,0 KG;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto a granel, medido em KG;;Embalagem (1,0Kg);1;;;Inativo;0;NAO
+200081;Cogumelo Champignon 2,0 KG;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (2,0Kg);1;;;Inativo;0;NAO
+200082;Cogumelo Champignon Inteiro 2,0 KG;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (2,0Kg);1;;;Inativo;0;NAO
+200083;Queijo Gorgonzola;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200084;Shrink Transparente (fortline);Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200085;Bobina Papel Recic 90g Kraft 120x30;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (90G);1;Santex;;Inativo;0;NAO
+200086;Peixe Bacalhau;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200087;Agua Mineral 500ml S/g;Alimentos - Bebidas e Mercearia;Bebidas;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+200088;Macarrao, Tipo Semola, Talharim 500g;Alimentos - Bebidas e Mercearia;Grãos e Massas;Produto profissional;;Embalagem (500G);1;;;Inativo;0;NAO
+200089;Pimenta Do Reino Em Po C/40g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (40G);1;;;Inativo;0;NAO
+200090;Pimenta Do Reino Em Po, KG;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200091;Vinagre Balsamico 500ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+200092;Fruta Em Calda, Goiaba 400g;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (400G);1;;;Inativo;0;NAO
+200093;Ricota Fresca;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+200094;Cesta Basica Gen Alim Montadas C/sacos Reforçados;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200095;Açucar Demerara Sache;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+200096;Bacon;Alimentos - Frios e Proteínas;Carnes e Embutidos;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+20029090;Extrato Tomate Bonare Sache 6x2kg;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (2Kg);1;Goias Verde;;Inativo;0;NAO
+20058000;Milho Verde LT 6x2kg;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (2Kg);1;Goias Verde;;Inativo;0;NAO
+210001;Maionese 3kg;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Embalagem (3Kg);1;;;Inativo;0;NAO
+210011;Eliminador De Oleosidade 1lt;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (1L);1;Hth;;Inativo;0;NAO
+220001;Alcool 70, 05lt;Higiene e Sanitização;Álcool Líquido 70°;Desinfecção de superfícies;;Galão (5L);1;Meyors;;Inativo;0;NAO
+220002;Alcool Gel 500ml;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Frasco (500ml);1;Safra/Dermasoft;;Inativo;0;NAO
+220003;Alcool 70º LT;Higiene e Sanitização;Álcool Líquido 70°;Desinfecção de superfícies;;Unidade;1;Flamagel;;Inativo;0;NAO
+220004;Alcool Gel Barrica P/queima 15lt,13kg;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Barrica (5L);1;Flamagel;;Inativo;0;NAO
+220005;Cafe A Vacuo Trad 250g;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (250G);1;Mellita;;Inativo;0;NAO
+220006;Cafe A Vacuo 250g Extra Forte;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (250G);1;Mellita;;Inativo;0;NAO
+220007;Cafe Trad Vacuo 250g;Alimentos - Bebidas e Mercearia;Café e Chás;Produto a granel, medido em KG;;Embalagem (250G);1;Bom Jesus;;Inativo;0;NAO
+270001;Vaselina 500ml;Químicos;Químicos Gerais;Produto profissional;;Frasco (500ml);1;Ko;;Inativo;0;NAO
+270002;Removedor Muriax - LT;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+270003;Soda Caustica 300g;Químicos;Químicos Gerais;Produto profissional;;Embalagem (300G);1;;;Ativo;4;NAO
+270004;Querosene 500ml;Químicos;Químicos Gerais;Produto profissional;;Frasco (500ml);1;Ko;;Ativo;3;NAO
+270005;Vaselina 1000ml;Químicos;Químicos Gerais;Produto profissional;;Frasco (1000ml);1;Serlimq;;Inativo;0;NAO
+280001;Alumin/influx Al Limpa Aluminio, 05lt;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Galão (5L);1;Insert;;Inativo;0;NAO
+280002;Limpa Aluminio 05lt - Mmv;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+280003;Cloro Para Piscina (purif De Agua) BD 10kg;Produtos de Limpeza;Limpeza Geral;Hipoclorito / Cloro ativo;;Embalagem (10Kg);1;Hth;;Inativo;0;NAO
+280004;Clarificante Maxfloc 1lt;Químicos;Tratamento de Piscina;Produto a granel, medido em LT;;Frasco (1L);1;Hth;;Inativo;0;NAO
+280005;Limpa Bordas 1lt;Produtos de Limpeza;Limpeza Geral;Produto a granel, medido em LT;;Frasco (1L);1;Hth;;Inativo;0;NAO
+280006;Algicida Choque 1lt;Químicos;Tratamento de Piscina;Produto a granel, medido em LT;;Frasco (1L);1;Hth;;Inativo;0;NAO
+280007;Algicida Manutençao (previne Agua Vde) 1lt;Químicos;Tratamento de Piscina;Produto a granel, medido em LT;;Frasco (1L);1;Hth;;Inativo;0;NAO
+280008;Fita Teste C/25 UN;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Caixa;25;Hth;;Inativo;0;NAO
+280009;Cloro Pace Estabilizador 10kg;Químicos;Tratamento de Piscina;Hipoclorito / Cloro ativo;;Embalagem (10Kg);1;Hth;;Inativo;0;NAO
+280010;Redutor De Ph LT;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Unidade;1;Hth;;Inativo;0;NAO
+280011;Elevador De Ph (barrilha Leve) SC 1,5;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Unidade;1;Hth;;Inativo;0;NAO
+280012;Sulfato De Aluminio Em Po 2 KG;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Embalagem (2Kg);1;Hidroazul;;Inativo;0;NAO
+280013;Desincrustante Conc. Sanit Clean 05lt-mercotec;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Galão (5L);1;;;Ativo;5;NAO
+280014;Sulfato De Aluminio Po 2kg;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Embalagem (2Kg);1;Hidroazul;;Inativo;0;NAO
+280015;Limpa Aluminio Azul LT;Produtos de Limpeza;Limpa Alumínio;Produto a granel, medido em LT;;Unidade;1;Serlimq;;Inativo;0;NAO
+280016;Limpador E Polidor Inox Oxy Blue LT;Produtos de Limpeza;Limpeza Geral;Produto a granel, medido em LT;;Unidade;1;Mercotech;;Ativo;3;NAO
+290001;Ironin Removedor, 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Insert;;Inativo;0;NAO
+290002;Incif Deseng. Fornos E Grelhas, 05lt-insert;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+290003;Sanitizante Frutas E Verdura, SC 01kg-duchef - Mmv;Higiene e Sanitização;Sanitizante;Produto profissional;;Embalagem (01Kg);1;;;Ativo;55;NAO
+290004;Tira Ferrugem (remotec) 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Tecnolar;;Ativo;2;NAO
+290005;Veg Sanitiz Futas E Verduras, BD 03 KG;Higiene e Sanitização;Sanitizante;Produto profissional;;Embalagem (03Kg);1;Mercotech;;Inativo;0;NAO
+300001;Touca Tnt Clipada PCT C/100 UN;EPI e Segurança;Vestimenta Descartável;Produto profissional;;Pacote;100;Descarpack;;Inativo;0;NAO
+300002;Mascara Pff2 S Azul S/valula;EPI e Segurança;Máscaras Respiratórias;Proteção respiratória;;Unidade;1;Plastcor;;Inativo;0;NAO
+300003;Mascara Desc.branca Modelo Tipo Ovo;EPI e Segurança;Máscaras Descartáveis;Proteção respiratória;;Unidade;1;;;Inativo;0;NAO
+300004;Balao Assoprar Sao Roque PCT C/50;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;1;;;Inativo;0;NAO
+300005;Mascara Tnt Descartavel CX C/50 UN;EPI e Segurança;Máscaras Descartáveis;Proteção respiratória;;Caixa;50;Volk;;Inativo;0;NAO
+300006;Touca Branca Descart. PCT. C/100un;EPI e Segurança;Vestimenta Descartável;Produto profissional;;Pacote;100;Volk;;Ativo;67;NAO
+300007;Prope CX C/100 Pares;EPI e Segurança;Vestimenta Descartável;Produto profissional;;Caixa;100;Descarpack;;Inativo;0;NAO
+300008;Mascara Po Resp. C/valv- Mask Face Airsafety;Papel e Descartáveis;Descartáveis;Proteção respiratória;;Unidade;1;;;Inativo;0;NAO
+300009;Mascara Cirurgica Tripla CX C/50un;EPI e Segurança;Máscaras Descartáveis;Proteção respiratória;;Caixa;50;Nobre;;Inativo;0;NAO
+32151900;Tinta P/carimbo Azul 40ml;Material de Escritório;Escritório;Produto profissional;;Frasco (40ml);1;Japan;;Ativo;11;SIM
+330001;Purificador De Ar U. Fresh 400ml- Lev&use;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (400ml);1;;;Inativo;0;NAO
+330002;Purificador Refil 12ml Lavanda;Higiene Pessoal;Higiene Geral;Ambiente fresco por horas;;Frasco (12ml);1;Air Wick;;Ativo;46;NAO
+330003;Purificador Spray 90ml;Higiene Pessoal;Higiene Geral;Ambiente fresco por horas;;Frasco (90ml);1;Atol;;Ativo;149;NAO
+330004;Lubrificante A.corrosivo Lubfast 300ml- Mundial;Químicos;Químicos Gerais;Produto profissional;;Frasco (300ml);1;;;Ativo;44;NAO
+330005;Purificador Spray Alfazema 90ml;Higiene Pessoal;Higiene Geral;Ambiente fresco por horas;;Frasco (90ml);1;;;Ativo;24;NAO
+330006;Purificador De Ar 360ml;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (360ml);1;Glade;;Ativo;13;NAO
+330007;Purificador De Ar 350ml Capim Limao;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (350ml);1;Domline;;Ativo;19;NAO
+330008;Purificador De Ar 240ml Primavera;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (240ml);1;Air Nobre;;Inativo;0;NAO
+330009;Creme Dental 90g;Higiene Pessoal;Higiene Pessoal;Produto profissional;;Embalagem (90G);1;Colgate;;Inativo;0;NAO
+330010;Creme De Barbear Mentolado 65g;Higiene Pessoal;Higiene Geral;Produto profissional;;Embalagem (65G);1;Bozzano;;Inativo;0;NAO
+330011;Purificador De Ar 360ml;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (360ml);1;Bom Ar Air Wick;;Inativo;0;NAO
+330012;Purificador De Ar Refil 250ml Lavanda;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (250ml);1;Bom Ar;;Ativo;26;NAO
+330013;Aparelho Purificador De Ar C/ Refil 12ml;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (12ml);1;Domline;;Inativo;0;NAO
+33074900;Aparelho Purificador De Ar C/refil 250ml-bom Ar;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (250ml);1;;;Inativo;0;NAO
+340001;Sabao Em Po Sache 400 Gr;Produtos de Limpeza;Sabão em Pó;Produto profissional;;Embalagem (400Gr);1;Ala;;Inativo;0;NAO
+340002;Sabao Barra Glicerinado PCT. C/ 5x200g;Produtos de Limpeza;Sabão Líquido/Gel;Produto profissional;;Pacote;1;Minuano;;Inativo;0;NAO
+340003;Limpa Vidro 500ml;Produtos de Limpeza;Limpa Vidros;Produto profissional;;Frasco (500ml);1;Dragao/Politriz/Teiu;;Ativo;49;NAO
+340004;Sabao Em Po Sache 400gr Omo Mult;Produtos de Limpeza;Sabão em Pó;Produto profissional;;Embalagem (400Gr);1;;;Ativo;87;NAO
+340005;Limpador Perf Floral, 05 LT, Zilar;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+340006;Limpador Perf Jasmin, 05 LT, Zilar;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+340007;Aromatizante Talco, 05lt- Liz;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Galão (5L);1;;;Inativo;0;NAO
+340008;Limpador Perf Lavanda 05 LT, Zilar;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+340009;Detergente Neutro 05lt;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Galão (5L);1;Atol;;Ativo;3;NAO
+340010;Limpador Desengraxante Pinho Gel, 05 LT;Produtos de Limpeza;Desengraxante;Produto profissional;;Galão (5L);1;Adhetech;;Inativo;0;NAO
+340011;Amonin Detergente Liq Amoniacal, 05lt;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Galão (5L);1;Insert;;Inativo;0;NAO
+340012;Detergin L Deterg.neutro Conc.05lt- Insert;Produtos de Limpeza;Detergente Neutro;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+340013;Multin Limpador Desengraxante, 05lt;Produtos de Limpeza;Desengraxante;Produto profissional;;Galão (5L);1;Insert;;Inativo;0;NAO
+340014;Clean Max Limpa Porcelanato Lavanda 05lt-mercotech;Produtos de Limpeza;Limpa Pisos;Produto profissional;;Galão (5L);1;;;Ativo;24;NAO
+340015;Detergente Super Conc Neutro 05lt;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Galão (5L);1;Mercotech;;Ativo;14;NAO
+340016;Sabao Em Po Sache 500gr;Produtos de Limpeza;Sabão em Pó;Produto profissional;;Embalagem (500Gr);1;Aju/Byebye/Espumil;;Ativo;67;NAO
+340017;Detergente . Desinf. Clorado, 05 LT;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Galão (5L);1;Zilar;;Inativo;0;NAO
+340018;Limpador P/pisos Heavy Clear, 05lt- Adhetech;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+340019;Shampoo Para Carro, 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Ecolimpe;;Inativo;0;NAO
+340020;Polidor De Metais 200ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (200ml);1;Kaol;;Ativo;11;NAO
+340021;Sabao De Coco 200g;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Embalagem (200G);1;Oriental;;Inativo;0;NAO
+340022;Limpador Perfumado Mr Musculo 500ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+340023;Aromatizante Iguatemi 05lt;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Galão (5L);1;Liz;;Inativo;0;NAO
+340024;Sabao Em Pó (primavera) Sache 400 Gr;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Embalagem (400Gr);1;Tixan Ype;;Inativo;0;NAO
+340025;Sabao Em Po 05kg;Produtos de Limpeza;Sabão em Pó;Produto profissional;;Embalagem (05Kg);1;Omo;;Inativo;0;NAO
+340026;Sabonete 20g CX C/500un;Higiene Pessoal;Higiene Pessoal;Fragrância suave, pH neutro;;Caixa;500;Serrazul;;Ativo;54;NAO
+340027;Sabao Em Pasta 500g;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Embalagem (500G);1;Assolan;;Ativo;66;NAO
+340028;Essencia (oleo) De Eucalipto P/sauna 1lt - Mmv;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (1L);1;;;Ativo;7;NAO
+340029;Saponaceo Cremoso 200ml;Produtos de Limpeza;Saponáceo e Pasta;Produto profissional;;Frasco (200ml);1;Mr Musculo;;Ativo;84;NAO
+340030;Neutralizador Odores Antimofo Spray 360ml -d.line;Higiene Pessoal;Neutralizadores de Odor;Produto profissional;;Frasco (360ml);1;;;Inativo;0;NAO
+340031;Detergente Amoniacal Limpa Facil 05lt;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Galão (5L);1;Mercotech;;Ativo;21;NAO
+340032;Limpa Pneu 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Liz;;Inativo;0;NAO
+340033;Saponaceo Cremoso 250ml;Produtos de Limpeza;Saponáceo e Pasta;Produto profissional;;Frasco (250ml);1;Cif;;Inativo;0;NAO
+340034;Aromatizante Div.fragrancias 05 LT;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Galão (5L);1;Serlimq;;Inativo;0;NAO
+340035;Saponaceo Cremoso 450ml;Produtos de Limpeza;Saponáceo e Pasta;Produto profissional;;Frasco (450ml);1;Cif;;Ativo;18;NAO
+340036;Saponaceo Cremoso 300ml;Produtos de Limpeza;Saponáceo e Pasta;Produto profissional;;Frasco (300ml);1;Assolan;;Ativo;72;NAO
+340037;Limpa Porcelanato, LT;Produtos de Limpeza;Limpa Pisos;Produto a granel, medido em LT;;Unidade;1;Proclean;;Inativo;0;NAO
+3401190003;Sabao Barra Neutro 5x200g;Produtos de Limpeza;Sabão Líquido/Gel;Produto profissional;;Embalagem (200G);1;Brisa;;Inativo;0;NAO
+34022000;Agua Sanitaria Multi Perfumada 2lt;Higiene e Sanitização;Água Sanitária;Alvejante e desinfetante;;Frasco (2L);1;Brilux;;Inativo;0;SIM
+35061010;Cola Em Bastao 10g;Material de Escritório;Escritório;Produto profissional;;Embalagem (10G);1;Leo&Leo;;Ativo;1;SIM
+35061090;Cola Branca 90g;Material de Escritório;Escritório;Produto profissional;;Embalagem (90G);1;Frama;;Inativo;0;SIM
+380001;Pedra Sanitaria 25g(emb.cx Indiv.c/ganch) Oriental;Higiene Pessoal;Sanitários e Anti-mofo;Produto profissional;;Caixa;1;;;Inativo;0;NAO
+380002;Naftalina 25g;Higiene Pessoal;Sanitários e Anti-mofo;Produto profissional;;Embalagem (25G);1;;;Inativo;0;NAO
+380003;Cera Liq Inc Auto Brilho 05 LT;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Auto brilho para pisos;;Galão (5L);1;Tecnolar;;Inativo;0;NAO
+380004;Desinf Lavanda 05 L;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;Ressolever;;Inativo;0;NAO
+380005;Desinf Palmolive 05 L Ressolever;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380006;Desinf Vinolia 05 L Ressolever;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380007;Limpa Vidros Vidrex C/gatilho 500ml;Produtos de Limpeza;Limpa Vidros;Produto profissional;;Frasco (500ml);1;Kin Limp;;Inativo;0;NAO
+380008;Multiuso Pratt 05lt;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Galão (5L);1;Indeba;;Ativo;3;NAO
+380009;Sabao Geleia Lavanda 05 LT;Produtos de Limpeza;Sabão Líquido/Gel;Produto profissional;;Galão (5L);1;Serlimq;;Ativo;73;NAO
+380010;Sab. Liq Perolizado Antiseptico, 05lt;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;Meyors;;Inativo;0;NAO
+380011;Pasta Limpeza Geral 500g;Produtos de Limpeza;Saponáceo e Pasta;Produto profissional;;Embalagem (500G);1;Limptek;;Inativo;0;NAO
+380012;Agua Sanitaria;Higiene e Sanitização;Água Sanitária;Alvejante e desinfetante;;Unidade;1;Olimpo/Clorito;;Inativo;0;NAO
+380013;Detergente Neutro 500ml;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Frasco (500ml);1;Mania;;Inativo;0;NAO
+380014;Alcool Gel Valv.pump 500g;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Embalagem (500G);1;Dermasoft;;Inativo;0;NAO
+380015;Balde C/espremedor 2 Aguas (9076) Bettanin;Utensílios de Limpeza;Baldes com Espremedor;Sistema duplo, alta capacidade;;Barrica (5L);1;;;Inativo;0;NAO
+380016;Odorizador De Amb Aer Neutra Fresh 360ml;Higiene Pessoal;Aromatizantes e Purificadores;Produto profissional;;Frasco (360ml);1;Glade;;Inativo;0;NAO
+380017;Limpador Multiuso 500 ML;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Frasco (500ml);1;Qboa/Tudo;;Inativo;0;NAO
+380018;Agua Sanitaria Bca;Higiene e Sanitização;Água Sanitária;Alvejante e desinfetante;;Unidade;1;Brilux;;Inativo;0;NAO
+380019;Agua Sanitaria Multi Perfumada;Higiene e Sanitização;Água Sanitária;Alvejante e desinfetante;;Unidade;1;Brilux;;Inativo;0;NAO
+380020;Detergente Neutro Lava Loucas 05lt;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Galão (5L);1;Meyors;;Inativo;0;NAO
+380021;Cera Liquida Bry Incolor 750ml;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Auto brilho para pisos;;Frasco (750ml);1;;;Inativo;0;NAO
+380022;Limpa Aluminio 500ml;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Frasco (500ml);1;Oriental;;Inativo;0;NAO
+380023;Sab. Liq Perolizado Erva-doce Refil 800ml;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Frasco (800ml);1;;;Ativo;15;NAO
+380024;Alvejante Clorado 1%, 05 LT;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+380025;Limpa Vidros 05 L;Produtos de Limpeza;Limpa Vidros;Produto profissional;;Galão (5L);1;Tecnolar;;Inativo;0;NAO
+380026;Desincrustante 05lt;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Galão (5L);1;Serlimq;;Inativo;0;NAO
+380027;Desinfetante A Base De Quartenario De Amonio 05lt;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380028;Desinfetante Talco BB 5 LT, Zilar;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Barrica (5L);1;;;Inativo;0;NAO
+380029;Sab. Liq Plus Erva Doce, 05 LT, Zilar;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;;;Inativo;0;NAO
+380030;Sab. Liq Pronto Uso Palmo, 05 LT;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;Zilar;;Inativo;0;NAO
+380031;Sabao Geleia Marine 05 LT;Produtos de Limpeza;Sabão Líquido/Gel;Produto profissional;;Galão (5L);1;Serlimq;;Inativo;0;NAO
+380032;Detergente Para Pisos 5lt, Zilar;Produtos de Limpeza;Limpa Pisos;Limpeza industrial;;Galão (5L);1;;;Inativo;0;NAO
+380033;Desengraxante BB 5 LT, Zilar;Produtos de Limpeza;Desengraxante;Produto profissional;;Barrica (5L);1;;;Inativo;0;NAO
+380034;Saponaceo Em Po 300g;Produtos de Limpeza;Saponáceo e Pasta;Produto profissional;;Embalagem (300G);1;Radium;;Ativo;30;NAO
+380035;Desinf.classic Premium Lav 05 L- Adhetech;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380036;Desinf. Classic Plus Floral/lavanda 05 L Adhetech;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380037;Desinf. Classic Primavera Bouquet/floral 05 L Adhe;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380039;Detech Ds Detergente Deseng Conc 05 L- Adhetech;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Galão (5L);1;;;Inativo;0;NAO
+380040;Detech Lp Detergente Limp. Pesada 05 L Adhethec;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Galão (5L);1;;;Inativo;0;NAO
+380041;Fornotech Deseng. Fornos E Grelhas;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Unidade;1;Adhetehc;;Inativo;0;NAO
+380042;Neutech Detergente Neutro Conc 05 L;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Galão (5L);1;Adhethec;;Inativo;0;NAO
+380043;Powertech Detergente Acido 05 L;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Galão (5L);1;Adhethec;;Inativo;0;NAO
+380044;Remocim Removedor De Cimento E Rejunte 05 L Adhete;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+380045;Vasotech Limpador Desincrustante 05 L Adhethec;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+380046;V2 Limpador Desinf.desincrustante 500ml;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Desinfetante profissional;;Frasco (500ml);1;Adhetech;;Inativo;0;NAO
+380047;Desinf. Classic Marine Floral 05 L;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Galão (5L);1;Adhetech;;Inativo;0;NAO
+380048;Masker Neutra Inibidor De Odores 05 L;Higiene Pessoal;Neutralizadores de Odor;Produto profissional;;Galão (5L);1;Adhethec;;Inativo;0;NAO
+380049;Sab. Liq Perolizado Floral 05lt;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;Meyors;;Ativo;3;NAO
+380050;Detergente Neutro 05 LT;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Galão (5L);1;Serlimq;;Inativo;0;NAO
+380051;Cera Liq. Vermelha Auto Brilho, 05 LT;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Auto brilho para pisos;;Galão (5L);1;Tecnolar;;Inativo;0;NAO
+380052;Limpador Multiuso Trad 500 ML;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Frasco (500ml);1;Veja;;Inativo;0;NAO
+380053;Sab. Liq P/uso Ressoap Lfsoft, E.doce05lt-ressolev;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;;;Inativo;0;NAO
+380055;Desinfetante Palmolive 05 LT, Zilar;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380056;Desinfetante Bact Floresta 05 LT- Tecnolar;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380057;Desengraxante 05 LT;Produtos de Limpeza;Desengraxante;Produto profissional;;Galão (5L);1;Serlimq/Tecnolar;;Inativo;0;NAO
+380059;Desinf. Adheclor Clorado Po GL 03 KG;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Embalagem (03Kg);1;Adhetech;;Inativo;0;NAO
+380060;Deterg. Amontech Amoniacal Verm - 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Adhetech;;Inativo;0;NAO
+380061;Detergente 500ml;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Frasco (500ml);1;Ype/Minuano;;Inativo;0;NAO
+380062;Acabamento Acril. Auto Brilho Shine 05l;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Adhetech;;Inativo;0;NAO
+380063;Lustra Moveis 200ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (200ml);1;Peroba;;Inativo;0;NAO
+380064;Oleo P/moveis 100ml;Alimentos - Bebidas e Mercearia;Mercearia Geral;Produto profissional;;Frasco (100ml);1;Peroba;;Inativo;0;NAO
+380065;Limpador Multi E L.vidros Blintech, 05lt-adhetech;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Galão (5L);1;;;Inativo;0;NAO
+380066;Cera Sucess Auto Brilho, 05 LT;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Auto brilho para pisos;;Galão (5L);1;Adhetech;;Inativo;0;NAO
+380067;Selador Acrilico Cryl 05 LT, Adhetech;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+380068;Sab. Liq.peroliz Handtech E.doce, 05lt-adhetech;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;;;Inativo;0;NAO
+380069;Removedor De Ceras Remotech Cr Bld 20 Lt-adhetech;Limpeza - Pisos e Ceras;Removedores de Cera;Auto brilho para pisos;;Galão (20L);1;;;Inativo;0;NAO
+380070;Limpador Multiuso Conc, 05 LT;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Galão (5L);1;Meyors;;Ativo;3;NAO
+380071;Sab. Liq.peroliz (jabutic/manga,palm) 05lt-serlimq;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;;;Ativo;44;NAO
+380072;Limpador Multiuso Lima Limao 500ml;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Frasco (500ml);1;;;Inativo;0;NAO
+380073;Alcool Gel Hand Chc Anti Septico 800ml;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Frasco (800ml);1;Adhetech;;Inativo;0;NAO
+380074;Alcool Gel 70% 05lt Sense - Mmv;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Galão (5L);1;;;Inativo;0;NAO
+380075;Sab. Espuma 500ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (500ml);1;Exaccta;;Ativo;9;NAO
+380076;Sabonete Espuma Lirio Pratt 05lt;Produtos de Limpeza;Limpeza Geral;Fragrância suave, pH neutro;;Galão (5L);1;Indeba;;Ativo;3;NAO
+380077;Alcool Gel 70% Anti-septico 05lt;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Galão (5L);1;Dermasoft;;Inativo;0;NAO
+380078;Amaciante De Roupas Pratt 05 LT;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Indeba;;Ativo;4;NAO
+380079;Detergente Po Max Gold Conc.20 KG - Mmv;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Saco;1;;;Inativo;0;NAO
+380080;Desin 40 Desinfetante Lavanda , 05lt;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;Insert;;Inativo;0;NAO
+380081;Cloro Po Clor Max Gold 20 KG - Mmv;Produtos de Limpeza;Limpeza Geral;Hipoclorito / Cloro ativo;;Embalagem (20Kg);1;;;Inativo;0;NAO
+380082;Desinfetante Conc Mult Flower Marine 05lt;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;Liz;;Inativo;0;NAO
+380083;Vulcao Negro 500ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+380084;Desin F E Desin N Desinfetante, 05 LT;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;Insert;;Inativo;0;NAO
+380085;Desin Lipto Desinfetante Eucalipto, 05 LT;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;Insert;;Inativo;0;NAO
+380086;Agua Sanitaria LT;Higiene e Sanitização;Água Sanitária;Alvejante e desinfetante;;Unidade;1;Qboa;;Inativo;0;NAO
+380087;Desinfetante Pinho Sol Lavanda 500ml;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Frasco (500ml);1;;;Ativo;15;NAO
+380088;Desinf Pinho/eucal/lavanda 500ml;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Frasco (500ml);1;Mania;;Ativo;10;NAO
+380089;Desinfetante Pinho 500ml;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Frasco (500ml);1;Lisa;;Inativo;0;NAO
+380090;Acidulante Para Roupas Gold Max 20 KG - Mmv;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Embalagem (20Kg);1;;;Inativo;0;NAO
+380091;Desinf Conc Quart.amonia Diluiç.1:20 5l-indeba;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Ativo;18;NAO
+380092;Desinfetante Floral 05lt-seven;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380093;Alcool Gel 70º 500ml Flip Top;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Frasco (500ml);1;Safra/Dermasoft;;Inativo;0;NAO
+380094;Hipoclorito A 10%-12% 05lt;Higiene e Sanitização;Hipoclorito / Cloro Ativo;Hipoclorito / Cloro ativo;;Galão (5L);1;Serlimq;;Inativo;0;NAO
+380095;Desinfetante Bact Serdin (div Aromas) 05l -serlimq;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380096;Limpador Multiuso , 05lt;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Galão (5L);1;Serlimq/Tecnolar;;Inativo;0;NAO
+380097;Sab. Liq P/uso Erva-doce 05lt;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;Ecolimpe;;Ativo;8;NAO
+380098;Sab.liq Perolizado (erva Doce/dove) 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Serlimq;;Inativo;0;NAO
+380099;Detergente Neutro, 05lt;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Galão (5L);1;Liz;;Inativo;0;NAO
+380100;Sabao Geleia Pinho 05 LT;Produtos de Limpeza;Sabão Líquido/Gel;Produto profissional;;Galão (5L);1;Serlimq;;Inativo;0;NAO
+380101;Limpa Vidros 05lt;Produtos de Limpeza;Limpa Vidros;Produto profissional;;Galão (5L);1;Serlimq/Tecnolar;;Ativo;11;NAO
+380102;Brilha Inox 400ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (400ml);1;Scoth Brite 3M;;Ativo;8;NAO
+380103;Essencia De Eucalipto P/sauna 500ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (500ml);1;Ressolever;;Inativo;0;NAO
+380104;Pasta Cristal Multiuso Rosa 500g;Produtos de Limpeza;Saponáceo e Pasta;Uso geral em superfícies;;Embalagem (500G);1;Urca;;Inativo;0;NAO
+380105;Aromat/neutraliz De Odores Bamboo LT;Produtos de Limpeza;Limpeza Geral;Produto a granel, medido em LT;;Unidade;1;;;Ativo;24;NAO
+380106;Limpador Perf Casa E Perfume 500ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+380107;Cera Impermeabilizante Tripla Ação, 05lt;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Auto brilho para pisos;;Galão (5L);1;Briosol;;Inativo;0;NAO
+380108;Impermeabilizante A. Brilho(cod147), 05lt;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Produto profissional;;Galão (5L);1;Meyors;;Inativo;0;NAO
+380109;Removedor De Cera Master(cod 53), 05lt;Limpeza - Pisos e Ceras;Removedores de Cera;Auto brilho para pisos;;Galão (5L);1;Meyors;;Inativo;0;NAO
+380110;Selador Master (cod 148), 05lt;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Produto profissional;;Galão (5L);1;Meyors;;Inativo;0;NAO
+380111;Detergente Neutro 20lt;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Galão (20L);1;Tecnolar;;Inativo;0;NAO
+380112;Cera Base Carnauba, 05lt;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Auto brilho para pisos;;Galão (5L);1;Ressolever;;Inativo;0;NAO
+380139;Inseticida 360ml Aerosol;Higiene Pessoal;Inseticidas;Aerossol de ação rápida;;Frasco (360ml);1;Baygon;;Inativo;0;NAO
+380140;Desinfetante 750ml Lav/eucalip.;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Frasco (750ml);1;Atol;;Inativo;0;NAO
+380141;Pastilha Adesiva Sanit.lavan C/3 UN;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Caixa;3;Pato;;Inativo;0;NAO
+380142;Desengraxante 50 LT;Produtos de Limpeza;Desengraxante;Produto profissional;;Galão (50L);1;Liz;;Inativo;0;NAO
+380143;Alvex Soft (deseng Neutro) 05lt - Mmv;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+380144;Desinfetante Soft Gold 05lt - Mmv;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380145;Decap 05lt - Mmv;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+380146;Desinfetante Floral 02lt;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Frasco (2L);1;Lisa;;Inativo;0;NAO
+380147;Pasta Umectante 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Ressolever;;Inativo;0;NAO
+380148;Detergente Neutro Pratt Conc 05lt;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Galão (5L);1;Indeba;;Inativo;0;NAO
+380149;Alcool 70º Liquido 05lt(aut Anvisa);Higiene e Sanitização;Álcool Líquido 70°;Desinfecção de superfícies;;Galão (5L);1;Flamagel;;Inativo;0;NAO
+380150;Limpador Perfumado 500ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (500ml);1;Oriental;;Inativo;0;NAO
+380151;Amaciante De Roupas Confort 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Serlimq;;Ativo;6;NAO
+380152;Desincrustante Det Acido Tecnolimp 05lt;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Galão (5L);1;Tecnola;;Inativo;0;NAO
+380153;Cera Liq Verde Auto Brilho 05lt;Limpeza - Pisos e Ceras;Ceras e Impermeabilizantes;Auto brilho para pisos;;Galão (5L);1;Tecnolar;;Inativo;0;NAO
+380154;Alvatec (alvejante Gelatinoso) 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Tecnolar;;Inativo;0;NAO
+380155;Sabonete Perolizado Conc Lirio Pratt,05 Lt-indeba;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;;;Ativo;2;NAO
+380156;Lixeira Selet Basc 60lt 49x37 Azul(papel)- Santana;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (60L);1;;;Ativo;7;NAO
+380158;Ufenol (creolina) 900ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (900ml);1;;;Inativo;0;NAO
+380159;Papel Hig 8x300, 300m, 100% Celulose;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Ideal;;Ativo;7;NAO
+380160;Anti Mofo 30g (canela E Jasmin);Higiene Pessoal;Sanitários e Anti-mofo;Produto profissional;;Embalagem (30G);1;Oriental;;Inativo;0;NAO
+380161;Brilha Inox 300ml Aerosol;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (300ml);1;Leve&Uze;;Inativo;0;NAO
+380162;Limpador Limpeza Pesada C/alcool 500ml;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Desinfecção de superfícies;;Frasco (500ml);1;Veja;;Ativo;118;NAO
+380163;Anti Mofo 180g;Higiene Pessoal;Sanitários e Anti-mofo;Produto profissional;;Embalagem (180G);1;Secar/Durasol;;Inativo;0;NAO
+380164;Sab Liq Perol Conc Erva-doce Incol 05lt- Mercotech;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Galão (5L);1;;;Inativo;0;NAO
+380165;Brilha Aluminio Conc. 05lt;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Galão (5L);1;Mercotech;;Ativo;34;NAO
+380166;Detergente Neutro 2lt;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Frasco (2L);1;Lisa;;Inativo;0;NAO
+380167;Desinf Limp Casaflor (desire, Dreams,orqui) 500ml;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+380168;Detergente Neutro/limao 500ml;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Frasco (500ml);1;Izabelli;;Inativo;0;NAO
+380169;Porta Hig Em Rolo 300mt Bco;Equipamentos de Higiene;Porta Papel Higiênico;Produto profissional;;Unidade;1;Trilha;;Inativo;0;NAO
+380170;Thinner 01lt;Químicos;Químicos Gerais;Produto profissional;;Frasco (1L);1;Soprelusa;;Inativo;0;NAO
+380178;Sab. Espuma 5lt (erva-doce E Dove);Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Serlimq;;Inativo;0;NAO
+380179;Mercotech 100 Lat Deterg.deseng.alcalin Conc 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Ativo;40;NAO
+380180;Detclor Deterg.mult.alvej.conc. 05 Lt-indeba;Produtos de Limpeza;Detergente Desinfetante;Produto profissional;;Galão (5L);1;;;Ativo;21;NAO
+380181;Sab. Liq Perolizado Erva-doce, LT;Produtos de Limpeza;Sabonete Líquido;Fragrância suave, pH neutro;;Unidade;1;;;Ativo;96;NAO
+380182;Neutralizador Odores Eucalipto Aromatec -tecnolar;Higiene Pessoal;Neutralizadores de Odor;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+380183;Deter Clor Detergente Clorado 05lt - Mmv;Produtos de Limpeza;Detergente Desinfetante;Limpeza industrial;;Galão (5L);1;;;Ativo;20;NAO
+380184;Lustra Moveis 100ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (100ml);1;Nobre;;Inativo;0;NAO
+380185;Detergente 500ml Neutro;Produtos de Limpeza;Limpeza Geral;Limpeza industrial;;Frasco (500ml);1;Atol;;Inativo;0;NAO
+380186;Aromat/desinf Conc Tech Prime Fresh 05lt;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;Mercote;;Ativo;64;NAO
+380187;Grill Deseng. Fornos E Grelhas, 05lt- Mercotech;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;;;Inativo;0;NAO
+380188;Lethaclor (hipoclorito 10%);Higiene e Sanitização;Hipoclorito / Cloro Ativo;Hipoclorito / Cloro ativo;;Unidade;1;Indeba;;Inativo;0;NAO
+380189;Desinf/aromatizante Conc Floral 05lt- Mercotech;Higiene Pessoal;Aromatizantes e Purificadores;Desinfetante profissional;;Galão (5L);1;;;Inativo;0;NAO
+380190;Ceramica E Azulejos Limpador Azulim LT;Produtos de Limpeza;Limpeza Geral;Auto brilho para pisos;;Unidade;1;;;Ativo;28;NAO
+380191;Det.acido Concentrado (limpa Pedras);Produtos de Limpeza;Limpeza Geral;Produto profissional;;Unidade;1;Meyors;;Inativo;0;NAO
+380192;Det. Neutro Conc (limpa Porcel Neutro);Produtos de Limpeza;Limpeza Geral;Produto profissional;;Unidade;1;Meyors;;Inativo;0;NAO
+380193;Aromatizante Ambiente Conc 140ml-capim Limao-nobre;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Frasco (140ml);1;;;Ativo;8;NAO
+380194;Inseticida 380ml Aerosol;Higiene Pessoal;Inseticidas;Aerossol de ação rápida;;Frasco (380ml);1;Sbp;;Inativo;0;NAO
+380195;Limpador Cloro Ativo 2x1 Limpeza Pesada;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Hipoclorito / Cloro ativo;;Unidade;1;Veja;;Inativo;0;NAO
+380196;Limpa Vidros 500ml;Produtos de Limpeza;Limpa Vidros;Produto profissional;;Frasco (500ml);1;Veja;;Inativo;0;NAO
+380197;Vag 500 - Mmv;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Unidade;1;;;Ativo;1;NAO
+380198;Limpa Porcel,/vidros Porcelain 05lt;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Galão (5L);1;Mercotech;;Ativo;16;NAO
+380199;Multiuso Conc 05lt;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Galão (5L);1;Mercotech;;Ativo;3;NAO
+380200;Multiuso Conc 05lt Diluiçao 1 Até 80;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Galão (5L);1;;;Inativo;0;NAO
+380201;Agua Copo 200ml;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (200ml);1;;;Inativo;0;NAO
+380202;Limpa Vidros LT;Produtos de Limpeza;Limpa Vidros;Produto a granel, medido em LT;;Unidade;1;Serlimq;;Inativo;0;NAO
+380204;Aromat/desinf Conc Tech Prime Lavanda 05lt-mercote;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Galão (5L);1;;;Ativo;49;NAO
+380208;Limpador Desengraxante Floresta Pratt Ultra-indeba;Produtos de Limpeza;Desengraxante;Produto profissional;;Unidade;1;;;Ativo;115;NAO
+380209;Hygiform Liso Clean Bact 400ml Aerosol;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Frasco (400ml);1;;;Inativo;0;NAO
+380210;Cloro Liquido Hipogold 10%, BB 20lt - Mmv;Higiene e Sanitização;Hipoclorito / Cloro Ativo;Hipoclorito / Cloro ativo;;Barrica (5L);1;;;Inativo;0;NAO
+380211;Clor Liq-tira Mancha 20l BB 20lt;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Barrica (5L);1;Meyors;;Inativo;0;NAO
+380212;Pos Obra Conc Decapante Acido Pratt;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Unidade;1;Indeba;;Ativo;26;NAO
+380213;Sabao Geleia Floral 05lt;Produtos de Limpeza;Sabão Líquido/Gel;Produto profissional;;Galão (5L);1;Serlimq;;Ativo;42;NAO
+380214;Detergente Neutro Floral Pratt Conc 05lt;Produtos de Limpeza;Detergente Neutro;Limpeza industrial;;Galão (5L);1;Indeba;;Ativo;3;NAO
+380215;Desinf/aromat Pratt Conc Citronela 05lt;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Galão (5L);1;Indeba;;Ativo;58;NAO
+380216;Desinf/aromat Pratt Conc Floral 05lt;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Galão (5L);1;Indeba;;Ativo;20;NAO
+380217;Desinf/aromat Pratt Conc Citrico 05lt;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Galão (5L);1;Indeba;;Ativo;26;NAO
+380218;Desinf/aromat Pratt Conc Limao Bosque 05lt-indeba;Produtos de Limpeza;Limpeza Geral;Desinfetante profissional;;Galão (5L);1;;;Ativo;46;NAO
+380219;Desinfetante Bloco Caixa Acoplada;Higiene e Sanitização;Desinfetante;Desinfetante profissional;;Unidade;1;Pato;;Inativo;0;NAO
+380220;Pastilha Adesiva Sanit.lavan C/3 UN;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Caixa;3;Radiante;;Ativo;29;NAO
+380221;Pedra Sanitaria 25g(emb.cx Indiv.c/ganch) Polial;Higiene Pessoal;Sanitários e Anti-mofo;Produto profissional;;Caixa;1;;;Ativo;504;NAO
+38089401;Hipoclorito 1% A 2% (alvej Clorado) 05 LT- Serlimq;Higiene e Sanitização;Hipoclorito / Cloro Ativo;Hipoclorito / Cloro ativo;;Galão (5L);1;;;Inativo;0;NAO
+38089419;Pace Tripla Açao 200g;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Embalagem (200G);1;Hth;;Inativo;0;SIM
+38099141;Neutralizador De Odores Bouquet 05lt;Higiene Pessoal;Neutralizadores de Odor;Produto profissional;;Galão (5L);1;Briosol;;Inativo;0;NAO
+38249029;Corretivo Liq 18ml;Material de Escritório;Escritório;Produto profissional;;Frasco (18ml);1;Frama;;Ativo;14;SIM
+38249049;Estojo Teste Kit;Produtos de Limpeza;Limpeza Geral;Produto profissional;;Unidade;1;Hth;;Inativo;0;NAO
+390001;Fio De Corte 3,00 X 300mt Sthil;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390002;Saco P/lixo 60 LT Preto 55x62;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (60L);1;Rava;;Ativo;77;NAO
+390003;Saco P/lixo 100 LT Amarelo;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Ecomax;;Ativo;3;NAO
+390004;Saco P/lixo 200 LT Preto Super Ref;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;Fortart;;Ativo;97;NAO
+390005;Saco P/lixo 200 LT Branco;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;Ic;;Inativo;0;NAO
+390006;Copo Desc 200ml Poliprop.(pp) Bco;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Frasco (200ml);1;Copocchio;;Inativo;0;NAO
+390007;Copo Desc 200ml Poliprop,(pp) Transp;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Frasco (200ml);1;Copocchio;;Inativo;0;NAO
+390008;Copo Desc 50 ML Pp C/100 UN;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Caixa;100;;;Inativo;0;NAO
+390009;Lavadora Alta Pressao 1850w;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390010;Balde C/espremedor 14lt Bettanin/perfect (9230);Utensílios de Limpeza;Baldes com Espremedor;Sistema duplo, alta capacidade;;Barrica (5L);1;;;Ativo;5;NAO
+390011;Saboneteira Inox 500ml;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Frasco (500ml);1;Nobre;;Inativo;0;NAO
+390012;Saco P/lixo 20 LT Preto;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (20L);1;Ic;;Inativo;0;NAO
+390013;Saco P/lixo 40 LT Preto;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (40L);1;Emmap;;Ativo;2;NAO
+390014;Saco P/lixo 100 LT Preto Comum 70x80;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Rava;;Ativo;36;NAO
+390015;Saco P/lixo 60 LT Branco;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (60L);1;Emmap;;Ativo;15;NAO
+390016;Saboneteira C/reserv 800ml Bca Liac810-infinity;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Frasco (800ml);1;;;Inativo;0;NAO
+390017;Saboneteira S/reserv Infinity;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;Fortcom;;Inativo;0;NAO
+390018;Porta Papel Hig Bco Rolo Liae500;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Infinity;;Ativo;15;NAO
+390019;Porta Papel Toalha Bco Interf-infinity Liah100;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;;;Inativo;0;NAO
+390020;Tela Para Mictorio (sp9102az);Utensílios de Limpeza;Telas para Mictório;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390021;Luva Latex Amarela G;EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Unidade;1;Volk/Mucambo;;Ativo;65;NAO
+390022;Saco P/lixo 200 LT Mic 08 Ref Preto;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;Fortart;;Inativo;0;NAO
+390023;Saco P/lixo 60 LT Branco 55x62;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (60L);1;Rava;;Inativo;0;NAO
+390024;Pa P/lixo Plastica Cabo Longo;Utensílios de Limpeza;Pás para Lixo;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390025;Balde Plastico 20lt;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;;;Inativo;0;NAO
+390026;Balde Plast Concreto 10lt;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;Arqplast;;Inativo;0;NAO
+390027;Vassoura Pelo V-20 Plástica 30cm;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Ativo;67;NAO
+390028;Luva Vinil Transp C/ Amido CX C/100 UN G;EPI e Segurança;Luvas de Procedimento;Sem pó, caixa c/ 100;;Caixa;100;Volk;;Inativo;0;NAO
+390029;Saco P/lixo 20 LT Azul;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (20L);1;Rv;;Ativo;2;NAO
+390030;Saco Transparente 40x60 (bobina Picotada);Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390031;Pulverizador(lar/ Vde) Reforçado- 500ml;Utensílios de Limpeza;Pulverizadores;Produto profissional;;Frasco (500ml);1;Guarany;;Ativo;454;NAO
+390032;Pulverizador 500ml Leitoso Transp;Utensílios de Limpeza;Pulverizadores;Produto profissional;;Frasco (500ml);1;Guarany;;Ativo;75;NAO
+390033;Saco P/lixo 20 LT Branco 40x45cm;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (20L);1;Rava;;Inativo;0;NAO
+390034;Saco P/lixo 400 LT Preto Ref.;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (400L);1;Emmap;;Inativo;0;NAO
+390035;Saco P/lixo 40 LT Branco 45x55;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (40L);1;Rava;;Inativo;0;NAO
+390036;Canudo Biodeg, PCT C/ 100un;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;1;Theoto Eco;;Inativo;0;NAO
+390037;Bico De Mangueira C/gatilho;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Inativo;0;NAO
+390038;Bobina Transp Picotada 40 X 60;Papel e Descartáveis;Descartáveis;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+390039;Refil Borracha Para Rodo 40 Cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Ativo;32;NAO
+390040;Refil Borracha Para Rodo 60 Cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Inativo;0;NAO
+390041;Refil Borracha Para Rodo 100cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Ativo;23;NAO
+390042;Cesto 30x24 14 LT Cinza;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (14L);1;Bralimpia;;Inativo;0;NAO
+390043;Balde Esprem Doblo 2 Aguas 30lt Amare;Utensílios de Limpeza;Baldes com Espremedor;Sistema duplo, alta capacidade;;Barrica (5L);1;Bralimpia;;Inativo;0;NAO
+390044;Luva Para Aplicador De Cera 35cm, Bralimpia;Papel e Descartáveis;Descartáveis;Auto brilho para pisos;;Unidade;1;;;Ativo;5;NAO
+390045;"Placa Sinal ""piso Molhado""";Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Nobre;;Ativo;27;NAO
+390046;Palito De Dente PCT De 25 C/100un;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;100;;;Ativo;3;NAO
+390047;Papel Aluminio 30x100mt;Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;Thermoprat;;Inativo;0;NAO
+390048;Reservatorio P/saboneteira Jofel;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;;;Inativo;0;NAO
+390049;Reservatorio P/saboneteira;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;Dropy Ldrs630;;Ativo;14;NAO
+390050;Sabonet/alcool Gel Box Crist400ml Infinitylicl400;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Frasco (400ml);1;;;Inativo;0;NAO
+390051;Pa Articulada Coletora C/tampa;Utensílios de Limpeza;Pás para Lixo;Produto profissional;;Unidade;1;Bettanin;;Ativo;34;NAO
+390052;Capa P/chuva Amarela;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Brascamp;;Ativo;6;NAO
+390053;Refil Borracha Para Rodo 50 Cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Ativo;20;NAO
+390054;Refil Borracha Para Rodo 80 Cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Ativo;4;NAO
+390055;Saco P/lixo 100 LT Branco Infectante 70x80;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Rava;;Ativo;37;NAO
+390056;Cesto 12 LT S/tampa Branco;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (12L);1;Plasvale;;Ativo;10;NAO
+390057;Luva Latex Azul, Tam G;EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Unidade;1;Volk;;Inativo;0;NAO
+390058;Suporte Manual Minilock;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Rubbermaid;;Ativo;12;NAO
+390059;Suporte Minilock (9516);Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;78;NAO
+390060;Tela Para Mictorio Amarela;Utensílios de Limpeza;Telas para Mictório;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+390061;Tela Para Mictorio Azul;Utensílios de Limpeza;Telas para Mictório;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+390062;Tela Para Mictorio Verde;Utensílios de Limpeza;Telas para Mictório;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+390063;Cesto 30x24 14 LT Branco S/tampa;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (14L);1;;;Inativo;0;NAO
+390064;Contentor 240 LT C/rodas (mod Europeu) Azul-nobre;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (240L);1;;;Inativo;0;NAO
+390065;Contentor 240 LT Branco;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (240L);1;Larplasticos;;Inativo;0;NAO
+390066;Contentor 120 LT Bco, S/pedal;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (120L);1;Larplastico;;Inativo;0;NAO
+390067;Contentor 120lt C/rodas (mod Europeu) Verde- Nobre;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (120L);1;;;Inativo;0;NAO
+390068;Contentor 120 LT C/rodas (mod Europeu) Azul- Nobre;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (120L);1;;;Inativo;0;NAO
+390069;Contentor 120lt C/rodas (mod Europeu) Verde- Nobre;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (120L);1;;;Ativo;2;NAO
+390070;Saco P/lixo 100 LT Marrom;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Ecomax;;Ativo;3;NAO
+390071;Copo Desc 200ml Transp. Pp;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Frasco (200ml);1;Isocopos;;Ativo;342;NAO
+390072;Copo Desc. Acrilico 300ml C/100 UN;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Caixa;100;Copocchio;;Inativo;0;NAO
+390073;Filme Pvc 38 X 400mt;Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;;;Ativo;12;NAO
+390074;Papel Aluminio 30x4mt;Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;Life Clean;;Ativo;54;NAO
+390075;Balde C/ Tampa De 60 LT;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;;;Inativo;0;NAO
+390076;Palito De Dente CX C/100 UN;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;100;;;Inativo;0;NAO
+390077;Saco P/lixo 100 LT Verde;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Ecomax;;Ativo;3;NAO
+390078;Saco P/lixo 200 LT Branco Ref;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;;;Inativo;0;NAO
+390079;Saco P/lixo 100 LT Azul 70x80;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Rava;;Ativo;30;NAO
+390080;Saco P/lixo 100 LT Vermelho Comum;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;;;Ativo;2;NAO
+390081;Saco P/lixo 100 LT Preto Reforçado Mic 7;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Emmap;;Inativo;0;NAO
+390082;Saco P/lixo 100 LT Branco 70x84;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Rava;;Inativo;0;NAO
+390084;Saco P/lixo 400 LT, Preto Ref.;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (400L);1;Emmap;;Inativo;0;NAO
+390085;Saco P/lixo 200 LT Verde;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;;;Ativo;5;NAO
+390086;Pa P/lixo De Chapa Cabo Longo;Utensílios de Limpeza;Pás para Lixo;Produto profissional;;Unidade;1;;;Ativo;1;NAO
+390087;Luva Verniz Verde Reforçada Tam G;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;Volk;;Ativo;137;NAO
+390088;Luva Latex Amarela P;EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Unidade;1;Volk;;Inativo;0;NAO
+390089;Reservatorio P/saboneteira 800ml;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Frasco (800ml);1;;;Ativo;141;NAO
+390090;Porta Papel Toalha Bco Interf;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;Nobre;;Inativo;0;NAO
+390091;Porta Papel Hig Bco Rolo 300/500mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Nobre;;Ativo;9;NAO
+390092;Sabonet/porta Alcool Gel C/reserv Bca 800ml-nobre;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Frasco (800ml);1;;;Ativo;42;NAO
+390093;Tampa P/reservatorio 800ml;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (800ml);1;Nobre;;Inativo;0;NAO
+390094;Saco P/lixo 200 LT Branco;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;Rv;;Inativo;0;NAO
+390095;Saco P/lixo 200 LT Preto 83x97cm;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;Rava;;Inativo;0;NAO
+390096;Luva Pigmentada Pano PAR (tam.unico)- Volk;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390097;Porta Hig Interf(cai Cai) Liah700-infinity Fortcom;Equipamentos de Higiene;Porta Papel Higiênico;Produto profissional;;Unidade;1;;;Ativo;16;NAO
+390098;Saboneteira P/sab.espuma Infinity;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;Fortcom;;Ativo;5;NAO
+390099;Saco P/lixo 20 LT Branco FD C/20 PCT- Rava;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Pacote;1;;;Inativo;0;NAO
+390100;Luva Vinil Transp C/ Amido CX C/100 UN M;EPI e Segurança;Luvas de Procedimento;Sem pó, caixa c/ 100;;Caixa;100;Volk;;Inativo;0;NAO
+390101;Saco P/lixo 20 LT Preto 38x45;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (20L);1;Rava;;Inativo;0;NAO
+390102;Saco P/lixo 60 LT Azul 55x67;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (60L);1;Embraplast;;Ativo;80;NAO
+390103;Saco P/lixo 60 LT 55x62 Azul;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (60L);1;Rava;;Ativo;5;NAO
+390104;Tampa Plast. P/copo Desc. 100ml C/2000;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Frasco (100ml);1;;;Inativo;0;NAO
+390105;Cesto 15lt (ver, Az E Amar) C/tampa Flip Top 24x34;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (15L);1;;;Inativo;0;NAO
+390106;Luva Latex Amarela M;EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Unidade;1;Volk;;Inativo;0;NAO
+390107;Saco P/lixo 60 LT Branco Infectante 50x77;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (60L);1;Rava;;Ativo;14;NAO
+390108;Copo Termico Isopor 100ml 40x25;Papel e Descartáveis;Copos Descartáveis;Produto profissional;;Frasco (100ml);1;;;Inativo;0;NAO
+390109;Saco P/lixo 200 LT Preto Reforç. Mic 7;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;Emmap;;Inativo;0;NAO
+390110;Saco P/lixo 100 LT Preto Reforçado;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Fortart;;Inativo;0;NAO
+390111;Saco P/lixo 60 LT Preto 55x70;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (60L);1;Embraplast;;Ativo;60;NAO
+390113;Cesto Telado 08 LT (cores Diversas);Equipamentos de Higiene;Cestos;Produto profissional;;Galão (8L);1;;;Inativo;0;NAO
+390114;Pote P/sobremesa, CX C/1000un;Papel e Descartáveis;Pratos e Bandejas;Produto profissional;;Caixa;1000;;;Inativo;0;NAO
+390116;Lixeira C/poste Papeleira 50 Litros C/suporte Aço;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390117;Lixeira Bca 25lt C/pedal Alta Resist;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (25L);1;Larplastico;;Ativo;4;NAO
+390118;Porta Copos Agua Modelo Cancum;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Jsn;;Inativo;0;NAO
+390119;Luva Verniz Verde Reforçada Tam M;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;Volk;;Ativo;54;NAO
+390120;Luva Latex Azul, Tam M;EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Unidade;1;Volk;;Inativo;0;NAO
+390121;Saco P/lixo 100 LT Preto Reforçado;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (100L);1;Fortart;;Inativo;0;NAO
+390122;Filtro De Papel Nr.103;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Melitta;;Inativo;0;NAO
+390123;Filtro De Papel Nr. 102;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;162;NAO
+390124;Organizador Mini Alto 3,25l 945;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (3L);1;Sanremo;;Inativo;0;NAO
+390125;Organizador Baixo 8l 910;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (8L);1;Sanremo;;Inativo;0;NAO
+390126;Organizador Baixo 13,5l 920;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (13L);1;Sanremo;;Inativo;0;NAO
+390127;Organizador Alto 65l 935;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (65L);1;Sanremo;;Inativo;0;NAO
+390128;Organizador Medio 42l 980;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (42L);1;Sanremo;;Inativo;0;NAO
+390129;Organizador Alto 80l Sr981;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (80L);1;Sanremo;;Inativo;0;NAO
+390130;Lixeira C/tampa Basc.22lt(verm E Azu)- Larplastico;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (22L);1;;;Inativo;0;NAO
+390131;Fita A.derrapante Preto Larg 5cm X 20mt;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Kapazi;;Inativo;0;NAO
+390132;Toalheiro De Alavanca Transparente;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Jofel;;Inativo;0;NAO
+390133;Toalheiro Bobina Branco Brasil- Jofel;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;1;NAO
+390134;Toalheiro De Alavanca Branco;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Jofel;;Ativo;3;NAO
+390135;Saboneteira C/reserv Infinity Box Bca 1lt -fortcom;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Frasco (1L);1;;;Ativo;19;NAO
+390136;Prato Desc Branco 17cm C/10un;Papel e Descartáveis;Pratos e Bandejas;Produto profissional;;Caixa;10;Marata;;Ativo;70;NAO
+390137;Pa Jeitosa Dobravel;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;(9253C);;Ativo;16;NAO
+390138;Cesto 13lt C/pedal;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (13L);1;Bettanin;;Inativo;0;NAO
+390139;Lixeira Pta 25lt C/pedal Alta Resist;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (25L);1;Larplastico;;Inativo;0;NAO
+390140;Luva Latex Proced. C/po, Tam M (8);EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Unidade;1;Volk;;Inativo;0;NAO
+390141;Luva Ranhurada Cano Longo G 40cm;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Volk;;Inativo;0;NAO
+390142;Lixeira Bca 50 LT C/pedal Alta Resist- Larplastico;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;;;Inativo;0;NAO
+390143;Toalheiro Alavanca Branco (bobina);Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Plestin;;Inativo;0;NAO
+390144;Saco Bobina 04kg;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (04Kg);1;;;Inativo;0;NAO
+390145;Saco Bobina 05kg - Tam 35x50;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (05Kg);1;2,35Kg;;Ativo;1;NAO
+390146;Saco Bobina 10kg - Tam 40x60;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (10Kg);1;2,68Kg;;Inativo;0;NAO
+390147;Canudo Embalado, CX C/3000;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1;;;Inativo;0;NAO
+390148;Copo Desc. 300 ML Transp. C/100 UN;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Caixa;100;Copoccio;;Inativo;0;NAO
+390149;Saco P/lixo 300 LT Preto Reforç. Mic 7;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (300L);1;Emmap;;Inativo;0;NAO
+390150;Saco P/lixo 200 LT Verde;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;Rava;;Inativo;0;NAO
+390151;Bandeja C/tampa Mo-70, CX C/200 UN;Papel e Descartáveis;Pratos e Bandejas;Produto profissional;;Caixa;200;Meiwa;;Inativo;0;NAO
+390152;Papel Toalha De Mesa, C/1000;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;;;Inativo;0;NAO
+390153;Paleta Plast P/cafe 8cm PCT C/500un -ultratalher;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Pacote;500;;;Ativo;37;NAO
+390154;Saco Bobina 02kg - Tam 25x35;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (02Kg);1;1,5Kg;;Inativo;0;NAO
+390155;Silicone Concentrado Tradicional 100ml;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (100ml);1;;;Ativo;55;NAO
+390156;Protetor De Assento Sanitário CX C/30un;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;30;Proassen;;Inativo;0;NAO
+390157;Lixeira Selet Basc 60lt 49x37 Verm(plast.)-santana;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (60L);1;;;Ativo;1;NAO
+390158;Lixeira Selet Basc 60lt 49x37 Amar(metal)-santana;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (60L);1;;;Inativo;0;NAO
+390159;Lixeira Tpa Vaivem 60lt Vermelha;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (60L);1;Larplastico;;Ativo;7;NAO
+390160;Armaçao Coleta Selet C/04 Cestos 50lt- Larplastico;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (50L);1;;;Inativo;0;NAO
+390161;Lixeira Branca Tampa Basculante 50lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;Plasvale;;Ativo;6;NAO
+390162;Lixeira Bca 14lt C/pedal;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (14L);1;Santana;;Ativo;23;NAO
+390163;Lixeira Preta 14lt C/pedal;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (14L);1;Santana;;Ativo;14;NAO
+390164;Porta Copos De Agua Em Aço Inox;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Aurimar;;Ativo;3;NAO
+390165;Porta Copos De Agua Em Acril/inox;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Aurimar;;Inativo;0;NAO
+390166;Saboneteira Giratoria De Vidro;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;Aurimar;;Inativo;0;NAO
+390167;Descarte De Copo Para Cafe;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Aurimar/Fortcom;;Ativo;7;NAO
+390168;Descarte De Copo Para Agua;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Fortcom;;Ativo;4;NAO
+390169;Descarte Dupla Para Copo Agua/cafe;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Fortcom;;Ativo;5;NAO
+390170;Saco Bobina 15kg - Tam 50x70;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (15Kg);1;3,2Kg;;Inativo;0;NAO
+390171;Saco Bobina 03kg - Tam 30x40;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (03Kg);1;1,7Kg;;Inativo;0;NAO
+390172;Saco P/lixo 500 LT Preto Reforç. Mic 7;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (500L);1;Emmap;;Inativo;0;NAO
+390173;"Placa Sinal ""cuidado Em Manutençao";Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Bralimpia/Jsn;;Ativo;8;NAO
+390174;Carro Func America Bolsa Amarela;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Bralimpia;;Ativo;1;NAO
+390175;Mangueira Flex 1/2 Tranç.transp 30mt C/eng-tramont;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390176;Contentor 240 LT C/rodas (mod Europeu) Verde-nobre;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (240L);1;;;Ativo;2;NAO
+390177;Contentor 500 LT C/munhão E Suporte Em Aço;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (500L);1;;;Inativo;0;NAO
+390178;Espremedor Balde Mopinho;Utensílios de Limpeza;Baldes;Sistema duplo, alta capacidade;;Barrica (5L);1;Bettanin (9237);;Ativo;17;NAO
+390179;Balde Com Tampa 100lt Branca;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;Plasvale;;Ativo;2;NAO
+390180;Lixeira Com Pedal 35lt Bca C/pedal;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (35L);1;Santana;;Ativo;1;NAO
+390181;Prensador Do Espremedor Carro Doblo;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+390182;Fita Adesiva Crepe 18x50 PCT C/06;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;1;Adelbras;;Inativo;0;NAO
+390183;Contentor 120 LT, Marrom;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (120L);1;Contemar;;Inativo;0;NAO
+390184;Contentor 240 LT, Laranja;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (240L);1;Larplastico;;Inativo;0;NAO
+390185;Contentor 240lt.c/rodas (mod Europeu) Marrom-nobre;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (240L);1;;;Inativo;0;NAO
+390186;Mangueira Flex 1/2 Tranç.transp.s/eng -tramontina;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390187;Esguicho;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Ativo;9;NAO
+390188;Suporte Fixo P/mangueira;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Ativo;5;NAO
+390189;Mangueira Flex 3/4 Tranç.transp.s/eng -tramontina;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390190;Kit Irrig (eng, Esg E Adapt 1/2 3/4);Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Ativo;7;NAO
+390191;Hidropistola Em Cartela;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Ativo;5;NAO
+390192;Enrolador Mang 1/2 Ate 60mt C/rodinhas-tramontina;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390193;"Tesoura P/jardim 12""";Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Ativo;3;NAO
+390194;Machadinha Sacho Coraçao C/cabo 43cm;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Tramontina;;Ativo;4;NAO
+390195;Adaptador P/jardim;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Ativo;10;NAO
+390196;Engate Rapido P/emenda De Mangueira 1/2-tramontina;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;4;NAO
+390197;Ligação Reparadora P/jardim;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Ativo;8;NAO
+390198;Lixeira C/tampa 100 LT;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (100L);1;Plasvale;;Inativo;0;NAO
+390199;Contentor 360 LT;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (360L);1;Contemar;;Inativo;0;NAO
+390200;Lixeira Plast.c/pedal 72lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (72L);1;Bettanin;;Inativo;0;NAO
+390201;Lixeira Plast.c/pedal 25lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (25L);1;Bettanin;;Inativo;0;NAO
+390202;Lixeira Plast.c/pedal 36lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (36L);1;Bettanin (9356B);;Ativo;4;NAO
+390203;Poupador De Copos 150 A 200ml C/botao;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (200ml);1;Fortcom;;Ativo;16;NAO
+390204;Cesto 30x24 14 LT Preto;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (14L);1;Bralimpia;;Inativo;0;NAO
+390205;Contentor 700lt C/munhão E Suporte Em Aço;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (700L);1;;;Inativo;0;NAO
+390206;Filme Pvc 40x1400mt;Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390207;Balde Plastico 15 LT;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;;;Inativo;0;NAO
+390208;Toalheiro Bobina Auto Cortante Infinity Litb200;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390209;Balde Plastico 13,8lt;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;;;Inativo;0;NAO
+390210;Saboneteira C/reserv Bca Espuma;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;Dropy Ldses850;;Ativo;14;NAO
+390211;Contentor 1100lt C/munhão E Suporte Em Aço;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (1100L);1;;;Inativo;0;NAO
+390212;Luva Plast.desc. Pct.c/100un;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;100;Lagrotta/Volk;;Inativo;0;NAO
+390213;Pa Coletora Preta S/tampa (cod 1612);Utensílios de Limpeza;Pás para Lixo;Produto profissional;;Unidade;1;Rubbermaid;;Inativo;0;NAO
+390214;Filme Pvc Bob 28x30mt;Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390215;Avental Tnt S/manga PCT C/10un;EPI e Segurança;Vestimenta Descartável;Produto profissional;;Pacote;10;Artmedic;;Inativo;0;NAO
+390217;Silicone Spray 300ml;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (300ml);1;Domline;;Inativo;0;NAO
+390218;Dispenser P Forro De Assento Sanitario;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Fortcom;;Ativo;4;NAO
+390219;Saboneteira C/reserv Box Cristal-infinity Licl1000;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;;;Ativo;9;NAO
+390220;Rastelo Jardim Plast.30 Dentes Cabo 120-tramontina;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390221;Luva Latex Proced. CX C/100 UN P;EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Caixa;100;Volk;;Inativo;0;NAO
+390222;Refil Mop Umido 30 Cm Hexagonal Azul;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+390223;Refil Mop Umido 30 Cm Hexagonal Amarelo -bralimpia;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;2;NAO
+390224;Refil Mop Umido 30 Cm Hexagonal Vermelho-bralimpia;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;2;NAO
+390225;Espremedor Balde Mopinho;Utensílios de Limpeza;Baldes;Sistema duplo, alta capacidade;;Barrica (5L);1;Bralimpia;;Ativo;15;NAO
+390226;Copo Desc 80 ML C/90 UN;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Caixa;90;Copocchio;;Inativo;0;NAO
+390227;Poupador De Copos 50ml;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (50ml);1;Trilha/Nobre (C/Botao);;Ativo;7;NAO
+390228;Contentor 120lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (120L);1;Bralimpia;;Inativo;0;NAO
+390229;Balde 04lt Com Alça Azul;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;Bralimpia;;Inativo;0;NAO
+390230;Toalheiro De Alavanca;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Fortcom;;Inativo;0;NAO
+390231;Lixeira Quadrada 65lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (65L);1;63,5X40,5X40,5 (Axlxc);;Inativo;0;NAO
+390232;Lixeira Redonda 20lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (20L);1;59,8X23,5X19,2 (Axdsxdi);;Inativo;0;NAO
+390233;Copo Desc 100ml C/2000 UN;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Caixa;2000;;;Inativo;0;NAO
+390234;Cestinha De Carrregar Mat Limpeza;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Plasvale;;Ativo;1;NAO
+390235;Capa De Dvd Transparente;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390236;Reservatorio P/sabonet Espuma 700ml;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (700ml);1;Nobre City;;Ativo;44;NAO
+390237;Sabonet/alcool Gel C/reserv;Higiene e Sanitização;Álcool Gel;Antisséptico e higienizador;;Unidade;1;Nobre City;;Inativo;0;NAO
+390238;Lixeira Bca 15 LT C/pedal Alta Resist- Larplastico;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (15L);1;;;Ativo;2;NAO
+390239;Lixeira Bca 100 LT C/pedal Alta Resist- Larplastic;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (100L);1;;;Ativo;1;NAO
+390240;Kit De Lixeiras 50lt C/abertura Frontal C/5;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;;;Inativo;0;NAO
+390241;Porta Saco Para Absorvente Higiênico;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Fortcom;;Inativo;0;NAO
+390242;Copo Termico Isopor 118ml C/20un;Papel e Descartáveis;Copos Descartáveis;Produto profissional;;Caixa;20;;;Inativo;0;NAO
+390243;Luva Verniz Amarela Reforçada Tam G;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;Handex;;Inativo;0;NAO
+390244;Luva Verniz Amarela Reforçada Tam M;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;Volk;;Inativo;0;NAO
+390245;Saco 40x60 Para Gelo;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390246;Garfo Desc. Transparente CX C/1000un;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1000;;;Inativo;0;NAO
+390247;Faca Desc. Cristal CX C/1000un-prafesta;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1000;;;Ativo;2;NAO
+390248;Fosforo PCT, C/10 UN;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;10;Gaboardi;;Inativo;0;NAO
+390249;Luva Nitrilica Azul , Tam G;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Volk;;Inativo;0;NAO
+390250;Canudo Pazinha Food Service P/rosca CX C/300un;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;300;;;Inativo;0;NAO
+390251;Caixa Isopor 175lt;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (175L);1;Isoplast;;Inativo;0;NAO
+390252;Copo Cristal Supremo 200ml 20x50 CX C/1000un;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1000;;;Inativo;0;NAO
+390253;Colher Desc.transparente Cx.c/1000un;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1000;;;Ativo;6;NAO
+390254;Prato Desc Branco 15cm C/10un;Papel e Descartáveis;Pratos e Bandejas;Produto profissional;;Caixa;10;Copocchio;;Inativo;0;NAO
+390255;Canudo Especial Para Roska;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390256;Cumbuca Plast Funda Nr.12 Branca 100x10 CX C/5000;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1;;;Inativo;0;NAO
+390257;Copo Desc Mania Colorido De 300ml 20x30 CX C/3000;Papel e Descartáveis;Copos Descartáveis;Polipropileno, uso único;;Caixa;1;;;Inativo;0;NAO
+390258;Guardanapo Gold 23x23 Fs, FD C/50pct C/100un;Papel e Descartáveis;Guardanapo;Produto profissional;;Pacote;100;;;Inativo;0;NAO
+390259;Copo Isopor 180ml PCT C/25un;Papel e Descartáveis;Copos Descartáveis;Produto profissional;;Pacote;25;;;Ativo;2;NAO
+390260;Palito Para Churrasco PCT C/50un;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;50;;;Inativo;0;NAO
+390261;Luva Verniz Amarela Ref. Tam P;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;Volk;;Inativo;0;NAO
+390262;Filme Pvc Bob 28x15mt;Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390263;Cesto 12 LT S/tampa Preto 25x32,5-plasvale;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (12L);1;;;Ativo;28;NAO
+390264;Sacos P/amostra Capacidade 500ml;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (500ml);1;;;Inativo;0;NAO
+390265;Garfo Desc. Refeiçao Transp PCT C/50un;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;50;;;Inativo;0;NAO
+390266;Estrado 50x50;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Lar Plasticos;;Inativo;0;NAO
+390267;Balde 04lt Com Alça Amarelo;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;Bralimpia;;Inativo;0;NAO
+390268;Pa P/lixo Sem Cabo;Utensílios de Limpeza;Pás para Lixo;Produto profissional;;Unidade;1;;;Ativo;22;NAO
+390269;Papel Aluminio 45x7,5m;Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;Giromix;;Inativo;0;NAO
+390270;Conj Lixeira Selet C/04, Tpa Basc 60lt-larplastico;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (60L);1;;;Inativo;0;NAO
+390271;Espremedor Para Carro Doblo;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+390272;Espatula 4¨ C/cabo;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Tramontina;;Inativo;0;NAO
+390273;Lixeira Selet Verm Tpa Basc 50lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;Plasvale;;Ativo;5;NAO
+390274;Lixeira Selet Amar Tpa Basc 50lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;Plasvale;;Ativo;6;NAO
+390275;Lixeira Selet Azul Tpa Basc 50lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;Plasvale;;Ativo;3;NAO
+390276;Lixeira Selet Verde Tpa Basc 50lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;Plasvale;;Ativo;4;NAO
+390277;Relogio Parede Oct Liso;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Nativo;;Ativo;15;NAO
+3902777;Bolsa Amarela C Gravacao - Venda;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+390278;Relogio Parede Oct Liso;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Nativo;;Ativo;10;NAO
+390279;Escada De Aluminio Domestica 7 Degraus;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Unidade;1;Mor;;Inativo;0;NAO
+390280;Pasta Susp C/vareta Plast Verde (5140);Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Polycart;;Inativo;0;NAO
+390281;Pasta Susp C/vareta Plast Amarela (5140) -polycart;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390282;Pasta Susp C/vareta Plast Transp (5140);Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Polycart;;Inativo;0;NAO
+390283;Desentupidor Vasos,ralos E Pias 300g;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Embalagem (300G);1;Muriax;;Ativo;12;NAO
+390284;Lixeira C/ Tampa Basc Azul 100lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (100L);1;Larplastico;;Inativo;0;NAO
+390285;Escada De Alum Domestica 06 Degraus;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Mor;;Inativo;0;NAO
+390286;Escada De Alum Domestica 08 Degraus;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Mor;;Inativo;0;NAO
+390287;Desentupidor Vasos,ralos E Pias 300g;Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Embalagem (300G);1;Muriax;;Inativo;0;NAO
+390288;Saco Bobina 01kg - Tam 20x30;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (01Kg);1;1,0Kg;;Ativo;27;NAO
+390289;Arquivo Morto 350x245x135mm, Azul;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Alaplast;;Ativo;10;NAO
+390290;Lixeira C/ Tampa Basc Azul 100lt;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (100L);1;Larplastico;;Inativo;0;NAO
+390291;Envelope Plastico Medio A4 4 Furos C/50fl;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390292;Marcador Perm P.fina Cd/dvd 1,0mm Azul;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390293;Fita Adesiva Crepe 18x50;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Adelbras;;Inativo;0;NAO
+390294;Porta Papel Toalha Bco Interf;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;Dropy Ldti600;;Inativo;0;NAO
+390295;Porta Papel Hig Bco Rolo;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Dropy Ldpr 500;;Ativo;30;NAO
+390296;Sabonet.porta Alc Gel C/reserv Bca;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Dropy Lds850;;Ativo;35;NAO
+390297;Bico De Reserv P/saboneteira Liquida;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;Fortcom;;Inativo;0;NAO
+390298;Valvula P/saboneteira Espuma;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Unidade;1;Dropy;;Ativo;30;NAO
+390299;Botijao Termico Duplo 12l (2x6l);Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (12L);1;Lume Inox;;Inativo;0;NAO
+390300;Reservatorio P/sab Espuma;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Nobre City;;Ativo;6;NAO
+390301;"Placa Sinal ""piso Ecorregadio/manutençao";Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390302;Vassoura Jardim Met 22d Cabo 120;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Tramontina;;Inativo;0;NAO
+390305;Pallete Plastico Na Cor Preta;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390306;Presilha De Metal Para Cracha PCT C/100un;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Pacote;100;;;Inativo;0;NAO
+390307;Caneta Marcador Pincel Perman Pto 2,0;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390308;Tesoura Essentials Green 21cm;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Maped;;Inativo;0;NAO
+390309;Pasta Suspensa Marmorizada CX C/50un;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;50;Dello;;Inativo;0;NAO
+390310;Envelope Plastico A4 11 Furos C/10fl;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Dac;;Inativo;0;NAO
+390311;Filme Autoadesivo 45cmx2 Transp;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Colacril;;Inativo;0;NAO
+390312;Papel Verge 180g 50fl A4 Branco Usapel;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (180G);1;;;Inativo;0;NAO
+390313;Caneta Economic C/50 1,00mm Azul Compactor;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;1;NAO
+390314;Caneta P/retro-projetor 2.0mm Azul CX C/12 Pilot;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1;;;Inativo;0;NAO
+390315;Caderno Univ Capa Dura 1x1 96fls Mais+ Tilibra;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390316;Papel 75g Chamex Color 500fl Azul Ipaper;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (75G);1;;;Inativo;0;NAO
+390317;Papel 75g Chamex Color 500fl Amarelo Ipaper;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (75G);1;;;Inativo;0;NAO
+390318;Rodas Carro Doblo (4 Rodas);Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Bralimpia;;Ativo;3;NAO
+390319;Carro Tipo Plataforma, Cap 800kg, 4 Rodizios;Papel e Descartáveis;Descartáveis;Produto profissional;;Embalagem (800Kg);1;;;Inativo;0;NAO
+390320;Marcador Perm P.media Cd/dvd 2,0mm Pto CX C12pilot;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1;;;Inativo;0;NAO
+390321;Filme Pvc 28x300mt;Papel e Descartáveis;Filmes e Embalagens;Produto profissional;;Unidade;1;Lisafilm;;Ativo;25;NAO
+390322;Quadro P/organograma Em A3;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390323;Div Plast C/12 Proj A4 Cr 12intba Yes;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390324;Apagador Para Quadro Branco;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390325;Pasta Az Tam Oficio Dorso Largo;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390326;Estilete Medio;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390327;Caixa Organiz 16,5lt Bca C/tampa;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (16L);1;;;Inativo;0;NAO
+390328;Prato Desc Branco 21cm C/10uni;Papel e Descartáveis;Pratos e Bandejas;Produto profissional;;Unidade;1;Copocchio;;Ativo;22;NAO
+390329;Grampos 23/13 C/1000un;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1000;;;Inativo;0;NAO
+390330;Fita Adesiva Crepe 48x50;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Adelbras;;Inativo;0;NAO
+390331;Pendrive 32gb;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Multilaser;;Inativo;0;NAO
+390332;Luva Vinil Transp S/amido CX C/100un G;EPI e Segurança;Luvas de Procedimento;Sem pó, caixa c/ 100;;Caixa;100;Volk;;Ativo;14;NAO
+390333;Luva Vinil Transp S/amido CX C/100un M;EPI e Segurança;Luvas de Procedimento;Sem pó, caixa c/ 100;;Caixa;100;Volk;;Ativo;44;NAO
+390334;Carro Funcional America Black Cfblackt;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+390335;Giz Escolar Comum Branco CX C/64unid;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;64;Delta;;Inativo;0;NAO
+390336;Etiq Inkjet/laser Carta 25fl;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390337;Caixa Correspondencia Dupla Articulavel Cristal;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390338;Fita Magica Adesiva 12x20 Scotch Transp 3m;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390339;Porta Canetas Clips E Lembrete Cristal;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Dello;;Inativo;0;NAO
+390340;Lapiseira 0.9;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Cis;;Inativo;0;NAO
+390341;Caneta Bps Ponta Fina 0,7mm Preto Pilot CX 12;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;1;;;Inativo;0;NAO
+390342;Perfurador 4 Furos Escala 10fl;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Eagle;;Inativo;0;NAO
+390343;Papel 75g Chamex 500fl A3 Ipaper;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Embalagem (75G);1;;;Inativo;0;NAO
+390344;Envelope Branco 220x320;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390345;Paleta Plast P/drink 11cm PCT C/500un;Papel e Descartáveis;Descartáveis;Produto profissional;;Pacote;500;Elite;;Inativo;0;NAO
+390346;Divisoria C/05 Visores;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390347;Lixeira Pta 50lt C/pedal Alta Resist;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;Larplastico;;Inativo;0;NAO
+390348;Conj Lixeira Selet C/03, Tpa Basc 50lt-larplastico;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Galão (50L);1;;;Inativo;0;NAO
+390349;Cesto 15lt (ver, Az E Amar) C/tampa Flip Top 24x34;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (15L);1;;;Ativo;6;NAO
+390350;Cesto 22lt(ver, Az Bc Amar) C/tampa Fliptop 24x60;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (22L);1;;;Ativo;10;NAO
+390351;Pote Retangular C/tampa 6 Pctx24un 750ml;Papel e Descartáveis;Pratos e Bandejas;Produto profissional;;Pacote;1;;;Inativo;0;NAO
+390354;Tapete 40x60 Preto C/borda 5cm;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390355;Tapete Secante 60cm Largura Mt;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+390377;Aromatizante/neutralizador At 05lt;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Galão (5L);1;Mercotech;;Ativo;8;NAO
+390378;Limpa Procelanato Porcelain 05lt;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (5L);1;Mercotech;;Inativo;0;NAO
+390383;Luva Viniflex Transp S/amido CX C/100un M;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;100;Vaben;;Inativo;0;NAO
+390384;Luva Viniflex Transp S/amido CX C/100un M;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;100;Vabene;;Inativo;0;NAO
+390385;Luva Viniflex Transp S/amido CX C/100un P;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;100;Vabene;;Inativo;0;NAO
+390387;Pano Microfibra Kit C/3un 30x30 Az/rz/vd-casaambie;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;3;;;Ativo;26;NAO
+390388;Saco Freezer 7l 100un 33x40cm;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (7L);1;Vabene;;Inativo;0;NAO
+390389;Saco Freezer 5l 100un 28x40cm;Papel e Descartáveis;Descartáveis;Produto profissional;;Galão (5L);1;Vabene;;Inativo;0;NAO
+390390;Saco Freezer 3l 100un 23x35cm;Papel e Descartáveis;Descartáveis;Produto profissional;;Frasco (3L);1;Vabene;;Inativo;0;NAO
+390391;Luva Ranhurada Cano Longo M 39cm;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Volk;;Ativo;70;NAO
+390392;Luva Verniz Laranja Super Ref. Tam. G;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;Volk;;Ativo;96;NAO
+390393;Luva Verniz Laranja Super Ref. Tam. M;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;Volk;;Ativo;252;NAO
+390394;Rastelo Jardim Plast.22d Cabo 120-tramontina;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;11;NAO
+390395;Luva Verniz Verde Reforçada Tam P;EPI e Segurança;Luvas de Proteção;Produto profissional;;Unidade;1;Volk;;Ativo;124;NAO
+390396;Pulverizador 300ml Leitoso Transp;Utensílios de Limpeza;Pulverizadores;Produto profissional;;Frasco (300ml);1;Guarany;;Inativo;0;NAO
+390397;Saco P/ Dejetos Fundo Estrela 30x40;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;26;NAO
+390398;Conj Mop Giratorio Compact 9l C/cesto Plast.-nobre;Equipamentos de Higiene;Cestos;Produto profissional;;Galão (9L);1;;;Ativo;5;NAO
+390399;Refil Mop Umido Para Mop Giratorio;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;Nobre;;Ativo;17;NAO
+390400;Pulverizador 500ml Transp;Utensílios de Limpeza;Pulverizadores;Produto profissional;;Frasco (500ml);1;Nobre;;Ativo;1;NAO
+390401;Pano Microfibra 50x65;Papel e Descartáveis;Descartáveis;Produto profissional;;Unidade;1;;;Ativo;4;NAO
+390402;Pano Microfibra 30x30 Azul Kit C/2un;Papel e Descartáveis;Descartáveis;Produto profissional;;Caixa;2;Nobre;;Ativo;86;NAO
+390403;Gatilho De Spray Pulverizador (tubo De 27cm)-nobre;Utensílios de Limpeza;Pulverizadores;Produto profissional;;Unidade;1;;;Ativo;29;NAO
+390404;Porta Hig Interf(cai Cai) Bco Ldhi500- Dropy;Equipamentos de Higiene;Porta Papel Higiênico;Produto profissional;;Unidade;1;;;Ativo;6;NAO
+390405;Saboneteira Reserv Líq/gel 1lt Pta;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Frasco (1L);1;Dropylds850Bb;;Ativo;15;NAO
+390406;Porta Papel Hig Em Rolo Pta;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Dropy Ldpr500Bb;;Ativo;6;NAO
+390407;Porta Papel Toalha Interf Pta;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;Dropy Ldti600Bb;;Ativo;6;NAO
+39191000;Fita P/emb Transp. 45mmx40mt;Outros;Outros;Produto profissional;;Unidade;1;Koretc;;Ativo;15;SIM
+392290000;Tela Para Mictorio C/pedra;Utensílios de Limpeza;Telas para Mictório;Produto profissional;;Unidade;1;Fortcom;;Inativo;0;NAO
+39232110;Saco P/lixo 200 LT Preto Ref 83x97cm;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (200L);1;Rava;;Inativo;0;SIM
+39249000;Desentupidor De Pia Sanfonado;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;SIM
+39259090;Toalheiro Autocortante P/bobina Bco;Outros;Outros;Produto profissional;;Unidade;1;Nobre;;Inativo;0;NAO
+40151900;Luva Latex Proced. CX C/100 UN G;EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Caixa;100;Volk;;Inativo;0;SIM
+40169200;Borracha Bca 3cm;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Axe;;Ativo;142;SIM
+40169990;Elastico P/dinheiro C/220un;Outros;Outros;Produto profissional;;Caixa;220;Mercur;;Ativo;4;SIM
+42021210;Pasta Sanf A4 31 Divisorias Transp;Outros;Outros;Produto profissional;;Unidade;1;Acp;;Ativo;39;SIM
+44209099;Assento Sanitário Branco Universal;Outros;Outros;Produto profissional;;Unidade;1;Tupa;;Inativo;0;SIM
+480001;Papel Hig 8x300 220mt 100% Cel.virgem;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Maxx;;Inativo;0;NAO
+480002;Papel Toalha CX. C/2400 Fls 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Caixa;1;Maxx;;Inativo;0;NAO
+480003;Papel Toalha 1250 Fls Bco 23x21;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480004;Papel Toalha 1250g Creme;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Embalagem (1250G);1;Mixx;;Inativo;0;NAO
+480005;Papel Hig 8x300 200mt,100% Celulose.- Angra Gold;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;;;Inativo;0;NAO
+480006;Papel Hig Fofex F/simples FD C/64 Rolos 30 Mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;;;Inativo;0;NAO
+480007;Papel Toalha Bobina 6x200, 100% Cel.multipell;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;;;Ativo;3;NAO
+480008;Papel Hig 8x100m, 100% Cel;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Supremo;;Inativo;0;NAO
+480009;Papel Hig Interf. F/dupla C/8000 (cai Cai);Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Jofel;;Inativo;0;NAO
+480010;Papel Toalha C/2000 Economy 100% Cel- Maxx;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;;;Inativo;0;NAO
+480011;Papel Toalha C/2000fls 23x21, 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;Maxx;;Inativo;0;NAO
+480012;Lençol Hosp 50x50 100% Cel. FD C/8rolos;Outros;Outros;Produto profissional;;Fardo;1;Maxx;;Inativo;0;NAO
+480013;Lençol Hosp 70x50 Branco FD C/08 RL;Outros;Outros;Produto profissional;;Fardo;1;Maxx;;Ativo;5;NAO
+480014;Bobina Multiuso 2x300;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Fardo;1;Maxx;;Inativo;0;NAO
+480015;Guardanapo 19,5x18,5cm, FD 40 PCT;Papel e Descartáveis;Guardanapo;Produto profissional;;Pacote;1;;;Inativo;0;NAO
+480016;Lençol Hosp 70x50 100% Cel. FD C/08 RL;Outros;Outros;Produto profissional;;Fardo;1;Maxx;;Inativo;0;NAO
+480017;Papel Hig 8x300 Plus 100% Cel.(300mt);Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Stilo;;Inativo;0;NAO
+480018;Papel Hig F/dupla Luxo FD C/64rl De 30mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Maciez;;Inativo;0;NAO
+480019;Papel Toalha Bobina 6x200, 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480020;Saboneteira Reserv. Líq/gel 450ml;Equipamentos de Higiene;Saboneteiras;Fragrância suave, pH neutro;;Frasco (450ml);1;Dropy Lds450;;Inativo;0;NAO
+480021;Papel Toalha 1000fls 23x21 Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480022;Papel Toalha 1000, 23x21, 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Divas;;Inativo;0;NAO
+480023;Papel Toalha CX. C/2400 100% Cel 23x21 L- Maxx;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Caixa;1;;;Inativo;0;NAO
+480024;Papel Hig Personal C/64 Rolos De 30m Neutro;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;;;Inativo;0;NAO
+480025;Lençol Hosp 50x50 Branco FD C/08 Rolos;Outros;Outros;Produto profissional;;Fardo;1;Maxx;;Inativo;0;NAO
+480026;Papel Hig 8x500m 100% Cel Maxx;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;;;Inativo;0;NAO
+480027;Papel Hig 8x300 Neutro;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Maxx;;Ativo;3;NAO
+480028;Papel Hig Bambino Jr F/dupla Neutro C/64rl 20mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;;;Inativo;0;NAO
+480029;Papel Hig Fofinho F/simpl Neutro FD C/64rl De 30m;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;;;Inativo;0;NAO
+480030;Papel Hig Fofinho F/dupla 100% Cel RL De 30m;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;;;Inativo;0;NAO
+480031;Papel Toalha Multipell1250, 23x21 Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;;;Inativo;0;NAO
+480032;Papel Toalha 1000 Fls 23x21 Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Supremo;;Inativo;0;NAO
+480033;Papel Hig Familiar Soft F/simples FD 30 Mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;;;Inativo;0;NAO
+480034;Papel Hig Neve F/dupla, 16 PCT 4x30mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Pacote;1;;;Inativo;0;NAO
+480035;Papel Toalha 1250g Creme;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480036;Papel Toalha 1000g Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Mixx;;Inativo;0;NAO
+480037;Papel Toalha 1000g Creme;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480038;Guardanapo F/D Luxo 23x23, 50fls;Papel e Descartáveis;Guardanapo;Produto profissional;;Unidade;1;Nevada;;Inativo;0;NAO
+480039;Papel Toalha 1250g Creme;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maciez;;Inativo;0;NAO
+480040;Papel Toalha 1250 Fls 100% Cel 23x21;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Divas;;Inativo;0;NAO
+480041;Papel Toalha 700f 20x21 Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Utimix;;Inativo;0;NAO
+480042;Papel Toalha 1000f 20x21 100% Celulose;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Utimix;;Ativo;267;NAO
+480043;Papel Toalha Multipell2000 20x21 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;;;Inativo;0;NAO
+480044;Papel Hig 8x300, 100% Cel 300mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Maxx;;Inativo;0;NAO
+480045;Papel Toalha 1000fl Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Juazeirinho;;Ativo;10;NAO
+480046;Papel Hig 8x300, 300mt, 100% Cel;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Supremo Gold;;Inativo;0;NAO
+480048;Papel Hig 8x300 220mt Branco;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Utimix;;Inativo;0;NAO
+480049;Papel Higi. F.simples 16x4x30mt Familiar- Supremo;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;;;Ativo;59;NAO
+480050;Papel Hig Bco F/s C/64 Rolos 30mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Fofex Soft;;Inativo;0;NAO
+480051;Papel Hig.interf.c/10000 Fls (cai Cai);Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Indaial;;Ativo;5;NAO
+480052;Papel Hig Interf.f.d C/8000 (cai Cai);Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Indaial;;Inativo;0;NAO
+480053;Papel Toalha 1250 Fls Bco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480054;Papel Toalha P/cozinha FD 12x2 C/50fls;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Sorella;;Inativo;0;NAO
+480055;Papel Toalha 1250fls, 100% Cel 23x21;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480056;Papel Hig 8x300 220mt Branco;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Danpel;;Inativo;0;NAO
+480057;Papel Hig 8x300 Plus;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Elite;;Inativo;0;NAO
+480058;Lençol Hosp 70x50 Branco;Outros;Outros;Produto profissional;;Fardo;1;Maciez;;Inativo;0;NAO
+480059;Lençol Hosp 50x50 100% Cel;Outros;Outros;Produto profissional;;Fardo;1;Maciez;;Ativo;5;NAO
+480060;Lençol Hosp 50x50 Branco;Outros;Outros;Produto profissional;;Fardo;1;Maciez;;Inativo;0;NAO
+480061;Papel Hig 8x500m 100% Cel;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Elite;;Inativo;0;NAO
+480062;Papel Toalha C/1000fls 23x21 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480063;Bobina 8x100 Neutro;Outros;Outros;Produto profissional;;Fardo;1;Danpel;;Inativo;0;NAO
+480064;Papel Toalha Multipell1000 23 X 21, Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;;;Inativo;0;NAO
+480065;Papel Hig 8x300 220mt,100% Cel.virg;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Danpel;;Ativo;46;NAO
+480066;Guardanapo 29,5x30cm, FD 24pct, 100% Celulose;Papel e Descartáveis;Guardanapo;Produto profissional;;Pacote;1;;;Inativo;0;NAO
+480067;Papel Hig 8x100 M, 100% Cel;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Danpel/Diva´S;;Inativo;0;NAO
+480068;Papel Toalha Bobina 8x100 100% Cel.- Angra Gold;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;;;Inativo;0;NAO
+480069;Papel Hig 8x500, 500mt, 100% Cel;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Supremo Gold;;Inativo;0;NAO
+480070;Papel Toalha Bob 6x200, 150m 100% Cel- Angra Gold;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;;;Inativo;0;NAO
+480071;Papel Toalha C/2400 Fls 23x21 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;Danpel;;Inativo;0;NAO
+480072;Papel Toalha Multipell1000 20 X 21, 100% Virgem;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;;;Inativo;0;NAO
+480073;Papel Toalha 1250 Fls23x21 Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Requinte;;Inativo;0;NAO
+480074;Guardanapo 19,5x18,5cm, 100% Celulose;Papel e Descartáveis;Guardanapo;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+480075;Papel Hig F/dupla 100% Cel 4x30m;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Velud;;Inativo;0;NAO
+480076;Papel Hig F/s, 100% Cel 4x30m;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Supremo;;Inativo;0;NAO
+480077;Papel Toalha FD C/1250 Fls Branco 3 Dobras;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Inativo;0;NAO
+480078;Papel Toalha 750 20x21 Branco-multipell;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;;;Inativo;0;NAO
+480079;Guardanapo 30x30cm Sofisticado 1200fls;Papel e Descartáveis;Guardanapo;Produto profissional;;Unidade;1;Perola;;Inativo;0;NAO
+480080;Papel A4, Resma C/500fls;Outros;Outros;Produto profissional;;Unidade;1;Copimax;;Inativo;0;NAO
+480081;Papel Toalha 12x2 60fls;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Absoluto;;Inativo;0;NAO
+480082;Papel Higienico F/dupla 100% Cel 16x4x30mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Velud;;Inativo;0;NAO
+480083;Guardanapo Luxo 33x30 CX Gde C/24un;Papel e Descartáveis;Guardanapo;Produto profissional;;Caixa;24;Lips;;Inativo;0;NAO
+480084;Forro Descart.p/ Assento Sanitario C/40un;Outros;Outros;Produto profissional;;Caixa;40;;;Ativo;80;NAO
+480085;Papel Toalha Bobina 8x100 100% Cel.- Supremo;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;;;Inativo;0;NAO
+480086;Papel Toalha PCT C/2 60fls;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Pacote;1;Absoluto;;Inativo;0;NAO
+480087;Papel Toalha Bobina Branco 20x200m;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Unidade;1;Maxx;;Inativo;0;NAO
+480088;Papel Toalha 1000 23x21, Branco;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Multipell;;Inativo;0;NAO
+480090;Guardanapo F/D Luxo 23x23, 50fls;Papel e Descartáveis;Guardanapo;Produto profissional;;Unidade;1;Nevada;;Inativo;0;NAO
+480091;Papel Manteiga 50x70 C/400fls;Outros;Outros;Produto profissional;;Unidade;1;Lutepel;;Inativo;0;NAO
+480092;Guardanapo F/D Luxo 33x33, 36x50fls Folhas;Papel e Descartáveis;Guardanapo;Produto profissional;;Unidade;1;Gold;;Inativo;0;NAO
+480093;Papel Hig F/d,fd C/64 100%cel 20m;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Supremo;;Inativo;0;NAO
+480094;Papel Toalha C/1000fls 23x21 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Maxx;;Ativo;68;NAO
+480095;Papel Higienico F/dupla 100% Cel 16x30mt;Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Velud;;Ativo;13;NAO
+480096;Papel Hig Interf.f.s C/8000fls (cai Cai);Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Unidade;1;Nobre;;Ativo;11;NAO
+48022090;Papel Termico P/fax 215mmx30mt;Outros;Outros;Produto profissional;;Unidade;1;Maxprint;;Inativo;0;SIM
+48025810;Papel Verge 210x297mm A4 Salmao C/100f;Outros;Outros;Produto profissional;;Unidade;1;Filipaper;;Inativo;0;SIM
+48169010;Carbono A4 Preto C/100fls;Outros;Outros;Produto profissional;;Unidade;1;Hardcopy;;Ativo;7;SIM
+48171000;Envelope Kraft 190x270;Outros;Outros;Produto profissional;;Unidade;1;Celucat;;Inativo;0;SIM
+48181000;Papel Hig. F/s, FD C/64 RL De 30m(16x4);Papel e Descartáveis;Papel Higiênico;100% celulose, alta absorção;;Fardo;1;Perola;;Ativo;93;SIM
+48182000;Papel Toalha Bobina 6x200, 100% Cel;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;Ideal;;Ativo;4;NAO
+48183000;Papel Toalha C/2000 (8x250fls),100% Cel.- Supremo;Papel e Descartáveis;Papel Toalha;Alta absorção para dispensers;;Fardo;1;;;Inativo;0;NAO
+48201000;Livro Protocolo/corresp 104fls;Outros;Outros;Produto profissional;;Unidade;1;Sdomingos;;Ativo;6;SIM
+48202000;Caderno Ata C/fls Numeradas C/100fls;Outros;Outros;Produto profissional;;Unidade;1;Sdomingos;;Ativo;3;SIM
+490089;Guardanapo F/D Luxo 23x23, FD C/48pct,50fls-nevada;Papel e Descartáveis;Guardanapo;Produto profissional;;Pacote;1;;;Inativo;0;NAO
+500001;Queijo Parmesão Peça Inteira;Alimentos - Frios e Proteínas;Frios e Laticínios;Produto a granel, medido em KG;;Unidade;1;;;Inativo;0;NAO
+53039099;Estopa Para Polimento;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+560001;Haste Flexivel C/75un;Outros;Outros;Produto profissional;;Caixa;75;Cotton Line;;Inativo;0;NAO
+560002;Pano Mult Azul Picot RL 28cmx30mt 60 Panos-nobre;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;27;NAO
+630001;Pano De Chao Alv.ref 100% Alg. 42x62;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Brulimp;;Inativo;0;NAO
+630002;Pano Chao Gde Ref.100% Alg 48x76 Xadrez;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;;;Ativo;145;NAO
+630003;Flanela 40 X 60;Outros;Outros;Produto profissional;;Unidade;1;Brulimp;;Inativo;0;NAO
+630004;Refil Mop Umido C/rosca 190g;Outros;Outros;Produto profissional;;Embalagem (190G);1;Maxitex;;Inativo;0;NAO
+630005;Refil Umido 350 Ponta Loop Cru Bralimpia;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630006;Refil Mop Po 40 X 12 Cm - Euro;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;9;NAO
+630007;Refil Mop Po 60 X 12 Cm - Euro;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+630008;Refil Mop Po 80 X 12 Cm - Euro;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+630009;Mao Mecanica 75 Cm Azul;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;3;NAO
+630010;Pano De Copa S/estampa A Sarja 45x70cm;Outros;Outros;Produto profissional;;Unidade;1;Brulimp;;Inativo;0;NAO
+630011;Flanela 30 X 50;Outros;Outros;Produto profissional;;Unidade;1;Brulimp;;Ativo;1500;NAO
+630012;Refil Mop Umido P Dob C/loop 340g Azul;Outros;Outros;Produto profissional;;Embalagem (340G);1;Maxitex;;Inativo;0;NAO
+630013;Refil Mop Umido P Dob 340g(sp911p) C/loop-bettanin;Outros;Outros;Produto profissional;;Embalagem (340G);1;;;Inativo;0;NAO
+630014;Pano Multiuso PCT C/05 UN;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Pacote;5;Nobre;;Inativo;0;NAO
+630015;Pano De Copa C/estampa P Sarja 42x60cm;Outros;Outros;Produto profissional;;Unidade;1;Brulimp;;Ativo;150;NAO
+630016;Refil Mop Umido P Dob C/loop 340g;Outros;Outros;Produto profissional;;Embalagem (340G);1;Nobre;;Inativo;0;NAO
+630017;Refil Mop Umido 300g Loop Cru;Outros;Outros;Produto profissional;;Embalagem (300G);1;Bralimpia;;Inativo;0;NAO
+630018;Refil Mop Umido P.cort C/rosca 340g(9109p)-bettan;Outros;Outros;Produto profissional;;Embalagem (340G);1;;;Ativo;6;NAO
+630019;Refil Mop Po 60 X 15 Cm - Profi;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;17;NAO
+630020;Pano De Chao Grande Alv.100% Alg. 48x76;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Brulimp;;Ativo;167;NAO
+630021;Bandeira Do Estado Da Bahia 0,90 X 1,29 2 Panos;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630022;Bandeira Do Munic De Candeias 1,30x0,90 Dupla Face;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630023;Bandeira Da Cidade Do Salvador, 1,30 X 90 Cm;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630024;Bandeira Do Brasil 0,90 X 1,29 2 Panos;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630025;Bandeira Da Bahia, Tam 0,90x1,30 Reforçada;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630026;Bandeira Do Conselho, Tam 0,90x1,30 Reforçada;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630027;Bandeira Tam 1,50x1,05 Inst Prof Raimundo Pinheiro;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630028;Bandeira Munic De America Dourada 1,12x1,60 Bordad;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630029;Pano Chao Alvejado;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;;;Ativo;130;NAO
+630030;Mastro P/bandeira 2,10 Alt Em Aluminio C/lança;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630031;Bandeira Da Receita Federal 0,90 X 1,30;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630032;Bandeira Do Sicomercio, 1,00 X 0,70;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630033;Pano Mult Azul 28x300mt 600 Panos;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;10;NAO
+630034;Bandeira Do Brasil 1,61 X 1,13m Dupla Face;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630035;Bandeira Doestado Da Bahia 1,61 X 1,13m Dupla Face;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630036;Bandeira Da Aeo 0,90 X 1,30;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+630037;Bandeira Da Codeba 0,90 X 1,29 2 Panos;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680001;Esponja Dupla Face Utimix;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680002;Esponja De Aço C/8 Und;Outros;Outros;Produto profissional;;Unidade;1;Assolan;;Ativo;166;NAO
+680003;Fibra Limpeza Leve, Azul;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;60;NAO
+680004;Fibra Limpeza Pesada Verde 102x260-bettanin (9506);Produtos de Limpeza;Desincrustante e Limpeza Pesada;Produto profissional;;Unidade;1;;;Ativo;659;NAO
+680005;Fibra Limp Bettaço (fibraço) Bettanin(9500);Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;500;NAO
+680006;Disco Preto Removedor, Tam 35cm (9635);Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;10;NAO
+680007;Disco Verde Limpeza, Tam 35cm (9835);Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680008;Fibra Limpeza Leve, Bca Macia Bettanin (9504);Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;478;NAO
+680009;Disco Verde Limpeza Tam 41 Cm (9841);Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;24;NAO
+680010;Disco Preto Removedor, Tam 41cm (9641);Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;9;NAO
+680011;Esponja Magica Branca PCT C/10;Outros;Outros;Produto profissional;;Pacote;1;;;Inativo;0;NAO
+680012;Esponja D/face Am/verm (9407);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Inativo;0;NAO
+680013;Rolo Adesivo P/bolinha De Roupas;Outros;Outros;Produto profissional;;Unidade;1;Scoth Brite;;Inativo;0;NAO
+680014;Esponja D/face Azul 75x110mm (9418);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Ativo;254;NAO
+680015;Disco Branco Brilho, Tam 35cm (9935);Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;6;NAO
+680016;Adesivos Para Contentores;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680017;Disco Verde Limpeza, Tam 51cm (9851);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Ativo;1;NAO
+680018;Disco Preto Removedor, Tam 51cm (9651);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Ativo;17;NAO
+680019;Disco Branco Brilho, Tam 51cm (9951) Bettanin;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680020;Escova Nylon 350 C/flange;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;9;NAO
+680021;Esponja Macia Amarela (9399);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Inativo;0;NAO
+680022;Disco Branco Brilho, Tam 41cm (9941);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Inativo;0;NAO
+680023;Esponja De Aço Inox Max L.pesada;Outros;Outros;Produto profissional;;Unidade;1;Nobre;;Inativo;0;NAO
+680024;Escova De Nylon Bralimpia 350mm;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680025;Escova De Nylon Bralimpia 410mm;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680026;Escova De Nylon Bralimpia 510mm;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680027;Escova De Nylon Bralimpia 440mm;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+680028;Disco Pelo De Porco Polimento De Pisos 510mm;Outros;Outros;Produto profissional;;Unidade;1;3M;;Inativo;0;NAO
+6805309000;Esponja D/face Bca/verm 75x110 (9403);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Ativo;309;NAO
+700000;Jarra De Vidro Mobile 15lt;Outros;Outros;Produto profissional;;Galão (15L);1;;;Inativo;0;NAO
+700001;Taça Champagne;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700002;Sousplat Aço Inox Cosmos;Outros;Outros;Produto profissional;;Unidade;1;Tramontina;;Inativo;0;NAO
+700003;Guardanapo 20x20,5cm, FD 40x50fls;Papel e Descartáveis;Guardanapo;Produto profissional;;Unidade;1;Imperial;;Ativo;5;NAO
+700004;Petisqueira Colonial Redonda;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700005;Espelho De Segurança Convexo 50cm;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700006;Espelho De Segurança Convexo 60cm;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700007;Sinalizador De Garagem Bivolt;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700008;Quebra Molas Borracha Meio 100x35x5cm;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700009;Kit Para Fixacao;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700010;Ponteira Q.molas Borracha Fim 17,5x35x5cm;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700011;Rechaud Retang Aço Inox Tpa Girat 2 Cubas;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Tramon;;Inativo;0;NAO
+700012;Prato Redondo Raso Porcelana Refeiçao, Branca;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700013;Prato Redondo Fundo Porcelana Refeiçao, Branca;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700014;Prato Redondo Raso Porcelana Sobremesa, Branca;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700015;Xicara C/pires Porcelana , Branca;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700016;Rack P/lavagem De Copos C/dezesseis Compart;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700017;Rack P/lavagem De Pratos Com Pinos;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700018;Rack P/lavagem De Talheres, Malha Fina;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+700019;Rechaud De Ferro Fund C/02 Fogareiros;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Fumil;;Inativo;0;NAO
+700020;Panela De Ferro Fund 9l C/fogareiro;Outros;Outros;Produto profissional;;Galão (9L);1;Fumil;;Inativo;0;NAO
+700021;Balde Gelo C/pinça 950ml Moncayo/bormioli Rocco;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;;;Inativo;0;NAO
+700022;Rechaud Aço Inox Redondo Tpa Girat;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Tramontina;;Inativo;0;NAO
+700023;Lacre De Segurança PCT C/100un Mod Ancora;Outros;Outros;Produto profissional;;Pacote;100;;;Inativo;0;NAO
+700024;Lacre De Segurança PCT C/100un Mod Trava Dupla;Outros;Outros;Produto profissional;;Pacote;100;;;Inativo;0;NAO
+700025;Bowl De Louça Branca 350ml;Outros;Outros;Produto profissional;;Frasco (350ml);1;;;Inativo;0;NAO
+73193000;Alfinete P/mapa Cores C/50un;Outros;Outros;Produto profissional;;Caixa;50;Leonora;;Ativo;139;SIM
+73239300;Lixeira Inox C/tampa Basculante 18,5x29cm;Equipamentos de Higiene;Coletores e Contentores;Produto profissional;;Unidade;1;Brinox;;Ativo;15;SIM
+73269090;Rastelo Jardim Metal 18 Dentes Cabo 120-tramontina;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;SIM
+760001;Extensao Telescopica 4,5m 3 Estágio;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+760002;Marmita C/ 3 Divisões Alumínio C/100un;Papel e Descartáveis;Pratos e Bandejas;Produto profissional;;Caixa;100;;;Inativo;0;NAO
+760003;Organizador P/vassouras 6 Lugares Azul;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Bralimpi;;Inativo;0;NAO
+76071990;Quentinha De Aluminio Manual Nr 09 C/100;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+76169900;Escada De Alum Domestica 05 Degraus;Outros;Outros;Produto profissional;;Unidade;1;Mor;;Inativo;0;NAO
+820001;Raspador Multiuso 10cm Azul;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Unidade;1;Bralimpia;;Ativo;2;NAO
+820002;Barbeador Ult.grip Azul Cart.6x2un- Prestobarba;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+820003;Laminas Para Raspador Multiuso;Produtos de Limpeza;Limpador Multiuso;Uso geral em superfícies;;Unidade;1;Bralimpia;;Ativo;20;NAO
+82141000;Apontador Simples C/24;Outros;Outros;Produto profissional;;Unidade;1;Axe;;Ativo;95;SIM
+83052000;Grampos 26/6 C/5000un;Outros;Outros;Produto profissional;;Caixa;5000;Cis;;Inativo;0;SIM
+83059000;Clips Nr.4/0 C/25 UN;Outros;Outros;Produto profissional;;Caixa;25;Ferplas;;Ativo;70;SIM
+840001;Kit Aparelho Purificador De Ar;Higiene Pessoal;Aromatizantes e Purificadores;Ambiente fresco por horas;;Unidade;1;Nobre;;Inativo;0;NAO
+840002;Enceradeira Indl Mod Cl350 110v Plus;Outros;Outros;Auto brilho para pisos;;Unidade;1;Cleaner;;Inativo;0;NAO
+840003;Bebedouro De Pressao Brx 40 Inox 127v;Outros;Outros;Produto profissional;;Unidade;1;Begel;;Inativo;0;NAO
+840004;Bebedouro Master Stille Inox 127v;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+840005;Enceradeira Indl Allclean 40;Outros;Outros;Auto brilho para pisos;;Unidade;1;Romher;;Inativo;0;NAO
+840006;Enceradeira Indl Allclean 51;Outros;Outros;Auto brilho para pisos;;Unidade;1;Romher;;Inativo;0;NAO
+840007;Filtro Para Bebedouro;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;1;NAO
+840008;Bebedouro Master Stille Inox 220v;Outros;Outros;Produto profissional;;Unidade;1;Begel;;Inativo;0;NAO
+840009;Bebedouro Brx 40 Inox 220v;Outros;Outros;Produto profissional;;Unidade;1;Begel;;Inativo;0;NAO
+840010;Bebedouro Cinza De Garrafao 220v;Outros;Outros;Produto profissional;;Unidade;1;Begel;;Inativo;0;NAO
+840011;Lavadora Carpete 110v 1400w;Outros;Outros;Produto profissional;;Unidade;1;Karcher;;Inativo;0;NAO
+840012;Enceradeira 500mm;Outros;Outros;Auto brilho para pisos;;Unidade;1;Cleaner;;Inativo;0;NAO
+840013;Bebedouro De Mesa Stille Branco 110/220v;Outros;Outros;Produto profissional;;Unidade;1;Begel;;Inativo;0;NAO
+840014;Balde Esprem Doblo 2 Aguas 30lt Azul;Utensílios de Limpeza;Baldes com Espremedor;Sistema duplo, alta capacidade;;Barrica (5L);1;Bralimpia;;Inativo;0;NAO
+840015;Balde Doblo 20 Flex Amarelo;Utensílios de Limpeza;Baldes;Produto profissional;;Barrica (5L);1;Bralimpia;;Ativo;3;NAO
+840016;Kit Epi (prot.auric./luva Latex/masc E Oculo Prot);EPI e Segurança;Luvas de Borracha;Proteção química e mecânica;;Unidade;1;;;Inativo;0;NAO
+840017;Aspirador De Po;Outros;Outros;Produto profissional;;Unidade;1;Mondial;;Inativo;0;NAO
+840018;Extratora Prof Limpeza Pisos E Carpetes;Outros;Outros;Produto profissional;;Unidade;1;Karcher;;Inativo;0;NAO
+840019;Oculos Ampla Visao C/valv Inc Carbografite;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+840020;Oculos De Acrilico;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+840021;Balde Esprem Doblo 2 Aguas 50lt;Utensílios de Limpeza;Baldes com Espremedor;Sistema duplo, alta capacidade;;Barrica (5L);1;Bralimpia;;Inativo;0;NAO
+840022;Garrafa Termica Lumina 1,8l;Outros;Outros;Produto profissional;;Frasco (1L);1;Termolar;;Inativo;0;NAO
+840023;Botijao Term.maxitermo 12l (azul E Verm)-termolar;Outros;Outros;Produto profissional;;Galão (12L);1;;;Inativo;0;NAO
+840024;Botijao Termico Maxitermo 12l Verm,;Outros;Outros;Produto profissional;;Galão (12L);1;Termolar;;Inativo;0;NAO
+840025;Garrafa Termica 2,5l (azul E Verme.);Outros;Outros;Produto profissional;;Frasco (2L);1;Soprano;;Inativo;0;NAO
+840026;Garrafa Termica Verm, 2,5l;Outros;Outros;Produto profissional;;Frasco (2L);1;Soprano;;Inativo;0;NAO
+840027;Botijao Termico Palace 9,5l Inox -;Outros;Outros;Produto profissional;;Galão (9L);1;;;Inativo;0;NAO
+840028;Enceradeira Indl Mod Cl500 220v Plus;Outros;Outros;Auto brilho para pisos;;Unidade;1;Cleaner;;Inativo;0;NAO
+840029;Frigobar 120l Branco 110v;Outros;Outros;Produto profissional;;Galão (120L);1;;;Inativo;0;NAO
+840030;Aspirador Po Liq Nt 20/1 220v;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+840031;Inversor Maquina De Solda Bantam Plus 220v;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+840032;Esmerilhadeira Gws850 220v M14+ 3 Discos;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+840033;Furadeira Imp Gsb13 Re 220v Maleta;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+840034;Serra Corte Rapida Portatil 355mm 220v M2401g;Outros;Outros;Produto profissional;;Embalagem (2401G);1;;;Inativo;0;NAO
+840035;Grampeador Manual P/tapeceiro;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+840036;Televisor Smart Tv Led 43 J5290 Sansung;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+84212100;"Filtro Bco 7""c/refil E Rosca Ent/saida 1/2-polifil";Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+84212101;Refil De Carvao Ativado P/polifil 200 C/rosca 1/2;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+84518000;Conj Mop Po 60cm (refil+cabo Alum+armaçao) Bralimp;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;SIM
+84729040;Perfurador 2 Furos 10 Fl;Outros;Outros;Produto profissional;;Unidade;1;Cis;;Inativo;0;SIM
+850001;Fita Lto Ultri4 P/armaz Dados C/cap800gb/1.6tb-hp;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+850002;Lampada Led 9w Branca;Outros;Outros;Produto profissional;;Unidade;1;Kian;;Ativo;150;NAO
+850003;Lampada Led 6,5w;Outros;Outros;Produto profissional;;Unidade;1;Glight;;Inativo;0;NAO
+85232911;Midia De Dvd-rw;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+85234029;Cd-rw 80min 700mb;Outros;Outros;Produto profissional;;Unidade;1;Maxprint;;Inativo;0;SIM
+85392200;Lampada Incand.clara 60w, 127v;Outros;Outros;Produto profissional;;Unidade;1;Osram;;Inativo;0;NAO
+85393100;Lampada Fluor.tripla 15w 127v;Outros;Outros;Produto profissional;;Unidade;1;Silvania/Avant;;Ativo;3;SIM
+87168000;Carro Armazem 200kg;Outros;Outros;Produto profissional;;Embalagem (200Kg);1;;;Inativo;0;NAO
+900034;Vassoura Piaçava 28cm C/ 22 Furos;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Ativo;1;NAO
+90172000;Regua Cristal 30cm;Outros;Outros;Produto profissional;;Unidade;1;Bandeirante;;Ativo;17;SIM
+9021000;Cha Hortela C/10 Saquinhos;Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Marata;;Inativo;0;NAO
+940001;Suporte Metalico P/pano M.uso Em Rolo;Outros;Outros;Produto profissional;;Unidade;1;Nobre;;Inativo;0;NAO
+940002;Colchonete Trad Para Ginastica 100x45x3;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+940003;Apito Com Cordao Modelo Profissional Fox40;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+940004;Cronometro Eletronico Vollo Vl-4809;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+940005;Bola Oficial De Futsal Masculina Kagiva F5;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+940006;Mesa Poliet Retang C/pes Dobraveis C183xl76xa74;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+94018000;Cadeira Caixa Secretaria,em Tecido S/braço-frisoka;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;SIM
+94037000;Mesa Poliet Retang C/pes Dobraveis C243xl75xa74;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;SIM
+960001;Vassoura Piacava Cepo;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Inativo;0;NAO
+960002;Rodo Plastico 40 Cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Inativo;0;NAO
+960003;Vassoura Pelo 40cm;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Ativo;34;NAO
+960004;Vassoura Sanitario Piaçava Cabo Plastico;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Ativo;147;NAO
+960005;Vassoura Piaçava Chapa;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Inativo;0;NAO
+960006;Vassoura Gari 40cm Piaçava C/cabo De 1,20m;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Ativo;31;NAO
+960007;Vassoura Sanitario Nylon;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Buri;;Ativo;86;NAO
+960008;Rodo Plastico 30 Cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Ativo;43;NAO
+960009;Rodo Plastico 60 Cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Alves;;Inativo;0;NAO
+960010;Vassoura Gari Nylon 40cm;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;79.20.00.00155738-6;;Ativo;6;NAO
+960011;Vassoura Pelo Base Plast 60 Cm -buri;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Ativo;12;NAO
+960012;Cabo De Aluminio 1,40;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Unidade;1;Bettanin;;Inativo;0;NAO
+960013;Rodo De Aluminio 40 Cm C/cabo De 1,5m;Produtos de Limpeza;Limpa Alumínio;Alta durabilidade;;Unidade;1;;;Inativo;0;NAO
+960014;Rodo De Aluminio 60cm C/cabo De 1,50mt;Produtos de Limpeza;Limpa Alumínio;Alta durabilidade;;Unidade;1;;;Ativo;41;NAO
+960015;Rodo De Aluminio 100cm C/cabo De 1,5m;Produtos de Limpeza;Limpa Alumínio;Alta durabilidade;;Unidade;1;;;Ativo;6;NAO
+960016;Cabo De Aluminio C/rosca E Manopla 1,5m;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Unidade;1;R2000;;Ativo;21;NAO
+960017;Luva C/ Aplicador De Cera 35cm S/cabo, Bralimpia;Outros;Outros;Auto brilho para pisos;;Unidade;1;;;Inativo;0;NAO
+960018;Cabo Alum C/manopla 1,40m X 22m Azul;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960019;Rodo Plastico 45cm Dry Azul Sem Cabo;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960020;Rodo Plastico 55cm Dry Azul S/cabo;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960021;Rodo Plastico 65cm Dry, Azul;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Inativo;0;NAO
+960022;Haste Tpo Euro Plastica Azul;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960023;Rodo Combinado 25cm S/ Cabo;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Bralimpia;;Ativo;3;NAO
+960024;Vassoura Multiuso/noviça (9675c);Produtos de Limpeza;Limpador Multiuso;Uso interno, cerdas macias;;Unidade;1;Bettanin;;Ativo;28;NAO
+960025;Rodo De Aluminio 50 Cm;Produtos de Limpeza;Limpa Alumínio;Alta durabilidade;;Unidade;1;;;Inativo;0;NAO
+960026;Rodo De Aluminio 80 Cm;Produtos de Limpeza;Limpa Alumínio;Alta durabilidade;;Unidade;1;;;Inativo;0;NAO
+960027;Vasculhador De Teto Sisal;Outros;Outros;Produto profissional;;Unidade;1;A.Douradas;;Ativo;27;NAO
+960028;Vassoura De Canto Super Tupy (9021c);Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Bettanin;;Inativo;0;NAO
+960029;Vassoura Escovao C/cabo;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Ativo;26;NAO
+960030;Escova Oval S/alça;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;51;NAO
+960031;Escova P/azulejos E Cantinhos (9139);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Ativo;33;NAO
+960032;Escova P/vaso C/suporte Sanilux/polial (9143);Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;38;NAO
+960033;Vassoura Casa E Rua C/cabo (9001c);Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Bettanin;;Ativo;11;NAO
+960034;Vassoura De Pelo Base Madeira 60 Cm;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Inativo;0;NAO
+960035;Suporte Plastico P/mop Umido Bettanin;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+960036;Presilha Suporte Plast Mop Umido;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;60;NAO
+960037;Vassoura Nylon Multiuso;Produtos de Limpeza;Limpador Multiuso;Uso interno, cerdas macias;;Unidade;1;Polial;;Ativo;83;NAO
+960038;Cabo Chapa De Aço C/rosca 120cm (9015);Alimentos - Bebidas e Mercearia;Café e Chás;Produto profissional;;Unidade;1;Bettanin;;Ativo;25;NAO
+960039;Vassoura Patio Sintetica;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Oriental;;Inativo;0;NAO
+960040;Vassoura Gari Piaçava 60cm;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Inativo;0;NAO
+960041;Escova Limpa Grelha Aço C/cabo Plast;Outros;Outros;Produto profissional;;Unidade;1;Western;;Ativo;5;NAO
+960043;Vassoura Piaçava Sintetica C/capa;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Uranos;;Inativo;0;NAO
+960044;Vassoura De Canto;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Polial;;Ativo;10;NAO
+960045;Espanador De Pena 20cm;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;1;NAO
+960046;Rodo Combinado 35cm S/cabo;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Bralimpia;;Ativo;1;NAO
+960047;Suporte P/mop Pó 60cm;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960048;Armaçao Euro 40cm;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;9;NAO
+960049;Armaçao Euro 60cm;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;3;NAO
+960050;Espanador Eletrostatico;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;4;NAO
+960051;Cabo De Aluminio 1,40 Amar;Produtos de Limpeza;Limpa Alumínio;Produto profissional;;Unidade;1;Bettanin;;Inativo;0;NAO
+960052;Vassoura Lavatina;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;;;Ativo;27;NAO
+960057;Cabo Extensor Aluminio C/rosca 4,5mt;Produtos de Limpeza;Limpa Alumínio;Alta durabilidade;;Unidade;1;Rodos2000;;Ativo;4;NAO
+960058;Rodo Limpa Vidros 35cm C/cabo Ext 1,5;Produtos de Limpeza;Limpa Vidros;Alta durabilidade;;Unidade;1;Rodo2000;;Ativo;5;NAO
+960059;Vassoura Patio Piaçava;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Oriental;;Inativo;0;NAO
+960060;Rodo Plastico 40 Cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Bettanin;;Inativo;0;NAO
+960061;Rodo Plast.borracha Dupla 40cm (9054c);Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Bettanin;;Ativo;14;NAO
+960062;Vassoura Patio Sintetica C/cabo De 1,20m;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;Alves;;Ativo;91;NAO
+960063;Rodo Limpa Vidros 22cm C/cabo Ext 1,5m;Produtos de Limpeza;Limpa Vidros;Alta durabilidade;;Unidade;1;Rodo2000;;Inativo;0;NAO
+960064;Rodo Para Pia 16cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Plasutil;;Ativo;16;NAO
+960065;Escova Oval C/alça;Outros;Outros;Produto profissional;;Unidade;1;-9144;;Ativo;12;NAO
+960066;Escova Para Unhas (9138t);Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;14;NAO
+960067;Refil La E Borracha Limpa Vidros 22cm;Produtos de Limpeza;Limpa Vidros;Alta durabilidade;;Unidade;1;Rodos2000;;Ativo;20;NAO
+960068;Escova Sanitaria C/suporte;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;9;NAO
+960069;Vassoura De Pelo Animal 30 Cm;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;A.Douradas;;Inativo;0;NAO
+960070;Cabo Alum C/punho Cinza1,50cm (cod 1354);Outros;Outros;Produto profissional;;Unidade;1;Rubberm;;Inativo;0;NAO
+960071;Rodo Plast Cinza 65cm S/cabo (cod 1344);Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Rubberm;;Inativo;0;NAO
+960072;Cabo Alum C/manopl 1,40m X 22m Amarelo;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960073;Cabo Alum C/manop 1,40m X 22m Vermelho;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960074;Presilha Plast.s/cabo C/pinca Amarela;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960075;Presilha Plast.s/cabo C/pinca Vermelha;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960076;Ponteira Hexagonal C/mola;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;28;NAO
+960077;Haste Tpo Euro Plastica Amarela;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960078;Haste Tpo Euro Plastica Vermelha;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960079;Vassoura Piaçava Chapa Plug;Utensílios de Limpeza;Vassouras;Uso interno, cerdas macias;;Unidade;1;A.Douradas;;Inativo;0;NAO
+960080;Armaçao Profi 40cm;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;7;NAO
+960081;Armaçao Profi 80cm;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Inativo;0;NAO
+960082;Refil Mop Po 80 X 15 Cm - Profi;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;18;NAO
+960083;Refil Mop Po 40 X 15 Cm - Profi;Outros;Outros;Produto profissional;;Unidade;1;Bralimpia;;Ativo;5;NAO
+960084;Cabo De Madeira Natural Plastificado;Outros;Outros;Produto profissional;;Unidade;1;;;Inativo;0;NAO
+960085;Caneta Esferog Que Apaga Bl-fr7 Azul;Outros;Outros;Produto profissional;;Unidade;1;Pilot;;Ativo;12;NAO
+960086;Rodo Combinado 35cm (sp9061);Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;Bettanin;;Inativo;0;NAO
+960087;Rodo Com Propulsor Completo 1,30cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Inativo;0;NAO
+960088;Jogo Borrachas Rodo Propulsor 130cm;Utensílios de Limpeza;Rodos e Refis;Alta durabilidade;;Unidade;1;;;Inativo;0;NAO
+960089;Refil Mop Umido 320g Loop Cru;Outros;Outros;Produto profissional;;Embalagem (320G);1;Bralimpia;;Inativo;0;NAO
+960090;Balde Aplicador De Cera 35cm Azul;Utensílios de Limpeza;Baldes;Auto brilho para pisos;;Barrica (5L);1;Bralimpia;;Inativo;0;NAO
+960091;Refil La E Borracha Limpa Vidros 35cm;Produtos de Limpeza;Limpa Vidros;Alta durabilidade;;Unidade;1;Rodos2000;;Ativo;6;NAO
+960092;Funil Plastico;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;7;NAO
+960093;Suporte P/bobina Fundo Estrela;Outros;Outros;Produto profissional;;Unidade;1;;;Ativo;4;NAO
+960094;Cabo Extensor Aluminio C/rosca 6mt;Produtos de Limpeza;Limpa Alumínio;Alta durabilidade;;Unidade;1;Rodos2000;;Ativo;4;NAO
+960095;Escova Limpa Grelha 3x1 36cm;Outros;Outros;Produto profissional;;Unidade;1;Mimo Style;;Ativo;24;NAO
+96039000;Refil Mop Umido C/rosca (9117p);Outros;Outros;Produto profissional;;Unidade;1;Bettanin;;Inativo;0;SIM
+96081000;Caneta Cristal Fina Azul;Outros;Outros;Produto profissional;;Unidade;1;Bic;;Ativo;153;SIM
+96082000;Marcador P/quadro Bco Azul/verm E Pto CX C/12-bic;Outros;Outros;Produto profissional;;Caixa;1;;;Ativo;217;SIM
+96084000;Lapiseira Grafite 0,7;Outros;Outros;Produto profissional;;Unidade;1;Mercur;;Inativo;0;SIM
+96092000;Mina Grafite 0.7mm C/12un;Outros;Outros;Produto profissional;;Caixa;12;Leonora;;Ativo;46;SIM
+96122000;Almofada P/carimbo Azul;Outros;Outros;Produto profissional;;Unidade;1;Japan;;Ativo;11;SIM
+[390083;Saco P/lixo 40 LT Preto 45x52;Papel e Descartáveis;Sacos para Lixo;Resistente, para coleta seletiva;;Galão (40L);1;Rava;;Ativo;246;NAO
