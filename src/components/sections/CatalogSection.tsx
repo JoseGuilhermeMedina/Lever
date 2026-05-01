@@ -185,7 +185,7 @@ export function CatalogSection() {
                                                                     </span>
                                                                 )}
                                                                 <a 
-                                                                    href={`https://wa.me/[NUMERO_WHATSAPP]?text=Olá, gostaria de solicitar um orçamento para: ${item.name}`}
+                                                                    href={`https://wa.me/557191068208?text=Olá, gostaria de solicitar um orçamento para: ${item.name}`}
                                                                     target="_blank"
                                                                     rel="noopener noreferrer"
                                                                     className="bg-navy text-white text-xs font-bold px-4 py-2 rounded-lg hover:bg-cyan transition-all flex items-center gap-2 shadow-lg shadow-navy/10"

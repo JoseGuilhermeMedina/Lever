@@ -200,7 +200,7 @@ export function ContactSection() {
                                 <div>
                                     <h4 className="font-bold text-lg mb-1">WhatsApp de Vendas</h4>
                                     <a href={buildWhatsAppURL(whatsappNumber, 'Olá')} target="_blank" rel="noopener noreferrer" className="text-slate-300 hover:text-white transition-colors">
-                                        (71) 99106-8208
+                                        +55 71 9106-8208
                                     </a>
                                 </div>
                             </div>
