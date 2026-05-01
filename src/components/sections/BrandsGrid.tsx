@@ -77,7 +77,9 @@ export function BrandsGrid({ selectedBrand, onBrandSelect }: BrandsGridProps) {
                         className="text-white/60 font-medium"
                         style={{ fontSize: 'clamp(1rem, 2.5vw, 1.25rem)', lineHeight: 1.5 }}
                     >
-                        Selecione uma marca para filtrar o catálogo abaixo.
+                        {onBrandSelect 
+                            ? "Selecione uma marca para filtrar o catálogo abaixo." 
+                            : "As melhores marcas do mercado para o seu negócio."}
                     </motion.p>
                 </div>
 

@@ -3,7 +3,7 @@ import { StatsBar } from '../components/sections/StatsBar';
 import { PartnersSection } from '../components/sections/PartnersSection';
 import { CategoriesSection } from '../components/sections/CategoriesSection';
 import { FeaturedProducts } from '../components/sections/FeaturedProducts';
-import { CatalogSection } from '../components/sections/CatalogSection';
+import { BrandsGrid } from '../components/sections/BrandsGrid';
 import { AboutSection } from '../components/sections/AboutSection';
 import { DifferentialsSection } from '../components/sections/DifferentialsSection';
 import { FAQSection } from '../components/sections/FAQSection';
@@ -26,7 +26,7 @@ export function HomePage() {
         <FeaturedProducts />
         <SectionDivider color="#153243" type="layered" position="bottom" />
       </div>
-      <CatalogSection />
+      <BrandsGrid />
       <AboutSection />
       <div className="relative">
         <SectionDivider color="#153243" type="soft" position="top" />
