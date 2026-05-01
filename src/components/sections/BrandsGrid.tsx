@@ -37,7 +37,19 @@ const itemVariants = {
     }
 };
 
-export function BrandsGrid() {
+interface BrandsGridProps {
+    selectedBrand?: string | null;
+    onBrandSelect?: (brandName: string | null) => void;
+}
+
+export function BrandsGrid({ selectedBrand, onBrandSelect }: BrandsGridProps) {
+    const handleBrandClick = (brandName: string) => {
+        if (onBrandSelect) {
+            // Se clicar na mesma marca, remove o filtro
+            onBrandSelect(selectedBrand === brandName ? null : brandName);
+        }
+    };
+
     return (
         <section className="bg-navy py-16 md:py-24 border-t border-white/5 relative z-10">
             {/* Elemento decorativo de background */}
@@ -65,7 +77,7 @@ export function BrandsGrid() {
                         className="text-white/60 font-medium"
                         style={{ fontSize: 'clamp(1rem, 2.5vw, 1.25rem)', lineHeight: 1.5 }}
                     >
-                        Trabalhamos com os melhores fabricantes do mercado.
+                        Selecione uma marca para filtrar o catálogo abaixo.
                     </motion.p>
                 </div>
 
@@ -81,19 +93,46 @@ export function BrandsGrid() {
                             key={brand.name}
                             variants={itemVariants}
                             tabIndex={0}
-                            aria-label={`Marca parceira: ${brand.name}`}
-                            className="group relative flex items-center justify-center p-6 bg-[#3a89b5] rounded-2xl shadow-md hover:brightness-110 transition-all duration-300 focus-visible:outline-2 focus-visible:outline-cyan focus-visible:outline-offset-2 aspect-[3/2] cursor-pointer overflow-hidden"
+                            role="button"
+                            aria-pressed={selectedBrand === brand.name}
+                            aria-label={`Filtrar por marca: ${brand.name}`}
+                            onClick={() => handleBrandClick(brand.name)}
+                            onKeyDown={(e) => e.key === 'Enter' && handleBrandClick(brand.name)}
+                            className={`group relative flex items-center justify-center p-6 rounded-2xl shadow-md transition-all duration-300 focus-visible:outline-2 focus-visible:outline-cyan focus-visible:outline-offset-2 aspect-[3/2] cursor-pointer overflow-hidden ${
+                                selectedBrand === brand.name 
+                                ? 'bg-cyan ring-4 ring-cyan/20 scale-105' 
+                                : 'bg-[#3a89b5] hover:brightness-110'
+                            }`}
                             style={{ willChange: 'transform' }}
                         >
                             <img 
                                 src={brand.logo} 
                                 alt={brand.name} 
-                                className="max-h-full max-w-full object-contain filter grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-300 group-hover:scale-110"
+                                className={`max-h-full max-w-full object-contain transition-all duration-300 group-hover:scale-110 ${
+                                    selectedBrand === brand.name 
+                                    ? 'grayscale-0 opacity-100 invert brightness-0' // Logo fica branco no fundo cyan ativo
+                                    : 'filter grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100'
+                                }`}
                                 loading="lazy"
                             />
                         </motion.div>
                     ))}
                 </motion.div>
+                
+                {selectedBrand && (
+                    <motion.div 
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        className="text-center mt-12"
+                    >
+                        <button 
+                            onClick={() => onBrandSelect?.(null)}
+                            className="text-cyan hover:text-white transition-colors flex items-center gap-2 mx-auto font-medium"
+                        >
+                            <span>✕</span> Limpar filtro de marca
+                        </button>
+                    </motion.div>
+                )}
             </div>
 
             <style>{`

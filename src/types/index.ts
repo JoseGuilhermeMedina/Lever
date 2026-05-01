@@ -8,6 +8,9 @@ export interface Product {
     id: string;
     name: string;
     category: CategoryID;
+    brand?: string;
+    group?: string;
+    subgroup?: string;
     description: string;
     imageUrl?: string;
     images?: string[];
