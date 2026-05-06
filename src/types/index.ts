@@ -1,6 +1,6 @@
 
 
-export type CategoryID = 'limpeza' | 'equipamentos' | 'quimicos' | 'descartaveis' | 'higiene' | 'industrial';
+export type CategoryID = 'limpeza' | 'descartaveis' | 'copa' | 'promocoes';
 
 export type Badge = 'Mais Vendido' | 'Concentrado' | 'Pronto Uso' | 'Uso Industrial' | 'Caixa Master' | 'Oferta' | 'Lançamento' | 'Uso Profissional' | 'Linha Completa' | 'Design Premium' | 'Marcas Parceiras';
 

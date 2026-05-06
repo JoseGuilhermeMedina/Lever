@@ -2,7 +2,7 @@ import { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Filter, ChevronRight, Package, MessageCircle, X } from 'lucide-react';
 import { BrandsGrid } from './BrandsGrid';
-import { useSpreadsheetProducts } from '../../hooks/useSpreadsheetProducts';
+import { staticProducts } from '../../data/staticProducts';
 import { categories } from '../../data/categories';
 import type { Product } from '../../types';
 
@@ -23,7 +23,7 @@ const brandItemsImages: Record<string, string | string[]> = {
 };
 
 export function CatalogSection() {
-    const { products, loading, error } = useSpreadsheetProducts();
+    const products = staticProducts;
     const [selectedBrand, setSelectedBrand] = useState<string | null>(null);
     const [selectedCategory, setSelectedCategory] = useState<string | 'all'>('all');
     const [searchQuery, setSearchQuery] = useState('');
@@ -31,54 +31,28 @@ export function CatalogSection() {
 
     const filteredProducts = useMemo(() => {
         return products.filter(product => {
-            const matchesBrand = !selectedBrand || product.brand === selectedBrand;
             const matchesCategory = selectedCategory === 'all' || 
                                    product.category === selectedCategory;
             const matchesSearch = !searchQuery || 
                                  product.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
                                  product.description.toLowerCase().includes(searchQuery.toLowerCase());
             
-            return matchesBrand && matchesCategory && matchesSearch && product.isActive;
+            return matchesCategory && matchesSearch && product.isActive;
         });
-    }, [products, selectedBrand, selectedCategory, searchQuery]);
+    }, [products, selectedCategory, searchQuery]);
 
     const groupedProducts = useMemo(() => {
         const groups: Record<string, Product[]> = {};
         filteredProducts.forEach(product => {
-            const subgroup = product.subgroup || 'Geral';
-            if (!groups[subgroup]) groups[subgroup] = [];
-            groups[subgroup].push(product);
+            const categoryObj = categories.find(c => c.id === product.category);
+            const groupName = product.subgroup || categoryObj?.label || 'Linha de Produtos';
+            if (!groups[groupName]) groups[groupName] = [];
+            groups[groupName].push(product);
         });
         return groups;
     }, [filteredProducts]);
 
-    if (loading) {
-        return (
-            <div className="min-h-[60vh] flex items-center justify-center">
-                <div className="flex flex-col items-center gap-4">
-                    <div className="w-12 h-12 border-4 border-cyan border-t-transparent rounded-full animate-spin"></div>
-                    <p className="text-navy font-medium">Carregando catálogo completo...</p>
-                </div>
-            </div>
-        );
-    }
 
-    if (error) {
-        return (
-            <div className="min-h-[60vh] flex items-center justify-center bg-ice">
-                <div className="flex flex-col items-center gap-4 text-center px-4 max-w-md">
-                    <div className="w-20 h-20 bg-red-50 text-red-500 rounded-full flex items-center justify-center mb-2 shadow-sm border border-red-100">
-                        <X className="w-10 h-10" />
-                    </div>
-                    <h3 className="text-navy font-bold text-2xl tracking-tight">Ops! Problema de Conexão</h3>
-                    <p className="text-gray-500 leading-relaxed">{error}</p>
-                    <p className="text-xs text-gray-400 mt-4 bg-white p-4 rounded-xl border border-gray-200">
-                        Se a planilha foi publicada recentemente, aguarde alguns minutos ou verifique se ela foi exportada como "CSV" no menu Arquivo &gt; Compartilhar &gt; Publicar na Web.
-                    </p>
-                </div>
-            </div>
-        );
-    }
 
     return (
         <div id="catalogo" className="bg-ice">
@@ -189,17 +163,7 @@ export function CatalogSection() {
                                     </div>
                                 </div>
 
-                                {selectedBrand && (
-                                    <div className="p-6 bg-cyan/5 border border-cyan/10 rounded-2xl">
-                                        <p className="text-xs font-bold text-cyan uppercase tracking-tighter mb-2">Filtro Ativo</p>
-                                        <div className="flex items-center justify-between">
-                                            <span className="text-navy font-bold">{selectedBrand}</span>
-                                            <button onClick={() => setSelectedBrand(null)} className="text-cyan hover:text-navy">
-                                                <X className="w-4 h-4" />
-                                            </button>
-                                        </div>
-                                    </div>
-                                )}
+
                             </div>
                         </aside>
 
@@ -274,7 +238,6 @@ export function CatalogSection() {
                                         <p className="text-gray-400 font-medium">Nenhum produto encontrado com estes filtros.</p>
                                         <button 
                                             onClick={() => {
-                                                setSelectedBrand(null);
                                                 setSelectedCategory('all');
                                                 setSearchQuery('');
                                             }}
