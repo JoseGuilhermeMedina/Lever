@@ -6,6 +6,22 @@ import { useSpreadsheetProducts } from '../../hooks/useSpreadsheetProducts';
 import { categories } from '../../data/categories';
 import type { Product } from '../../types';
 
+// Mapeamento de imagens específicas por marca
+// TODO: Substituir os caminhos [INSERIR_IMAGEM_X_AQUI.jpg] pelas imagens reais quando disponíveis
+const brandItemsImages: Record<string, string | string[]> = {
+    'Bralimpia': '/images/bralimpia.png',
+    'SuperPro': '/images/bettanin.png', // SuperPro representa Bettanin
+    'Fortcom': '/images/[INSERIR_IMAGEM_FORTCOM_AQUI.jpg]',
+    'Guarany': '/images/produtos em destaque/PULVERIZADORES 300ml e 500ml - GUARANY.jpeg',
+    'Levuse': '/images/produtos em destaque/PURIFICADOR DE AR 400ML- LEV&UZE.jpeg',
+    'Oriental': [
+        '/images/oriental_1.png',
+        '/images/oriental_2.png',
+        '/images/oriental_3.png'
+    ],
+    'Ipel': '/images/ipel.png',
+};
+
 export function CatalogSection() {
     const { products, loading, error } = useSpreadsheetProducts();
     const [selectedBrand, setSelectedBrand] = useState<string | null>(null);
@@ -70,6 +86,59 @@ export function CatalogSection() {
                 selectedBrand={selectedBrand} 
                 onBrandSelect={setSelectedBrand} 
             />
+
+            {/* Banner da Marca Específica */}
+            <AnimatePresence mode="wait">
+                {selectedBrand && brandItemsImages[selectedBrand] && (
+                    <motion.div
+                        key={`banner-${selectedBrand}`}
+                        initial={{ opacity: 0, height: 0 }}
+                        animate={{ opacity: 1, height: 'auto' }}
+                        exit={{ opacity: 0, height: 0 }}
+                        transition={{ duration: 0.5, ease: "easeOut" }}
+                        className="overflow-hidden"
+                    >
+                        <div className="container mx-auto px-4 pt-12">
+                            <div className="max-w-6xl mx-auto bg-white rounded-2xl shadow-md border border-gray-100 overflow-hidden">
+                                <div className="p-4 bg-navy text-center">
+                                    <h3 className="font-bold text-white tracking-wider uppercase" style={{ fontSize: 'clamp(1rem, 2vw, 1.25rem)' }}>
+                                        Destaques da Marca - {selectedBrand === 'SuperPro' ? 'Bettanin' : selectedBrand}
+                                    </h3>
+                                </div>
+                                <div className="flex flex-col sm:flex-row justify-center items-center gap-6 bg-[#f8fafc] p-6 md:p-8">
+                                    {Array.isArray(brandItemsImages[selectedBrand]) ? (
+                                        (brandItemsImages[selectedBrand] as string[]).map((imgUrl, index) => (
+                                            <div key={index} className="flex-1 flex justify-center w-full h-full">
+                                                <img 
+                                                    src={imgUrl} 
+                                                    alt={`Itens específicos da marca ${selectedBrand === 'SuperPro' ? 'Bettanin' : selectedBrand} - Parte ${index + 1}`}
+                                                    className="max-w-full h-auto object-contain rounded-lg shadow-sm"
+                                                    style={{ maxHeight: '25vh' }}
+                                                    onError={(e) => {
+                                                        const target = e.target as HTMLImageElement;
+                                                        target.src = `https://placehold.co/800x400/f8fafc/153243?text=Imagem+${selectedBrand === 'SuperPro' ? 'Bettanin' : selectedBrand}+Pendente`;
+                                                    }}
+                                                />
+                                            </div>
+                                        ))
+                                    ) : (
+                                        <img 
+                                            src={brandItemsImages[selectedBrand] as string} 
+                                            alt={`Itens específicos da marca ${selectedBrand === 'SuperPro' ? 'Bettanin' : selectedBrand}`}
+                                            className="max-w-full h-auto object-contain rounded-lg shadow-sm"
+                                            style={{ maxHeight: '45vh' }}
+                                            onError={(e) => {
+                                                const target = e.target as HTMLImageElement;
+                                                target.src = `https://placehold.co/1200x400/f8fafc/153243?text=Imagem+${selectedBrand === 'SuperPro' ? 'Bettanin' : selectedBrand}+Pendente\n\nSubstitua+o+caminho+no+código`;
+                                            }}
+                                        />
+                                    )}
+                                </div>
+                            </div>
+                        </div>
+                    </motion.div>
+                )}
+            </AnimatePresence>
 
             <section className="py-12 md:py-20">
                 <div className="container mx-auto px-4">
