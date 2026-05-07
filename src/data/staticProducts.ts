@@ -2,8 +2,8 @@ import type { Product } from '../types';
 
 export const staticProducts: Product[] = [
     // --- Limpeza e Higiene ---
-    { id: 'limpeza-1', name: 'Itens de Casa', category: 'limpeza', description: 'Linha completa de itens essenciais para limpeza de casa.', isActive: true, isFeatured: false, badges: [], specs: [] },
-    { id: 'limpeza-2', name: 'Higiene Pessoal', category: 'limpeza', description: 'Produtos para higiene pessoal e cuidados essenciais.', isActive: true, isFeatured: false, badges: [], specs: [] },
+    { id: 'limpeza-1', name: 'Itens de Casa', category: 'limpeza', description: 'Linha completa de itens essenciais para limpeza de casa.', isActive: true, isFeatured: true, badges: ['Mais Vendido'], specs: [] },
+    { id: 'limpeza-2', name: 'Higiene Pessoal', category: 'limpeza', description: 'Produtos para higiene pessoal e cuidados essenciais.', isActive: true, isFeatured: true, badges: [], specs: [] },
     { id: 'limpeza-3', name: 'Equipamentos', category: 'limpeza', description: 'Equipamentos gerais para limpeza.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'limpeza-4', name: 'Aromatizadores e Neutralizadores', category: 'limpeza', description: 'Aromatizadores e neutralizadores de odores diversos.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'limpeza-5', name: 'Baldes', category: 'limpeza', description: 'Diversos tipos e tamanhos de baldes.', isActive: true, isFeatured: false, badges: [], specs: [] },
@@ -19,8 +19,8 @@ export const staticProducts: Product[] = [
     { id: 'limpeza-15', name: 'Vassouras', category: 'limpeza', description: 'Vassouras diversas para áreas internas e externas.', isActive: true, isFeatured: false, badges: [], specs: [] },
 
     // --- Descartáveis ---
-    { id: 'descartaveis-1', name: 'Copos', category: 'descartaveis', description: 'Copos descartáveis de água e café.', isActive: true, isFeatured: false, badges: [], specs: [] },
-    { id: 'descartaveis-2', name: 'Papel Higiênico', category: 'descartaveis', description: 'Papel higiênico em rolo e interfolha.', isActive: true, isFeatured: false, badges: [], specs: [] },
+    { id: 'descartaveis-1', name: 'Copos', category: 'descartaveis', description: 'Copos descartáveis de água e café.', isActive: true, isFeatured: true, badges: [], specs: [] },
+    { id: 'descartaveis-2', name: 'Papel Higiênico', category: 'descartaveis', description: 'Papel higiênico em rolo e interfolha.', isActive: true, isFeatured: true, badges: [], specs: [] },
     { id: 'descartaveis-3', name: 'Papel Toalha', category: 'descartaveis', description: 'Papel toalha interfolhado e bobina.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'descartaveis-4', name: 'Sacos para lixo', category: 'descartaveis', description: 'Sacos para lixo de diversas litragens (comum e reforçado).', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'descartaveis-5', name: 'Sacos Infectantes', category: 'descartaveis', description: 'Sacos brancos para lixo hospitalar e infectante.', isActive: true, isFeatured: false, badges: [], specs: [] },
@@ -29,7 +29,7 @@ export const staticProducts: Product[] = [
     { id: 'descartaveis-8', name: 'Bobina Picotada', category: 'descartaveis', description: 'Bobinas plásticas picotadas transparentes.', isActive: true, isFeatured: false, badges: [], specs: [] },
 
     // --- Copa ---
-    { id: 'copa-1', name: 'Café', category: 'copa', description: 'Pós de café tradicionais, extra fortes e grãos.', isActive: true, isFeatured: false, badges: [], specs: [] },
+    { id: 'copa-1', name: 'Café', category: 'copa', description: 'Pós de café tradicionais, extra fortes e grãos.', isActive: true, isFeatured: true, badges: [], specs: [] },
     { id: 'copa-2', name: 'Açúcar cristal e Sachê', category: 'copa', description: 'Açúcar em pacote ou sachês individuais.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'copa-3', name: 'Adoçante', category: 'copa', description: 'Adoçantes líquidos e em sachê.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'copa-4', name: 'Mexedor', category: 'copa', description: 'Mexedores plásticos e de madeira para café.', isActive: true, isFeatured: false, badges: [], specs: [] },
@@ -41,5 +41,5 @@ export const staticProducts: Product[] = [
     { id: 'copa-10', name: 'Lixeira de copo para café/ água', category: 'copa', description: 'Lixeiras tubulares dispenser para copos usados.', isActive: true, isFeatured: false, badges: [], specs: [] },
 
     // --- Promoções ---
-    { id: 'promocoes-1', name: 'Consulte nossos Itens Promocionais', category: 'promocoes', description: 'Entre em contato para saber das ofertas da semana!', isActive: true, isFeatured: false, badges: ['Oferta'], specs: [] },
+    { id: 'promocoes-1', name: 'Consulte nossos Itens Promocionais', category: 'promocoes', description: 'Entre em contato para saber das ofertas da semana!', isActive: true, isFeatured: true, badges: ['Oferta'], specs: [] },
 ];

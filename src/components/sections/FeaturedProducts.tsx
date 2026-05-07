@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { products } from '../../data/products';
+import { staticProducts as products } from '../../data/staticProducts';
 import { Card, CardContent } from '../ui/card';
 import { Badge } from '../ui/badge';
 import { Button } from '../ui/button';
