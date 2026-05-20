@@ -41,11 +41,15 @@ export function Footer() {
                         <ul className="flex flex-col gap-3">
                             <li className="flex items-center gap-3 text-sm">
                                 <MessageCircle className="w-4 h-4 text-cyan" />
-                                <span>(11) 99999-9999</span>
+                                <a href="https://wa.me/557191068208" target="_blank" rel="noopener noreferrer" className="hover:text-cyan transition-colors">
+                                    (71) 99106-8208
+                                </a>
                             </li>
                             <li className="flex items-center gap-3 text-sm">
                                 <Mail className="w-4 h-4 text-cyan" />
-                                <span>leverltda@gmail.com</span>
+                                <a href="mailto:leverltda@gmail.com" className="hover:text-cyan transition-colors">
+                                    leverltda@gmail.com
+                                </a>
                             </li>
                             <li className="flex items-start gap-3 text-sm">
                                 <MapPin className="w-4 h-4 text-cyan mt-1 flex-shrink-0" />
