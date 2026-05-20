@@ -5,6 +5,7 @@ import { buildWhatsAppURL } from '../../lib/utils';
 import { motion } from 'framer-motion';
 import { useHeroParallax } from '../../hooks/useHeroParallax';
 import { WHATSAPP_NUMBER } from '../../config/constants';
+import { Link } from 'react-router-dom';
 
 const containerVariants = {
     hidden: { opacity: 0 },
@@ -54,9 +55,10 @@ export function HeroSection() {
                     loop
                     muted
                     playsInline
+                    preload="auto"
                     className="absolute inset-0 w-full h-full object-cover"
                 >
-                    <source src="/Video.mp4" type="video/mp4" />
+                    <source src="/video.mp4" type="video/mp4" />
                 </video>
                 <div className="absolute inset-0 bg-black/60" />
                 <div className="absolute inset-0 bg-gradient-to-r from-navy/85 via-navy/55 to-transparent" />
@@ -138,15 +140,15 @@ export function HeroSection() {
                                     Orçamento WhatsApp
                                 </Button>
                             </a>
-                            <a href="#catalogo">
+                            <Link to="/sobre">
                                 <Button
                                     size="lg"
                                     variant="outline"
                                     className="w-full sm:w-auto border-white/40 text-white bg-white/5 backdrop-blur-md hover:bg-white hover:text-navy font-black h-14 md:h-16 px-10 text-sm uppercase tracking-widest transition-all duration-300"
                                 >
-                                    Ver Catálogo
+                                    Sobre a Empresa
                                 </Button>
-                            </a>
+                            </Link>
                         </motion.div>
 
                         {/* Features rápidas */}

@@ -59,14 +59,8 @@
   body {
     @apply bg-background text-foreground font-sans antialiased overflow-x-hidden;
     font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
-    cursor: none;
   }
 
-  a,
-  button,
-  [role="button"] {
-    cursor: none;
-  }
 
   html {
     scroll-behavior: smooth;

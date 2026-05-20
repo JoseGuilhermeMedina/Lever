@@ -8,10 +8,10 @@ import { Link, useLocation } from 'react-router-dom';
 import { WHATSAPP_NUMBER } from '../../config/constants';
 
 const NAV_LINKS = [
-    { label: 'Produtos', href: '#categorias' },
-    { label: 'Catálogo', href: '/catalogo', isPage: true },
-    { label: 'Sobre', href: '#sobre' },
-    { label: 'Contato', href: '#contato' },
+    { label: 'Início', href: '/', isPage: true },
+    { label: 'Catálogo', href: '#catalogo', isPage: false },
+    { label: 'Sobre a Empresa', href: '/sobre', isPage: true },
+    { label: 'Contato', href: '/sobre#contato', isPage: true },
 ];
 
 export function Header() {
@@ -37,7 +37,7 @@ export function Header() {
             <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
                 <Link to="/" className="flex items-center gap-2 group">
                     <img
-                        src="/Logo_lever.png"
+                        src="/logo-lever.png"
                         alt="Lever Logo"
                         className={cn(
                             "h-10 md:h-14 w-auto object-contain transition-all group-hover:scale-105",

@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { useEffect, useRef } from 'react';
 
 const partners = [
     { name: 'Condomínios', type: 'Residenciais', symbol: '🏢', image: '/segments/segment_condominio_1774481665709.png' },
@@ -10,10 +11,80 @@ const partners = [
     { name: 'Restaurantes', type: 'e Food Service', symbol: '🍽️', image: '/segments/segment_restaurante_1774481822118.png' },
 ];
 
-// Duplicar para criar o efeito de loop infinito
-const loopedPartners = [...partners, ...partners];
+// Multiplicado por 4 para garantir o loop infinito suave durante drag rápido
+const loopedPartners = [...partners, ...partners, ...partners, ...partners];
 
 export function PartnersSection() {
+    const scrollRef = useRef<HTMLDivElement>(null);
+    const isDragging = useRef(false);
+    const startX = useRef(0);
+    const scrollLeft = useRef(0);
+    const isHovered = useRef(false);
+
+    useEffect(() => {
+        let animationFrameId: number;
+        
+        const scroll = () => {
+            if (scrollRef.current && !isHovered.current && !isDragging.current) {
+                scrollRef.current.scrollLeft += 1.5; // Velocidade do auto-scroll
+                
+                // Lógica para loop infinito: como multiplicamos por 4, voltar a metade funciona perfeito
+                const maxScroll = scrollRef.current.scrollWidth / 2;
+                if (scrollRef.current.scrollLeft >= maxScroll) {
+                    scrollRef.current.scrollLeft -= maxScroll;
+                }
+            }
+            animationFrameId = requestAnimationFrame(scroll);
+        };
+        
+        animationFrameId = requestAnimationFrame(scroll);
+        return () => cancelAnimationFrame(animationFrameId);
+    }, []);
+
+    const handleMouseDown = (e: React.MouseEvent) => {
+        isDragging.current = true;
+        startX.current = e.pageX - (scrollRef.current?.offsetLeft || 0);
+        scrollLeft.current = scrollRef.current?.scrollLeft || 0;
+        if (scrollRef.current) {
+            scrollRef.current.style.cursor = 'grabbing';
+            scrollRef.current.style.userSelect = 'none';
+        }
+    };
+
+    const handleMouseLeave = () => {
+        isDragging.current = false;
+        isHovered.current = false;
+        if (scrollRef.current) {
+            scrollRef.current.style.cursor = 'grab';
+            scrollRef.current.style.userSelect = 'auto';
+        }
+    };
+
+    const handleMouseUp = () => {
+        isDragging.current = false;
+        if (scrollRef.current) {
+            scrollRef.current.style.cursor = 'grab';
+            scrollRef.current.style.userSelect = 'auto';
+        }
+    };
+
+    const handleMouseMove = (e: React.MouseEvent) => {
+        if (!isDragging.current || !scrollRef.current) return;
+        e.preventDefault();
+        const x = e.pageX - (scrollRef.current.offsetLeft || 0);
+        const walk = (x - startX.current) * 1.5; // Multiplicador de velocidade do drag
+        scrollRef.current.scrollLeft = scrollLeft.current - walk;
+        
+        // Loop backward/forward during drag
+        const maxScroll = scrollRef.current.scrollWidth / 2;
+        if (scrollRef.current.scrollLeft <= 0) {
+            scrollRef.current.scrollLeft += maxScroll;
+            scrollLeft.current += maxScroll; // Ajusta a origem para não pular
+        } else if (scrollRef.current.scrollLeft >= maxScroll) {
+            scrollRef.current.scrollLeft -= maxScroll;
+            scrollLeft.current -= maxScroll; // Ajusta a origem
+        }
+    };
     return (
         <section
             id="parceiros"
@@ -45,18 +116,13 @@ export function PartnersSection() {
                 <div className="absolute top-0 right-0 h-full w-24 bg-gradient-to-l from-white to-transparent pointer-events-none z-20" />
 
                 <div
-                    className="flex gap-6 pb-8 px-6"
-                    style={{
-                        display: 'flex',
-                        width: 'max-content',
-                        animation: 'marquee-scroll 35s linear infinite',
-                    }}
-                    onMouseEnter={(e) => {
-                        (e.currentTarget as HTMLDivElement).style.animationPlayState = 'paused';
-                    }}
-                    onMouseLeave={(e) => {
-                        (e.currentTarget as HTMLDivElement).style.animationPlayState = 'running';
-                    }}
+                    ref={scrollRef}
+                    className="flex gap-6 pb-8 px-6 overflow-x-hidden cursor-grab"
+                    onMouseEnter={() => { isHovered.current = true; }}
+                    onMouseLeave={handleMouseLeave}
+                    onMouseDown={handleMouseDown}
+                    onMouseUp={handleMouseUp}
+                    onMouseMove={handleMouseMove}
                 >
                     {loopedPartners.map((partner, idx) => (
                         <div
@@ -93,13 +159,7 @@ export function PartnersSection() {
                 </div>
             </div>
 
-            {/* CSS para o marquee */}
-            <style>{`
-                @keyframes marquee-scroll {
-                    0%   { transform: translateX(0); }
-                    100% { transform: translateX(-50%); }
-                }
-            `}</style>
+
 
             <div className="container mx-auto px-4 text-center mt-8">
                 <p className="text-slate-400 text-sm font-medium">

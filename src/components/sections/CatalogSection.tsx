@@ -11,9 +11,13 @@ import type { Product } from '../../types';
 const brandItemsImages: Record<string, string | string[]> = {
     'Bralimpia': '/images/bralimpia.png',
     'SuperPro': '/images/bettanin.png', // SuperPro representa Bettanin
-    'Fortcom': '/images/[INSERIR_IMAGEM_FORTCOM_AQUI.jpg]',
+    'Fortcom': [
+        '/images/fortcom-infinity.png',
+        '/images/fortcom-dropy.png'
+    ],
     'Guarany': '/images/produtos em destaque/PULVERIZADORES 300ml e 500ml - GUARANY.jpeg',
     'Levuse': '/images/produtos em destaque/PURIFICADOR DE AR 400ML- LEV&UZE.jpeg',
+    'Nobre': '/images/nobre-linha.jpg',
     'Oriental': [
         '/images/oriental_1.png',
         '/images/oriental_2.png',
@@ -87,6 +91,7 @@ export function CatalogSection() {
                                                     src={imgUrl} 
                                                     alt={`Itens específicos da marca ${selectedBrand === 'SuperPro' ? 'Bettanin' : selectedBrand} - Parte ${index + 1}`}
                                                     className="max-w-full h-auto object-contain rounded-lg shadow-sm"
+                                                    loading="lazy"
                                                     style={{ maxHeight: '25vh' }}
                                                     onError={(e) => {
                                                         const target = e.target as HTMLImageElement;
@@ -100,6 +105,7 @@ export function CatalogSection() {
                                             src={brandItemsImages[selectedBrand] as string} 
                                             alt={`Itens específicos da marca ${selectedBrand === 'SuperPro' ? 'Bettanin' : selectedBrand}`}
                                             className="max-w-full h-auto object-contain rounded-lg shadow-sm"
+                                            loading="lazy"
                                             style={{ maxHeight: '45vh' }}
                                             onError={(e) => {
                                                 const target = e.target as HTMLImageElement;
