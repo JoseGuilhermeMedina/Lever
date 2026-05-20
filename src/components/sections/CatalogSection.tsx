@@ -24,6 +24,11 @@ const brandItemsImages: Record<string, string | string[]> = {
         '/images/oriental_3.webp'
     ],
     'Ipel': '/images/ipel.webp',
+    'Pratt': [
+        '/images/produtos em destaque/WhatsApp Image 2026-04-15 at 10.34.02.webp',
+        '/images/produtos em destaque/WhatsApp Image 2026-04-15 at 10.52.27.webp'
+    ],
+    'Mercotech': '/images/produtos em destaque/WhatsApp Image 2026-04-15 at 11.10.57.webp',
 };
 
 export function CatalogSection() {
