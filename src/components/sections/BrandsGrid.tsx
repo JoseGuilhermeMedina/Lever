@@ -1,18 +1,18 @@
 import { motion } from 'framer-motion';
 
 const brands = [
-    { name: 'Ipel', logo: '/logos/ipel_logo.png' },
-    { name: 'Guarany', logo: '/logos/logo_guarany.png' },
-    { name: 'Mercotech', logo: '/logos/logo_mercotech.png' },
-    { name: 'Oriental', logo: '/logos/logo_oriental.png' },
-    { name: 'Rodos 2000', logo: '/logos/logo_rodos2000.png' },
-    { name: 'Bralimpia', logo: '/logos/logo-bralimpia.png' },
-    { name: 'Fortcom', logo: '/logos/logo-fortcom-wp-admin.png' },
-    { name: 'Volk', logo: '/logos/logo-volk.png' },
-    { name: 'Levuse', logo: '/logos/logo_levuse.png' },
-    { name: 'Nobre', logo: '/logos/nobre03.png' },
-    { name: 'Pratt', logo: '/logos/pratt_logo.png' },
-    { name: 'SuperPro', logo: '/logos/superpro_logo.png' },
+    { name: 'Ipel', logo: '/logos/ipel_logo.webp' },
+    { name: 'Guarany', logo: '/logos/logo_guarany.webp' },
+    { name: 'Mercotech', logo: '/logos/logo_mercotech.webp' },
+    { name: 'Oriental', logo: '/logos/logo_oriental.webp' },
+    { name: 'Rodos 2000', logo: '/logos/logo_rodos2000.webp' },
+    { name: 'Bralimpia', logo: '/logos/logo-bralimpia.webp' },
+    { name: 'Fortcom', logo: '/logos/logo-fortcom-wp-admin.webp' },
+    { name: 'Volk', logo: '/logos/logo-volk.webp' },
+    { name: 'Levuse', logo: '/logos/logo_levuse.webp' },
+    { name: 'Nobre', logo: '/logos/nobre03.webp' },
+    { name: 'Pratt', logo: '/logos/pratt_logo.webp' },
+    { name: 'SuperPro', logo: '/logos/superpro_logo.webp' },
 ];
 
 const containerVariants = {

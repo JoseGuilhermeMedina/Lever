@@ -9,21 +9,21 @@ import type { Product } from '../../types';
 // Mapeamento de imagens específicas por marca
 // TODO: Substituir os caminhos [INSERIR_IMAGEM_X_AQUI.jpg] pelas imagens reais quando disponíveis
 const brandItemsImages: Record<string, string | string[]> = {
-    'Bralimpia': '/images/bralimpia.png',
-    'SuperPro': '/images/bettanin.png', // SuperPro representa Bettanin
+    'Bralimpia': '/images/bralimpia.webp',
+    'SuperPro': '/images/bettanin.webp', // SuperPro representa Bettanin
     'Fortcom': [
-        '/images/fortcom-infinity.png',
-        '/images/fortcom-dropy.png'
+        '/images/fortcom-infinity.webp',
+        '/images/fortcom-dropy.webp'
     ],
-    'Guarany': '/images/produtos em destaque/PULVERIZADORES 300ml e 500ml - GUARANY.jpeg',
-    'Levuse': '/images/produtos em destaque/PURIFICADOR DE AR 400ML- LEV&UZE.jpeg',
-    'Nobre': '/images/nobre-linha.jpg',
+    'Guarany': '/images/produtos em destaque/PULVERIZADORES 300ml e 500ml - GUARANY.webp',
+    'Levuse': '/images/produtos em destaque/PURIFICADOR DE AR 400ML- LEV&UZE.webp',
+    'Nobre': '/images/nobre-linha.webp',
     'Oriental': [
-        '/images/oriental_1.png',
-        '/images/oriental_2.png',
-        '/images/oriental_3.png'
+        '/images/oriental_1.webp',
+        '/images/oriental_2.webp',
+        '/images/oriental_3.webp'
     ],
-    'Ipel': '/images/ipel.png',
+    'Ipel': '/images/ipel.webp',
 };
 
 export function CatalogSection() {

@@ -11,7 +11,7 @@ export function Footer() {
 
                     <div className="space-y-4">
                         <img
-                            src="/logo-lever.png"
+                            src="/logo-lever.webp"
                             alt="Lever Logo"
                             className="h-14 w-auto object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity"
                         />

@@ -2,13 +2,13 @@ import { motion } from 'framer-motion';
 import { useEffect, useRef } from 'react';
 
 const partners = [
-    { name: 'Condomínios', type: 'Residenciais', symbol: '🏢', image: '/segments/segment_condominio_1774481665709.png' },
-    { name: 'Clínicas', type: 'e Hospitais', symbol: '🏥', image: '/segments/segment_clinica_1774481696949.png' },
-    { name: 'Hotéis', type: 'e Pousadas', symbol: '🏨', image: '/segments/segment_hotel_1774481741588.png' },
-    { name: 'Escolas', type: 'e Universidades', symbol: '🎓', image: '/segments/segment_escola_1774481781787.png' },
-    { name: 'Supermercados', type: 'Varejo e Atacado', symbol: '🛒', image: '/segments/segment_supermercado_1774481832065.png' },
-    { name: 'Escritórios', type: 'Corporativos', symbol: '💼', image: '/segments/segment_escritorio_1774481875077.png' },
-    { name: 'Restaurantes', type: 'e Food Service', symbol: '🍽️', image: '/segments/segment_restaurante_1774481822118.png' },
+    { name: 'Condomínios', type: 'Residenciais', symbol: '🏢', image: '/segments/segment_condominio_1774481665709.webp' },
+    { name: 'Clínicas', type: 'e Hospitais', symbol: '🏥', image: '/segments/segment_clinica_1774481696949.webp' },
+    { name: 'Hotéis', type: 'e Pousadas', symbol: '🏨', image: '/segments/segment_hotel_1774481741588.webp' },
+    { name: 'Escolas', type: 'e Universidades', symbol: '🎓', image: '/segments/segment_escola_1774481781787.webp' },
+    { name: 'Supermercados', type: 'Varejo e Atacado', symbol: '🛒', image: '/segments/segment_supermercado_1774481832065.webp' },
+    { name: 'Escritórios', type: 'Corporativos', symbol: '💼', image: '/segments/segment_escritorio_1774481875077.webp' },
+    { name: 'Restaurantes', type: 'e Food Service', symbol: '🍽️', image: '/segments/segment_restaurante_1774481822118.webp' },
 ];
 
 // Multiplicado por 4 para garantir o loop infinito suave durante drag rápido
