@@ -20,7 +20,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "100ML"
             }
         ]
@@ -57,7 +57,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "40CM"
             }
         ]
@@ -78,7 +78,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "1L"
             }
         ]
@@ -99,7 +99,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "5L"
             }
         ]
@@ -153,7 +153,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "5G"
             }
         ]
@@ -174,7 +174,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "1KG"
             }
         ]
@@ -241,7 +241,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "12LT"
             }
         ]
@@ -274,7 +274,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "15LT"
             }
         ]
@@ -295,7 +295,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "14L"
             }
         ]
@@ -342,7 +342,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "250ML"
             }
         ]
@@ -361,7 +361,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "300ML"
             }
         ]
@@ -380,7 +380,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "400ML"
             }
         ]
@@ -399,7 +399,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "4MT"
             }
         ]
@@ -432,7 +432,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "5MT"
             }
         ]
@@ -451,7 +451,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "250 G"
             }
         ]
@@ -470,7 +470,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "250G"
             }
         ]
@@ -489,7 +489,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "250 G"
             }
         ]
@@ -522,7 +522,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "20L"
             }
         ]
@@ -541,7 +541,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "9L"
             }
         ]
@@ -560,7 +560,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "120LT"
             }
         ]
@@ -579,7 +579,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "120LT"
             }
         ]
@@ -598,7 +598,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "80ML"
             }
         ]
@@ -617,7 +617,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "200ML"
             }
         ]
@@ -636,7 +636,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "50 ML"
             }
         ]
@@ -673,7 +673,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "51CM"
             }
         ]
@@ -694,7 +694,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "51CM"
             }
         ]
@@ -715,7 +715,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "51CM"
             }
         ]
@@ -1132,7 +1132,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "300MT"
             }
         ]
@@ -1151,7 +1151,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "400MT"
             }
         ]
@@ -1170,7 +1170,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "30MT"
             }
         ]
@@ -1247,7 +1247,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "5 L"
             }
         ]
@@ -1266,7 +1266,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "90ML"
             }
         ]
@@ -1287,7 +1287,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "60L"
             }
         ]
@@ -1306,7 +1306,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "500ML"
             }
         ]
@@ -1327,7 +1327,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "500ML"
             }
         ]
@@ -1346,7 +1346,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "500ML"
             }
         ]
@@ -1365,7 +1365,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "500ML"
             }
         ]
@@ -1384,7 +1384,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "5L"
             }
         ]
@@ -1403,7 +1403,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "5L"
             }
         ]
@@ -1438,7 +1438,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "100LT"
             }
         ]
@@ -1459,7 +1459,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "30L"
             }
         ]
@@ -1576,7 +1576,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "100LT"
             }
         ]
@@ -1595,7 +1595,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "200ML"
             }
         ]
@@ -1614,7 +1614,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "200ML"
             }
         ]
@@ -1779,7 +1779,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "120 CM"
             }
         ]
@@ -1798,7 +1798,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "340G"
             }
         ]
@@ -1817,7 +1817,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "500ML"
             }
         ]
@@ -1850,7 +1850,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "75CM"
             }
         ]
@@ -1869,7 +1869,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "30G"
             }
         ]
@@ -1902,7 +1902,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "400ML"
             }
         ]
@@ -1965,7 +1965,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "2 UN"
             }
         ]
@@ -1984,7 +1984,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "30MT"
             }
         ]
@@ -2003,7 +2003,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "300MT"
             }
         ]
@@ -2022,7 +2022,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "5UN"
             }
         ]
@@ -2085,7 +2085,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "5 CM"
             }
         ]
@@ -2120,7 +2120,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "25G"
             }
         ]
@@ -2181,7 +2181,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "15CM"
             }
         ]
@@ -2228,7 +2228,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "300ML"
             }
         ]
@@ -2247,7 +2247,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "250ML"
             }
         ]
@@ -2326,7 +2326,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "10CM"
             }
         ]
@@ -2359,7 +2359,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "40CM"
             }
         ]
@@ -2420,7 +2420,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "40CM"
             }
         ]
@@ -2453,7 +2453,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "35 CM"
             }
         ]
@@ -2486,7 +2486,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "45CM"
             }
         ]
@@ -2519,7 +2519,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "60CM"
             }
         ]
@@ -2538,7 +2538,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "85G"
             }
         ]
@@ -2557,7 +2557,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "05LT"
             }
         ]
@@ -2576,7 +2576,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "60LT"
             }
         ]
@@ -2595,7 +2595,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "60LT"
             }
         ]
@@ -2614,7 +2614,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "20LT"
             }
         ]
@@ -2633,7 +2633,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "20LT"
             }
         ]
@@ -2654,7 +2654,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "100LT"
             }
         ]
@@ -2675,7 +2675,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "100UN"
             }
         ]
@@ -2694,7 +2694,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "250ML"
             }
         ]
@@ -2769,7 +2769,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "100UN"
             }
         ]
@@ -2846,7 +2846,7 @@ export const staticProducts: Product[] = [
         ],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "30CM"
             }
         ]
@@ -2921,7 +2921,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "40CM"
             }
         ]
@@ -2940,7 +2940,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "05LT"
             }
         ]
@@ -2959,7 +2959,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "500G"
             }
         ]
@@ -2978,7 +2978,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "05LT"
             }
         ]
@@ -3011,7 +3011,7 @@ export const staticProducts: Product[] = [
         "badges": [],
         "specs": [
             {
-                "name": "Especificação",
+                "label": "Medida",
                 "value": "100ML"
             }
         ]

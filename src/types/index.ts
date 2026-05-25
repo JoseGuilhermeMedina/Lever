@@ -2,7 +2,7 @@
 
 export type CategoryID = 'limpeza' | 'descartaveis' | 'copa' | 'promocoes';
 
-export type Badge = 'Mais Vendido' | 'Concentrado' | 'Pronto Uso' | 'Uso Industrial' | 'Caixa Master' | 'Oferta' | 'Lançamento' | 'Uso Profissional' | 'Linha Completa' | 'Design Premium' | 'Marcas Parceiras';
+export type Badge = 'Mais Vendido' | 'Concentrado' | 'Pronto Uso' | 'Uso Industrial' | 'Caixa Master' | 'Oferta' | 'Lançamento' | 'Uso Profissional' | 'Linha Completa' | 'Design Premium' | 'Marcas Parceiras' | 'Reforçado' | 'Atacado' | 'Destaque';
 
 export interface Product {
     id: string;
@@ -13,6 +13,8 @@ export interface Product {
     subgroup?: string;
     description: string;
     imageUrl?: string;
+    image?: string; // Adicionado para compatibilidade com o catálogo físico
+    subcategory?: string; // Adicionado para categorização na Sidebar
     images?: string[];
     cssClass?: string;
     badges: Badge[];

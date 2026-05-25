@@ -203,7 +203,7 @@ const products = files.map((file, index) => {
     const sizeMatch = rawName.match(/(\d+)\s*(?:lt|l|ml|kg|g|cm|mt|un)\b/i);
     if (sizeMatch) {
         specs.push({
-            name: 'Especificação',
+            label: 'Medida',
             value: sizeMatch[0].toUpperCase()
         });
     }
