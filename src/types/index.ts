@@ -22,6 +22,7 @@ export interface Product {
     isActive: boolean;
     specs?: { label: string; value: string }[];
     whatsappText?: string;
+    importantInfo?: string; // Informações importantes em destaque no modal
 }
 
 export interface Category {

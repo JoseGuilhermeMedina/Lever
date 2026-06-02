@@ -268,8 +268,16 @@ export function FeaturedProducts() {
                                             </div>
                                         )}
 
+                                        {/* Informação importante */}
+                                        {selectedProduct.importantInfo && (
+                                            <div className="bg-amber-50 border border-amber-200 text-amber-900 rounded-2xl p-4 mb-6 text-xs leading-relaxed font-medium whitespace-pre-line shadow-sm">
+                                                <span className="font-bold text-amber-800 block mb-1">📢 INFORMAÇÃO IMPORTANTE:</span>
+                                                {selectedProduct.importantInfo}
+                                            </div>
+                                        )}
+
                                         {/* Descrição */}
-                                        <p className="text-slate-600 text-sm leading-relaxed mb-6">
+                                        <p className="text-slate-600 text-sm leading-relaxed mb-6 whitespace-pre-line">
                                             {selectedProduct.description}
                                         </p>
 

@@ -1,5 +1,5 @@
-// Arquivo gerado AUTOMATICAMENTE do zero varrendo as fotos físicas na pasta public/produtos
-// Total de produtos catalogados: 175
+// Arquivo gerado AUTOMATICAMENTE do zero varrendo as fotos físicas na pasta public/produtos e casando com o Word
+// Total de produtos catalogados: 192
 
 import type { Product } from '../types';
 
@@ -22,6 +22,22 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
+        "id": "p-c47272",
+        "name": "AROMATIZANTE  AT, ODORIZANTE DE AMBIENTES",
+        "image": "/produtos/AROMATIZANTE  AT, ODORIZANTE DE AMBIENTES --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/AROMATIZANTE  AT, ODORIZANTE DE AMBIENTES --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“MERCOTECH AT foi especialmente desenvolvido para limpar e perfumar ambientes como escritórios, quartos de hotéis, motéis, lojas, shopping centers, etc., perfumando o ambiente com ação prolongada. Sua fragrância traz o que há de mais moderno em aromatização.\n\nInstruções de Uso\nMERCOTECH AT deve ser borrifado puro com auxílio de um pulverizador (spray). Aplicar 3 a 4 borrifadas no ambiente. Pode ser utilizado como limpador leve na diluição de até 1:20 em água.\n\nEmbalagens\nGalão plástico de 5 L (5,06 kg).”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
         "id": "p-8f45c7",
         "name": "Adoçante Líquido Sacarina Zero Cal Frasco 100ml",
         "image": "/produtos/Adoçante Líquido Sacarina Zero Cal Frasco 100ml - Adoçante.jpeg",
@@ -36,14 +52,14 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
-        "id": "p-ff9a8c",
-        "name": "Armação Mop Pó 40cm, 60cm e 80cm",
-        "image": "/produtos/Armação Mop Pó 40cm, 60cm e 80cm -- bralimpia - Mop´s.jpeg",
-        "imageUrl": "/produtos/Armação Mop Pó 40cm, 60cm e 80cm -- bralimpia - Mop´s.jpeg",
+        "id": "p-970069",
+        "name": "Amaciante Flores Nobres 5 LITROS",
+        "image": "/produtos/Amaciante Flores Nobres 5 LITROS --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/Amaciante Flores Nobres 5 LITROS --  pratt  - Aromatizadores e Neutralizadores.jpeg",
         "category": "limpeza",
-        "subcategory": "limpeza-11",
-        "brand": "Bralimpia",
-        "description": "Produto de alta qualidade para sua empresa ou residência. Fornecido pela LEVER.",
+        "subcategory": "limpeza-4",
+        "brand": "Pratt",
+        "description": "” A linha de lavanderia da Pratt (limpeza profissional) é composta pelo Lava Roupas (detergente concentrado) e pelo Amaciante Premium (geralmente na fragrância Flores Nobres). Essa combinação remove sujeiras profundas com baixo desgaste dos tecidos, além de proporcionar maciez prolongada e perfume duradouro.”",
         "isActive": true,
         "isFeatured": true,
         "badges": [
@@ -52,13 +68,13 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
-        "id": "p-13a6cf",
-        "name": "Aromatizante de Ambiente 5L",
-        "image": "/produtos/Aromatizante de Ambiente 5L -- mercotech -Aromatizadores e Neutralizadores.jpeg",
-        "imageUrl": "/produtos/Aromatizante de Ambiente 5L -- mercotech -Aromatizadores e Neutralizadores.jpeg",
+        "id": "p-ff9a8c",
+        "name": "Armação Mop Pó 40cm, 60cm e 80cm",
+        "image": "/produtos/Armação Mop Pó 40cm, 60cm e 80cm -- bralimpia - Mop´s.jpeg",
+        "imageUrl": "/produtos/Armação Mop Pó 40cm, 60cm e 80cm -- bralimpia - Mop´s.jpeg",
         "category": "limpeza",
-        "subcategory": "limpeza-4",
-        "brand": "Mercotech",
+        "subcategory": "limpeza-11",
+        "brand": "Bralimpia",
         "description": "Produto de alta qualidade para sua empresa ou residência. Fornecido pela LEVER.",
         "isActive": true,
         "isFeatured": true,
@@ -221,17 +237,19 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
-        "id": "p-1fa9cc",
-        "name": "Balde Zig Zag Bettanin Super 14l Com Espremedor -Baldes",
-        "image": "/produtos/Balde Zig Zag Bettanin Super 14l Com Espremedor -Baldes.jpeg",
-        "imageUrl": "/produtos/Balde Zig Zag Bettanin Super 14l Com Espremedor -Baldes.jpeg",
+        "id": "p-322c99",
+        "name": "Balde Zig Zag Bettanin Super 14l Com Espremedor",
+        "image": "/produtos/Balde Zig Zag Bettanin Super 14l Com Espremedor --superpro -Baldes.jpeg",
+        "imageUrl": "/produtos/Balde Zig Zag Bettanin Super 14l Com Espremedor --superpro -Baldes.jpeg",
         "category": "limpeza",
-        "subcategory": "",
-        "brand": "",
+        "subcategory": "limpeza-5",
+        "brand": "Superpro",
         "description": "Produto de alta qualidade para sua empresa ou residência. Fornecido pela LEVER.",
         "isActive": true,
         "isFeatured": true,
-        "badges": [],
+        "badges": [
+            "Destaque"
+        ],
         "specs": []
     },
     {
@@ -260,6 +278,22 @@ export const staticProducts: Product[] = [
         "isActive": true,
         "isFeatured": true,
         "badges": [],
+        "specs": []
+    },
+    {
+        "id": "p-fcf38e",
+        "name": "Brilha Alumínio, detergente desincrustante ácido",
+        "image": "/produtos/Brilha Alumínio, detergente desincrustante ácido --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/Brilha Alumínio, detergente desincrustante ácido --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“MERCOTECH BRILHA ALUMÍNIO foi especialmente desenvolvido para limpeza e desincrustação de utensílios de cozinha confeccionados em alumínio. Combina tensoativo biodegradável com inibidores de corrosão que agem sinergicamente proporcionando resultados rápidos e eficientes.\n\nInstruções de Uso\nAplique o produto puro ou até a diluição de 1:2 em água com ajuda de uma esponja e espalhe por toda superfície a ser limpa. Deixe agir por alguns segundos, enxaguando em seguida. Para limpeza e acabamento final utilizar MERCOTECH DET NEUTRO ou DET SUPER. Não seque os utensílios sem enxaguar. Jamais utilize esponjas de aço para esfregação. É recomendável a utilização de luvas para a manipulação do produto.\n\nEmbalagens\nGalão plástico 5L (5,21 kg) Bombona”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
         "specs": []
     },
     {
@@ -497,6 +531,120 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
+        "id": "p-62dc5d",
+        "name": "Clean Max Detergente Super Concentrado para Uso Geral",
+        "image": "/produtos/Clean Max Detergente Super Concentrado para Uso Geral --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/Clean Max Detergente Super Concentrado para Uso Geral --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“MERCOTECH CLEAN MAX pode ser usado na limpeza de qualquer tipo de piso, impermeabilizado ou não, superfícies pintadas, azulejos, louças de banheiro e metais inoxidáveis. Excelente para ser usado em hotéis, motéis e escolas\n\nInstruções de Uso\nDiluir o Mercotech Clean Max de 1 parte de produto em até 50 partes de água, dependendo da sujidade e local a ser limpo.\n\nEmbalagens\nGalão plástico de 5L (5,29 Kg)”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
+        "id": "p-01e4e4",
+        "name": "DESINFETANTE FRESH GL 5 LITROS  PARA USO GERAL",
+        "image": "/produtos/DESINFETANTE FRESH GL 5 LITROS  PARA USO GERAL --MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/DESINFETANTE FRESH GL 5 LITROS  PARA USO GERAL --MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“É utilizado na limpeza leve e desinfecção de pisos e louças sanitárias, principalmente em ambientes fechados, fornecendo um perfume duradouro.\n\nINSTRUÇÕES DE USO: Para fazer a desinfecção do ambiente diluir 1 parte do produto em até 10 partes de água, com tempo de contato de no mínimo 10 minutos. Para fazer uma limpeza leve no ambiente, diluir 1 litro de Mercotech Desinfetante em até 20 litros de água. Para pulverizar deixando um aroma agradável no ambiente por um período maior, utilizá-lo puro em uma bombinha pulverizadora.”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": [],
+        "importantInfo": "“IMPORTANTE!\nUTILIZE SEMPRE OS EPI`s INDICADOS PARA MANIPULAR O PRODUTO.\nPRODUTO RESTRITO AO USO PROFISSIONAL”"
+    },
+    {
+        "id": "p-a7f848",
+        "name": "DESINFETANTE PERFUMADO DE USO GERAL",
+        "image": "/produtos/DESINFETANTE PERFUMADO DE USO GERAL --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/DESINFETANTE PERFUMADO DE USO GERAL --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“MERCOTECH DESINFECT L é um desinfetante de uso geral especialmente desenvolvido para desinfecção e limpeza leve de louças sanitárias, pisos e outras superfícies, principalmente em ambientes fechados onde deixa um perfume duradouro.\n\nInstruções de Uso\nPara fazer a desinfecção do ambiente, aplicar o produto diluído na proporção de até 1:50 em água. Aplicar o produto diluído sobre as superfícies com tempo de contato mínimo de 15 minutos. Para fazer limpeza leve no ambiente, diluir na proporção de até 1:200 em água. Para pulverizar deixando um aroma agradável no ambiente por um período maior, diluir 1 parte de produto em 9 litros de água utilizando uma bombinha pulverizadora.\n\nEmbalagens\nGalão plástico de 5 L (5,16 kg).”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
+        "id": "p-855b6a",
+        "name": "DET NEUTRO detergente neutro super concentrado para Uso Geral",
+        "image": "/produtos/DET NEUTRO detergente neutro super concentrado para Uso Geral --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/DET NEUTRO detergente neutro super concentrado para Uso Geral --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“É um detergente de alta eficiência e espumação, próprio para a limpeza geral neutra em paredes, pisos, equipamentos, superfícies e louças. A sua formulação permite o seu uso em superfícies pintadas e em metais inoxidáveis sem que haja agressão aos mesmos. Pode ser utilizado em instituições como escolas, shoppings, hospitais, cozinhas industriais, hotéis, entre outras.\n\nMODO DE APLICAÇÃO\n\nUtilizar Mercotech Det Neutro na concentração de 1 a 2%. Em geradores de espuma fazer solução de 2 a 3%. Na limpeza de louças por imersão fazer solução a 1%. APLICAÇÃO POR ESPUMA: Quando a aplicação é feita através de gerador de espuma há uma série de vantagens, como por exemplo: Maior rendimento do produto / Alcance de superfícies de difícil acesso / Rapidez na aplicação.\n\nRendimento: 1L rende até 100L\n\nLitragem: 5L”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
+        "id": "p-21c413",
+        "name": "DETERGENTE ALCALINO DE ALTA ESPUMA PARA INDÚSTRIAS ALIMENTÍCIAS 100 LAT GL 5 LITROS",
+        "image": "/produtos/DETERGENTE ALCALINO DE ALTA ESPUMA PARA INDÚSTRIAS ALIMENTÍCIAS 100 LAT GL 5 LITROS -- MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/DETERGENTE ALCALINO DE ALTA ESPUMA PARA INDÚSTRIAS ALIMENTÍCIAS 100 LAT GL 5 LITROS -- MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“Produto indicado para limpeza de pisos, paredes, tanques de expansão, formas de queijos, mesas de processamento, tanque de transporte de leite, vidrarias de laboratórios, garrafas, caixas plásticas, bandejas de incubatórios. Devido ao seu alto teor de espuma, o produto consegue atingir uma área maior, com consumo baixo e grande eficiência na limpeza. Indicado para todas as áreas onde é necessária limpeza com remoção de sujidades graxas em indústrias alimentícias e estabelecimentos onde é feita manipulação de alimentos. Pode ser utilizado na lavagem de coifas de inox.\n\nINSTRUÇÕES DE USO: Asua diluição varia de acordo com a sujidade da área a ser limpa, podendo variar entre 0,5 a 5,0 %. Se a aplicação for com gerador de espuma, a dosagem deve variar entre 1,0 e 2,0 %. Podendo-se utilizar a água na temperatura ambiente.”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": [],
+        "importantInfo": "“IMPORTANTE!\nUTILIZE SEMPRE OS EPI`s INDICADOS PARA MANIPULAR O PRODUTO.\nPRODUTO RESTRITO AO USO PROFISSIONAL”"
+    },
+    {
+        "id": "p-f67f7f",
+        "name": "DETERGENTE CLORADO 5 LITROS",
+        "image": "/produtos/DETERGENTE CLORADO 5 LITROS --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/DETERGENTE CLORADO 5 LITROS --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "Pratt",
+        "description": "” Detergente Clorado para uso geral. Excelente resultado em Cozinhas e Banheiros.\nNão Indicado para Metais Sensíveis, como Alumínio.\nDosagem\nAté 1:50”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
+        "id": "p-1504ce",
+        "name": "DETERGENTE NEUTRO CONCENTRADO 5 LITROS",
+        "image": "/produtos/DETERGENTE NEUTRO CONCENTRADO 5 LITROS --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/DETERGENTE NEUTRO CONCENTRADO 5 LITROS --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "Pratt",
+        "description": "” Versatilidade: Detergente neutro, seguro para limpeza de qualquer superfície (Limpeza de\npisos, superfícies diversas e até limpeza de louças);\n- Eficácia com sutileza: Não possui cheiro sendo adequado para todos os tipos de limpeza,\ninclusive limpeza hospitalar;\n- Econômico: Uma bombona de 5litros rende até 200litros;”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
         "id": "p-9b670e",
         "name": "DISCO BRANCO DE 35, 41 E 51CM",
         "image": "/produtos/DISCO BRANCO DE 35, 41 E 51CM -- superpro - Fibras e Discos.jpeg",
@@ -545,6 +693,38 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
+        "id": "p-eb9dd2",
+        "name": "Decapante Pós Obra",
+        "image": "/produtos/Decapante Pós Obra --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/Decapante Pós Obra --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "Pratt",
+        "description": "” Finalizou a obra e ficou aquele desafio com resto de cimento e tinta?\nO Pratt Pós-Obra entra em ação pra dar aquela mãozinha que faz toda a diferença! 🧱✨\n\nCom alto poder de decapagem ácida, ele remove resíduos de obra, oxidações, impurezas e até ferrugem incrustada, devolvendo o aspecto funcional às superfícies depois da construção ou reforma.\n\nMais praticidade, eficiência e resultado profissional no pós-obra.”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
+        "id": "p-370564",
+        "name": "Desinfetante Pratt",
+        "image": "/produtos/Desinfetante Pratt --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/Desinfetante Pratt --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "Pratt",
+        "description": "“O Pratt Desinfetante Limpa, desinfeta e ainda deixa o ambiente perfumado. Oferece múltipla ação para uma higienização completa, garantindo proteção e fragrâncias marcantes como Limão do Bosque, Cítrico, Floral, Citronela e Lavanda.”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
         "id": "p-65831c",
         "name": "Detergente Sanitário Pastilha Adesiva Lavanda Pato Caixa 3 Unidades",
         "image": "/produtos/Detergente Sanitário Pastilha Adesiva Lavanda Pato Caixa 3 Unidades - Aromatizadores e Neutralizadores.jpeg",
@@ -559,10 +739,10 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
-        "id": "p-8dd66a",
-        "name": "Dispenser Dropy na cor branca e breta",
-        "image": "/produtos/Dispenser Dropy na cor branca e breta -- fortcom - Equipamentos.jpeg",
-        "imageUrl": "/produtos/Dispenser Dropy na cor branca e breta -- fortcom - Equipamentos.jpeg",
+        "id": "p-4f85b1",
+        "name": "Dispenser Dropy na cor branca e preta",
+        "image": "/produtos/Dispenser Dropy na cor branca e preta -- fortcom - Equipamentos.jpeg",
+        "imageUrl": "/produtos/Dispenser Dropy na cor branca e preta -- fortcom - Equipamentos.jpeg",
         "category": "limpeza",
         "subcategory": "limpeza-3",
         "brand": "Fortcom",
@@ -1106,6 +1286,22 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
+        "id": "p-7f2fc3",
+        "name": "Grill DESINCRUSTANTE PARA GORDURA CARBONIZADA",
+        "image": "/produtos/Grill DESINCRUSTANTE PARA GORDURA CARBONIZADA --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/Grill DESINCRUSTANTE PARA GORDURA CARBONIZADA --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "” MERCOTECH GRILL foi desenvolvido para fazer a desincrustação de gordura carbonizada presente em panelas, chapas de lanches e fogões. Atua como desengraxante para equipamentos de cozinhas em geral. Não deve ser usado em superfícies sensíveis a agentes caústicos como o alumínio.\n\nInstruções de Uso\nO Mercotech Grill deverá ser utilizado nos casos de incrustações passiveis de remoção. Logo após a operação de espatulagem, a superfície deverá estar aquecida. Aplique puro ou até 1:10 dependendo do grau de incrustação da superfície. Deixe agir de 10 a 20 minutos, esfregue a mesma com auxílio de uma esponja. Enxágue a superfície com água em abundância. Em caso de incrustação persistente, repetir o processo.\n\nEmbalagens\nGalão plástico de 5L (6,46 kg)”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
         "id": "p-881308",
         "name": "Kit Cestos Reciclagem Coleta Seletiva 60L Cores",
         "image": "/produtos/Kit Cestos Reciclagem Coleta Seletiva 60L Cores - Lixeiras e Contentores.jpeg",
@@ -1134,6 +1330,22 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
+        "id": "p-28f21f",
+        "name": "LIMPADOR DESENGORDURANTE PERFUMADO 5 LITROS CONCENTRADO ULTRA",
+        "image": "/produtos/LIMPADOR DESENGORDURANTE PERFUMADO 5 LITROS CONCENTRADO ULTRA --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/LIMPADOR DESENGORDURANTE PERFUMADO 5 LITROS CONCENTRADO ULTRA --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "Pratt",
+        "description": "” Ótimo resultado na remoção de óleos e gorduras\nEficiente na limpeza de rejuntes, azulejos, pias, blindex, vidros, janelas e móveis laváveis\nAge perfeitamente em granito, granilite, porcelanato (vitrificado ou não), cerâmicas e Paviflex\nPossui suave fragrância floral\nFácil diluição”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
         "id": "p-34bf40",
         "name": "LIMPADOR LIMPEZA PESADA COM ALCOOL 500ML",
         "image": "/produtos/LIMPADOR LIMPEZA PESADA COM ALCOOL 500ML - Itens de Casa.jpeg",
@@ -1145,6 +1357,22 @@ export const staticProducts: Product[] = [
         "isActive": true,
         "isFeatured": true,
         "badges": [],
+        "specs": []
+    },
+    {
+        "id": "p-fb0938",
+        "name": "LIMPADOR MULTIUSO CONC.PERFUMADO 05LT",
+        "image": "/produtos/LIMPADOR MULTIUSO CONC.PERFUMADO 05LT--  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/LIMPADOR MULTIUSO CONC.PERFUMADO 05LT--  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "Pratt",
+        "description": "” Indicado para limpezas superfícies em geral com ação desengordurante;\n\n- Atua em sujidades leves sem agredir a superfície (pisos, móveis, entre outros);\n\n- Excelente na limpeza de vidros, espelhos entre outros;\n\n- Forma película protetora contra manchas de impressões digitais;\n\n- Promove brilho às superfícies após a limpeza;\n\n- Não necessita enxágue;\n\n- Fragrância exclusiva de aromas cítricos\n\nAPLICAÇÃO\n\nPara limpeza e acabamento de vidros, espelhos, fórmicas, azulejos, telefones, alumínio, superfícies plásticas, esmaltadas, vitrificadas. Uso em hotéis, motéis, hospitais, condomínios e ambientes em geral.\n\nMODO DE USO\n\nNa limpeza de espelhos e vidros: Utilizar diluição de 1 parte de produto para 1 parte de água.\n\nPara limpeza de superfícies em geral, Utilizar produto puro ou diluição de até 1 parte de produto para 1 parte de água.\n\nAplicar a solução na superfície e espalhar com um pano limpo ou papel absorvente.”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
         "specs": []
     },
     {
@@ -1260,6 +1488,22 @@ export const staticProducts: Product[] = [
         "subcategory": "limpeza-16",
         "brand": "Nobre",
         "description": "Produto de alta qualidade para sua empresa ou residência. Fornecido pela LEVER.",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
+        "id": "p-2c0ae1",
+        "name": "Limpa Fácil Oxy Blue LIMPADOR DE USO GERAL COM OXIGÊNIO ATIVO",
+        "image": "/produtos/Limpa Fácil Oxy Blue LIMPADOR DE USO GERAL COM OXIGÊNIO ATIVO --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/Limpa Fácil Oxy Blue LIMPADOR DE USO GERAL COM OXIGÊNIO ATIVO --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“LIMPA FÁCIL OXY BLUE é um eficiente limpador multiuso com oxigênio ativo que libera microbolhas que irão atuar desestruturando e ressuspendendo as sujidades facilitando assim a limpeza sem deixar resíduos. Produto altamente concentrado permitindo flexibilidade de diluição e limpeza, podendo ser utilizado com eficiência em diversos tipo de superfícies como: metais esmaltados, inox, janelas, espelhos, pisos, paredes, estofados, banheiros, cozinhas e até mesmo onde há presença de mofo.\n\nInstruções de Uso\nLimpeza de vidros e espelhos: Diluir o produto na proporção de 1:100. Pulverizar sobre a superfície e limpar com pano que não solte fiapos. Para limpeza leve diária: Diluir o produto na proporção de 1:80. Pulverizar sobre a superfície e limpar com escova, esponja, mop ou pano. Para limpeza média: Diluir o produto na proporção de 1:40 e aplicar conforme acima. Para limpeza pesada: Diluir o produto na proporção de 1:20 e aplicar.\nFrasco plástico 1L”",
         "isActive": true,
         "isFeatured": true,
         "badges": [
@@ -1818,10 +2062,10 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
-        "id": "p-ef2df5",
-        "name": "PAPEL HIG INTERF.F.D COM 8000 E F.S COM 10.000FLS",
-        "image": "/produtos/PAPEL HIG INTERF.F.D COM 8000 E F.S COM 10.000FLS -- IPEL -  Papel Higiênico.webp",
-        "imageUrl": "/produtos/PAPEL HIG INTERF.F.D COM 8000 E F.S COM 10.000FLS -- IPEL -  Papel Higiênico.webp",
+        "id": "p-189062",
+        "name": "PAPEL HIG INTERF. F.DUPLA COM 8000FLS  E COM 10.000FLS F.SIMPLES",
+        "image": "/produtos/PAPEL HIG INTERF. F.DUPLA COM 8000FLS  E COM 10.000FLS F.SIMPLES -- IPEL -  Papel Higiênico.webp",
+        "imageUrl": "/produtos/PAPEL HIG INTERF. F.DUPLA COM 8000FLS  E COM 10.000FLS F.SIMPLES -- IPEL -  Papel Higiênico.webp",
         "category": "descartaveis",
         "subcategory": "descartaveis-2",
         "brand": "IPEL",
@@ -2384,6 +2628,22 @@ export const staticProducts: Product[] = [
         "specs": []
     },
     {
+        "id": "p-74dcd0",
+        "name": "Sabonete Perolizado Lírio do Campo 5 LITROS",
+        "image": "/produtos/Sabonete Perolizado Lírio do Campo 5 LITROS --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/Sabonete Perolizado Lírio do Campo 5 LITROS --  pratt  - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "Pratt",
+        "description": "” Sabonete líquido Perolizado, essência Lírio do Campo com PH Neutro.\nDosagem\nPuro”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
+        "specs": []
+    },
+    {
         "id": "p-434a9f",
         "name": "Suporte Minilock LT Azul Para Fibras",
         "image": "/produtos/Suporte Minilock LT Azul Para Fibras -- Nobre -Equipamentos.jpeg",
@@ -2582,6 +2842,22 @@ export const staticProducts: Product[] = [
         "isActive": true,
         "isFeatured": true,
         "badges": [],
+        "specs": []
+    },
+    {
+        "id": "p-276561",
+        "name": "Sanit clean detergente limpador desincrustante",
+        "image": "/produtos/sanit clean detergente limpador desincrustante --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "imageUrl": "/produtos/sanit clean detergente limpador desincrustante --  MERCOTECH - Aromatizadores e Neutralizadores.jpeg",
+        "category": "limpeza",
+        "subcategory": "limpeza-4",
+        "brand": "MERCOTECH",
+        "description": "“MERCOTECH SANIT CLEAN é indicado como desincrustante de louças sanitárias, removendo todo encardido e manchas existentes. Também recomendado para pisos com resíduos de cimento, pois não agride o esmaltado. Não é recomendado para pisos em porcelanato.\n\nInstruções de Uso\nPara louças sanitárias, usar o produto puro diretamente nas bordas das louças sanitárias. Deixe agir por cerca de um minuto e em seguida esfregar com auxílio de uma escova ou fibra. Após esfregação acionar a descarga. Em caso de manchas persistentes, repetir a operação. Para limpeza de betoneiras, usar puro até diluição 1:3, dependendo do grau de impregnação. Observação: Nunca misture com produtos clorados (água sanitária).\n\nEmbalagens\nGalão plástico de 5 L (5,36 kg).”",
+        "isActive": true,
+        "isFeatured": true,
+        "badges": [
+            "Destaque"
+        ],
         "specs": []
     },
     {
