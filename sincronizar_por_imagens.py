@@ -6,6 +6,7 @@ import hashlib
 import difflib
 import zipfile
 import xml.etree.ElementTree as ET
+import urllib.parse
 
 def normalize_string(s):
     """Normaliza string para comparação tolerante a acentos e caracteres especiais."""
@@ -318,12 +319,12 @@ def sync_catalog_by_images():
             if docx_data["important"]:
                 p_important = docx_data["important"]
                 
-        # Monta o objeto final do produto
+        # Monta o objeto final do produto (com caminhos de imagem devidamente URL-encoded)
         product_obj = {
             "id": p_id,
             "name": p_name_capitalized,
-            "image": f"/produtos/{f_name}",
-            "imageUrl": f"/produtos/{f_name}",
+            "image": f"/produtos/{urllib.parse.quote(f_name)}",
+            "imageUrl": f"/produtos/{urllib.parse.quote(f_name)}",
             "category": p_category,
             "subcategory": p_subcategory,
             "brand": p_brand_capitalized,
