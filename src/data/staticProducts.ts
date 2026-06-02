@@ -17,11 +17,11 @@ export const staticProducts: Product[] = [
 
     { id: 'limpeza-14', name: 'Rodos', category: 'limpeza', description: 'Rodos puxa-água de diferentes tamanhos.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'limpeza-15', name: 'Vassouras', category: 'limpeza', description: 'Vassouras diversas para áreas internas e externas.', isActive: true, isFeatured: false, badges: [], specs: [] },
+    { id: 'limpeza-16', name: 'Luvas', category: 'limpeza', description: 'Luvas de proteção de diversos tipos e tamanhos.', isActive: true, isFeatured: false, badges: [], specs: [] },
 
     // --- Descartáveis ---
     { id: 'descartaveis-1', name: 'Copos', category: 'descartaveis', description: 'Copos descartáveis de água e café.', isActive: true, isFeatured: true, badges: [], specs: [] },
     { id: 'descartaveis-2', name: 'Papel Higiênico', category: 'descartaveis', description: 'Papel higiênico em rolo e interfolha.', isActive: true, isFeatured: true, badges: [], specs: [] },
-    { id: 'descartaveis-3', name: 'Papel Toalha', category: 'descartaveis', description: 'Papel toalha interfolhado e bobina.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'descartaveis-4', name: 'Sacos para lixo', category: 'descartaveis', description: 'Sacos para lixo de diversas litragens (comum e reforçado).', isActive: true, isFeatured: false, badges: [], specs: [] },
 
     { id: 'descartaveis-6', name: 'Pratos e Talheres', category: 'descartaveis', description: 'Pratos, garfos, facas e colheres descartáveis.', isActive: true, isFeatured: false, badges: [], specs: [] },
@@ -35,7 +35,6 @@ export const staticProducts: Product[] = [
     { id: 'copa-4', name: 'Mexedor', category: 'copa', description: 'Mexedores plásticos e de madeira para café.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'copa-5', name: 'Pano de copa', category: 'copa', description: 'Panos de prato e copa tradicionais.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'copa-6', name: 'Fósforo', category: 'copa', description: 'Caixas de fósforos.', isActive: true, isFeatured: false, badges: [], specs: [] },
-    { id: 'copa-7', name: 'Pano multiuso', category: 'copa', description: 'Panos descartáveis multiuso em rolo (tipo Perfex).', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'copa-8', name: 'Porta copo para água/café', category: 'copa', description: 'Suportes para copos na parede ou mesa.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'copa-9', name: 'Filtro de papel 102 e 103', category: 'copa', description: 'Filtros de papel para coar café nº 102 e 103.', isActive: true, isFeatured: false, badges: [], specs: [] },
     { id: 'copa-10', name: 'Lixeira de copo para café/ água', category: 'copa', description: 'Lixeiras tubulares dispenser para copos usados.', isActive: true, isFeatured: false, badges: [], specs: [] },

@@ -14,7 +14,7 @@ export interface Product {
     description: string;
     imageUrl?: string;
     image?: string; // Adicionado para compatibilidade com o catálogo físico
-    subcategory?: string; // Adicionado para categorização na Sidebar
+    subcategory?: string | string[]; // Adicionado para categorização na Sidebar
     images?: string[];
     cssClass?: string;
     badges: Badge[];

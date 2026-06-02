@@ -3,15 +3,15 @@ import { staticProducts as products } from '../../data/products';
 import { Card, CardContent } from '../ui/card';
 import { Badge } from '../ui/badge';
 import { Button } from '../ui/button';
-import { Package, MessageCircle } from 'lucide-react';
+import { Package, MessageCircle, Search, X } from 'lucide-react';
 import { buildWhatsAppURL } from '../../lib/utils';
 import { categories } from '../../data/categories';
-import { motion } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { WHATSAPP_NUMBER } from '../../config/constants';
 import type { Product } from '../../types';
 
-function FeaturedProductCard({ product, whatsappNumber }: { product: Product, whatsappNumber: string }) {
+function FeaturedProductCard({ product, whatsappNumber, onZoomClick }: { product: Product, whatsappNumber: string, onZoomClick: () => void }) {
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
     const hasMultipleImages = product.images && product.images.length > 1;
@@ -39,7 +39,10 @@ function FeaturedProductCard({ product, whatsappNumber }: { product: Product, wh
             }}
         >
             <Card className="group overflow-hidden border-none glass-card product-card-hover h-full premium-shadow flex flex-col">
-                <div className="aspect-[4/3] bg-ice relative overflow-hidden flex items-center justify-center group-hover:bg-slate-100 transition-colors">
+                <div 
+                    onClick={onZoomClick}
+                    className="aspect-[4/3] bg-ice relative overflow-hidden flex items-center justify-center group-hover:bg-slate-100 transition-colors cursor-zoom-in group/img"
+                >
                     {currentImageUrl ? (
                         <img
                             key={currentImageUrl} // Forces react to re-render img for animation
@@ -52,6 +55,13 @@ function FeaturedProductCard({ product, whatsappNumber }: { product: Product, wh
                     ) : (
                         <Package className="w-12 h-12 text-slate-300" />
                     )}
+
+                    {/* Overlay com Ícone de Zoom no Hover */}
+                    <div className="absolute inset-0 bg-navy/5 opacity-0 group-hover/img:opacity-100 transition-opacity duration-300 flex items-center justify-center pointer-events-none z-10">
+                        <div className="bg-white/90 backdrop-blur-sm p-3 rounded-full shadow-lg text-navy scale-90 group-hover/img:scale-100 transition-all duration-300">
+                            <Search className="w-5 h-5 animate-pulse" />
+                        </div>
+                    </div>
                     
                     {/* Dots indicator for multiple images */}
                     {hasMultipleImages && (
@@ -117,6 +127,18 @@ export function FeaturedProducts() {
     const featured = products.filter(p => p.isFeatured).slice(0, 6);
     const whatsappNumber = import.meta.env.VITE_WHATSAPP_NUMBER || WHATSAPP_NUMBER;
 
+    // Estados e lógica para o Zoom Cinemático do Produto
+    const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
+    const [zoomPos, setZoomPos] = useState({ x: 0, y: 0 });
+    const [isZoomed, setIsZoomed] = useState(false);
+
+    const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
+        const { left, top, width, height } = e.currentTarget.getBoundingClientRect();
+        const x = ((e.clientX - left) / width) * 100;
+        const y = ((e.clientY - top) / height) * 100;
+        setZoomPos({ x, y });
+    };
+
     return (
         <section id="produtos" className="py-16 md:py-24 bg-white">
             <div className="container mx-auto px-4 md:px-6">
@@ -153,10 +175,145 @@ export function FeaturedProducts() {
                     className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8"
                 >
                     {featured.map((product) => (
-                        <FeaturedProductCard key={product.id} product={product} whatsappNumber={whatsappNumber} />
+                        <FeaturedProductCard 
+                            key={product.id} 
+                            product={product} 
+                            whatsappNumber={whatsappNumber} 
+                            onZoomClick={() => setSelectedProduct(product)}
+                        />
                     ))}
                 </motion.div>
             </div>
+
+            {/* Modal Lightbox com Zoom Cinemático */}
+            <AnimatePresence>
+                {selectedProduct && (
+                    <>
+                        {/* Fundo escuro com desfoque cinemático */}
+                        <motion.div
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            exit={{ opacity: 0 }}
+                            onClick={() => setSelectedProduct(null)}
+                            className="fixed inset-0 bg-navy/80 backdrop-blur-xl z-[100] flex items-center justify-center p-4 md:p-6"
+                        >
+                            {/* Card do Modal */}
+                            <motion.div
+                                initial={{ opacity: 0, scale: 0.95, y: 30 }}
+                                animate={{ opacity: 1, scale: 1, y: 0 }}
+                                exit={{ opacity: 0, scale: 0.95, y: 30 }}
+                                transition={{ type: "spring", damping: 25, stiffness: 350 }}
+                                onClick={(e) => e.stopPropagation()}
+                                className="bg-white rounded-[2.5rem] max-w-4xl w-full relative shadow-2xl border border-gray-100 overflow-hidden flex flex-col md:flex-row max-h-[90dvh] md:max-h-[85dvh]"
+                            >
+                                {/* Botão de Fechar */}
+                                <button
+                                    onClick={() => setSelectedProduct(null)}
+                                    className="absolute top-6 right-6 p-2 bg-gray-100 hover:bg-gray-200 text-gray-500 rounded-full transition-all active:scale-95 z-20"
+                                >
+                                    <X className="w-6 h-6" />
+                                </button>
+
+                                {/* Lado Esquerdo: Área de Zoom da Imagem */}
+                                <div className="flex-1 bg-[#f8fafc] p-6 md:p-8 flex items-center justify-center relative overflow-hidden min-h-[280px] sm:min-h-[350px] md:min-h-[450px]">
+                                    <div
+                                        className="relative overflow-hidden cursor-zoom-in aspect-square w-full max-w-[340px] bg-white rounded-2xl flex items-center justify-center shadow-inner border border-gray-100/50"
+                                        onMouseEnter={() => setIsZoomed(true)}
+                                        onMouseLeave={() => {
+                                            setIsZoomed(false);
+                                            setZoomPos({ x: 50, y: 50 });
+                                        }}
+                                        onMouseMove={handleMouseMove}
+                                    >
+                                        <img
+                                            src={selectedProduct.imageUrl || selectedProduct.image}
+                                            alt={selectedProduct.name}
+                                            className="max-h-[85%] max-w-[85%] object-contain transition-transform duration-200 ease-out select-none pointer-events-none"
+                                            style={{
+                                                transform: isZoomed ? `scale(2.2)` : `scale(1)`,
+                                                transformOrigin: `${zoomPos.x}% ${zoomPos.y}%`,
+                                            }}
+                                            onError={(e) => {
+                                                const target = e.target as HTMLImageElement;
+                                                target.src = `https://placehold.co/400x400/f8fafc/153243?text=${encodeURIComponent(selectedProduct.name)}`;
+                                            }}
+                                        />
+                                    </div>
+                                </div>
+
+                                {/* Lado Direito: Informações */}
+                                <div className="flex-1 p-6 md:p-8 flex flex-col justify-between overflow-y-auto max-h-[350px] md:max-h-[none]">
+                                    <div>
+                                        {/* Categoria */}
+                                        <span className="text-[10px] font-bold text-teal uppercase tracking-widest block mb-2">
+                                            {categories.find(c => c.id === selectedProduct.category)?.label}
+                                        </span>
+                                        
+                                        {/* Título */}
+                                        <h3 className="text-navy font-bold text-xl md:text-2xl tracking-tight leading-tight mb-4">
+                                            {selectedProduct.name}
+                                        </h3>
+
+                                        {/* Badges */}
+                                        {selectedProduct.badges && selectedProduct.badges.length > 0 && (
+                                            <div className="flex flex-wrap gap-1.5 mb-4">
+                                                {selectedProduct.badges.map(badge => (
+                                                    <span
+                                                        key={badge}
+                                                        className="bg-gold text-navy font-bold text-[9px] uppercase tracking-wider px-2.5 py-1 rounded-full"
+                                                    >
+                                                        {badge}
+                                                    </span>
+                                                ))}
+                                            </div>
+                                        )}
+
+                                        {/* Descrição */}
+                                        <p className="text-slate-600 text-sm leading-relaxed mb-6">
+                                            {selectedProduct.description}
+                                        </p>
+
+                                        {/* Especificações */}
+                                        {selectedProduct.specs && selectedProduct.specs.length > 0 && (
+                                            <div className="space-y-2">
+                                                <h5 className="text-[10px] font-bold text-navy uppercase tracking-widest">Especificações</h5>
+                                                <div className="flex flex-wrap gap-2">
+                                                    {selectedProduct.specs.map(spec => (
+                                                        <div
+                                                            key={spec.label}
+                                                            className="text-xs px-3 py-1.5 bg-gray-50 border border-gray-100 text-gray-600 rounded-xl"
+                                                        >
+                                                            <span className="font-semibold text-navy">{spec.label}: </span>
+                                                            {spec.value}
+                                                        </div>
+                                                    ))}
+                                                </div>
+                                            </div>
+                                        )}
+                                    </div>
+
+                                    {/* Rodapé e CTA */}
+                                    <div className="mt-8 pt-6 border-t border-gray-100 flex items-center justify-between gap-4">
+                                        <span className="text-xs font-bold text-slate-400">
+                                            {selectedProduct.brand || 'LEVER'}
+                                        </span>
+                                        
+                                        <a
+                                            href={`https://wa.me/557191068208?text=Olá, gostaria de solicitar um orçamento para o produto: ${encodeURIComponent(selectedProduct.name)}`}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="bg-navy hover:bg-cyan text-white text-xs font-bold px-5 py-3 rounded-xl transition-all duration-300 flex items-center gap-2 shadow-md shadow-navy/10 active:scale-95"
+                                        >
+                                            <MessageCircle className="w-4 h-4" />
+                                            <span>Solicitar Orçamento</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </motion.div>
+                        </motion.div>
+                    </>
+                )}
+            </AnimatePresence>
         </section>
     );
 }
