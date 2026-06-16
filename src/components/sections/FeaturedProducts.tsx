@@ -139,15 +139,18 @@ export function FeaturedProducts() {
         setZoomPos({ x, y });
     };
 
-    // Bloquear o scroll do body quando o modal estiver aberto
+    // Bloquear o scroll do body e html quando o modal estiver aberto
     useEffect(() => {
         if (selectedProduct) {
             document.body.style.overflow = 'hidden';
+            document.documentElement.style.overflow = 'hidden';
         } else {
             document.body.style.overflow = '';
+            document.documentElement.style.overflow = '';
         }
         return () => {
             document.body.style.overflow = '';
+            document.documentElement.style.overflow = '';
         };
     }, [selectedProduct]);
 
@@ -208,6 +211,7 @@ export function FeaturedProducts() {
                             exit={{ opacity: 0 }}
                             onClick={() => setSelectedProduct(null)}
                             className="fixed inset-0 bg-navy/80 backdrop-blur-xl z-[100] flex items-center justify-center p-4 md:p-6"
+                            data-lenis-prevent
                         >
                             {/* Card do Modal */}
                             <motion.div
