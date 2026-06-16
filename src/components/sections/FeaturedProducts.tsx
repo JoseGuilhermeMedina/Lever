@@ -139,6 +139,18 @@ export function FeaturedProducts() {
         setZoomPos({ x, y });
     };
 
+    // Bloquear o scroll do body quando o modal estiver aberto
+    useEffect(() => {
+        if (selectedProduct) {
+            document.body.style.overflow = 'hidden';
+        } else {
+            document.body.style.overflow = '';
+        }
+        return () => {
+            document.body.style.overflow = '';
+        };
+    }, [selectedProduct]);
+
     return (
         <section id="produtos" className="py-16 md:py-24 bg-white">
             <div className="container mx-auto px-4 md:px-6">
@@ -242,7 +254,7 @@ export function FeaturedProducts() {
                                 </div>
 
                                 {/* Lado Direito: Informações */}
-                                <div className="flex-1 p-6 md:p-8 flex flex-col justify-between overflow-y-auto max-h-[350px] md:max-h-[none]">
+                                <div className="flex-1 p-6 md:p-8 flex flex-col justify-between overflow-y-auto max-h-[400px] md:max-h-[80dvh]">
                                     <div>
                                         {/* Categoria */}
                                         <span className="text-[10px] font-bold text-teal uppercase tracking-widest block mb-2">

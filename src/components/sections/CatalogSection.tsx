@@ -36,6 +36,18 @@ export function CatalogSection() {
         setCurrentPage(1);
     }, [selectedCategory, selectedSubcategory, selectedBrand, searchQuery]);
 
+    // Bloquear o scroll do body quando o modal estiver aberto
+    useEffect(() => {
+        if (selectedProduct) {
+            document.body.style.overflow = 'hidden';
+        } else {
+            document.body.style.overflow = '';
+        }
+        return () => {
+            document.body.style.overflow = '';
+        };
+    }, [selectedProduct]);
+
 
 
     // Filtro principal de produtos
@@ -565,7 +577,7 @@ export function CatalogSection() {
                                 </div>
 
                                 {/* Lado Direito: Informações */}
-                                <div className="flex-1 p-6 md:p-8 flex flex-col justify-between overflow-y-auto max-h-[350px] md:max-h-[none]">
+                                <div className="flex-1 p-6 md:p-8 flex flex-col justify-between overflow-y-auto max-h-[400px] md:max-h-[80dvh]">
                                     <div>
                                         {/* Categoria */}
                                         <span className="text-[10px] font-bold text-cyan uppercase tracking-widest block mb-2">
