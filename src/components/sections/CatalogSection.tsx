@@ -1,6 +1,6 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Search, Filter, ChevronRight, Package, MessageCircle, X } from 'lucide-react';
+import { Search, Filter, ChevronRight, Package, MessageCircle, X, ChevronLeft } from 'lucide-react';
 import { BrandsGrid } from './BrandsGrid';
 import { staticProducts as subcategoriesData } from '../../data/staticProducts';
 import { staticProducts as productsData } from '../../data/products';
@@ -15,6 +15,10 @@ export function CatalogSection() {
     const [searchQuery, setSearchQuery] = useState('');
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
+    // Estados de Paginação
+    const [currentPage, setCurrentPage] = useState(1);
+    const ITEMS_PER_PAGE = 12;
+
     // Estados e lógica para o Zoom Cinemático do Produto
     const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
     const [zoomPos, setZoomPos] = useState({ x: 0, y: 0 });
@@ -26,6 +30,12 @@ export function CatalogSection() {
         const y = ((e.clientY - top) / height) * 100;
         setZoomPos({ x, y });
     };
+
+    // Resetar página quando os filtros mudarem
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [selectedCategory, selectedSubcategory, selectedBrand, searchQuery]);
+
 
 
     // Filtro principal de produtos
@@ -55,6 +65,58 @@ export function CatalogSection() {
     const handleCategorySelect = (categoryId: string | 'all') => {
         setSelectedCategory(categoryId);
         setSelectedSubcategory('all');
+    };
+
+    // Paginação: Produtos da Página Atual
+    const paginatedProducts = useMemo(() => {
+        const start = (currentPage - 1) * ITEMS_PER_PAGE;
+        return filteredProducts.slice(start, start + ITEMS_PER_PAGE);
+    }, [filteredProducts, currentPage]);
+
+    // Total de Páginas
+    const totalPages = useMemo(() => {
+        return Math.ceil(filteredProducts.length / ITEMS_PER_PAGE);
+    }, [filteredProducts.length]);
+
+    // Lógica para gerar os números das páginas com reticências (...)
+    const getPageNumbers = useMemo(() => {
+        const pages: (number | string)[] = [];
+        const delta = 1;
+        
+        if (totalPages <= 7) {
+            for (let i = 1; i <= totalPages; i++) {
+                pages.push(i);
+            }
+        } else {
+            if (currentPage <= 4) {
+                for (let i = 1; i <= 5; i++) {
+                    pages.push(i);
+                }
+                pages.push('...');
+                pages.push(totalPages);
+            } else if (currentPage >= totalPages - 3) {
+                pages.push(1);
+                pages.push('...');
+                for (let i = totalPages - 4; i <= totalPages; i++) {
+                    pages.push(i);
+                }
+            } else {
+                pages.push(1);
+                pages.push('...');
+                for (let i = currentPage - delta; i <= currentPage + delta; i++) {
+                    pages.push(i);
+                }
+                pages.push('...');
+                pages.push(totalPages);
+            }
+        }
+        return pages;
+    }, [currentPage, totalPages]);
+
+    // Trocar de página e rolar suavemente de volta ao catálogo
+    const handlePageChange = (page: number) => {
+        setCurrentPage(page);
+        document.getElementById('catalogo')?.scrollIntoView({ behavior: 'smooth' });
     };
 
     return (
@@ -163,7 +225,7 @@ export function CatalogSection() {
                             <AnimatePresence mode="wait">
                                 {filteredProducts.length > 0 ? (
                                     <motion.div
-                                        key={`${selectedBrand}-${selectedCategory}-${selectedSubcategory}-${searchQuery}`}
+                                        key={`${selectedBrand}-${selectedCategory}-${selectedSubcategory}-${searchQuery}-${currentPage}`}
                                         initial={{ opacity: 0 }}
                                         animate={{ opacity: 1 }}
                                         exit={{ opacity: 0 }}
@@ -194,7 +256,7 @@ export function CatalogSection() {
                                         </div>
 
                                         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
-                                            {filteredProducts.map((item, idx) => (
+                                            {paginatedProducts.map((item, idx) => (
                                                 <motion.div 
                                                     key={item.id}
                                                     initial={{ opacity: 0, y: 20 }}
@@ -287,6 +349,56 @@ export function CatalogSection() {
                                                 </motion.div>
                                             ))}
                                         </div>
+
+                                        {/* Componente de Paginação */}
+                                        {totalPages > 1 && (
+                                            <div className="flex items-center justify-center gap-2 mt-12 pt-6 border-t border-gray-100">
+                                                <button
+                                                    onClick={() => handlePageChange(currentPage - 1)}
+                                                    disabled={currentPage === 1}
+                                                    className="p-2.5 rounded-xl border border-gray-200 bg-white text-navy hover:text-cyan hover:border-cyan/50 disabled:opacity-50 disabled:hover:text-navy disabled:hover:border-gray-200 disabled:cursor-not-allowed transition-all duration-200 active:scale-95 flex items-center justify-center shadow-sm"
+                                                    aria-label="Página Anterior"
+                                                >
+                                                    <ChevronLeft className="w-5 h-5" />
+                                                </button>
+
+                                                <div className="flex items-center gap-1.5">
+                                                    {getPageNumbers.map((page, index) => {
+                                                        if (page === '...') {
+                                                            return (
+                                                                <span key={`ellipsis-${index}`} className="px-3 py-2 text-gray-400 font-semibold select-none">
+                                                                    ...
+                                                                </span>
+                                                            );
+                                                        }
+
+                                                        const isCurrent = page === currentPage;
+                                                        return (
+                                                            <button
+                                                                key={`page-${page}`}
+                                                                onClick={() => handlePageChange(page as number)}
+                                                                className={`min-w-[42px] h-[42px] rounded-xl font-bold text-sm transition-all duration-300 active:scale-95 flex items-center justify-center shadow-sm ${
+                                                                    isCurrent
+                                                                        ? 'bg-cyan text-white shadow-lg shadow-cyan/20'
+                                                                        : 'bg-white border border-gray-200 text-navy hover:border-cyan/50 hover:text-cyan'
+                                                                }`}
+                                                            >
+                                                                {page}
+                                                            </button>
+                                                        );
+                                                    })}
+                                                </div>
+
+                                                <button
+                                                    onClick={() => handlePageChange(currentPage + 1)}
+                                                    disabled={currentPage === totalPages}
+                                                    className="p-2.5 rounded-xl border border-gray-200 bg-white text-navy hover:text-cyan hover:border-cyan/50 disabled:opacity-50 disabled:hover:text-navy disabled:hover:border-gray-200 disabled:cursor-not-allowed transition-all duration-200 active:scale-95 flex items-center justify-center shadow-sm"
+                                                    aria-label="Próxima Página"
+                                                >
+                                                    <ChevronRight className="w-5 h-5" />
+                                                </button>
+                                            </div>
+                                        )}
                                     </motion.div>
                                 ) : (
                                     <div className="text-center py-32 bg-white rounded-3xl border border-gray-100 shadow-sm max-w-4xl mx-auto">
